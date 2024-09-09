@@ -73,5 +73,5 @@ def espn_schedule(sport: str) -> dict:
             'url': game_url,
             'date': game_date
         }
-        
+    
     return data

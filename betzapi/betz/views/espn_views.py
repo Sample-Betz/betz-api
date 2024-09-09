@@ -23,6 +23,10 @@ def win_percentage(request: HttpRequest):
     api_response = espn_win_percentage(game_id)
     if 'error' in api_response:
         return JsonResponse(api_response, status=400)
+    elif not api_response:
+        return JsonResponse({})
+    
+    # Unpack the response
     wp_home, wp_away = api_response
     
     return JsonResponse({
@@ -46,6 +50,7 @@ def schedule(request: HttpRequest):
         return error('Invalid sport', 400)
     
     data = espn_schedule(sport)
-    if not data: return error('ESPN error', 500)
+    if not data: 
+        return JsonResponse({})
     
     return JsonResponse( data )
