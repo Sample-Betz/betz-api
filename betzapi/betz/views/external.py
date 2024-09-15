@@ -1,16 +1,17 @@
 import requests
 from bs4 import BeautifulSoup
+# from django.conf import settings
 
-# https://gist.github.com/akeaswaran/b48b02f1c94f873c6655e7129910fc3b
+from utils import espn_sport_conversion, odds_sport_conversion, market
 
-##### UTILS #####
+##### CONSTANTS #####
 
-sport_conversion = {
-    'nfl': 'football/nfl',
-    'nba': 'basketball/nba',
-    'nhl': 'hockey/nhl',
-    'mlb': 'baseball/mlb'
-}
+ESPN_ENDPOINT = 'https://www.espn.com'
+ESPN_API_ENDPOINT = 'https://site.api.espn.com'
+ODDS_ENDPOINT = 'https://api.the-odds-api.com'
+
+# ODDS_API_KEY = settings.ODDS_API 
+ODDS_API_KEY = 'acfb03ce9acfe3c4698d23432a6f7463'
 
 ##### ESPN API #####
 
@@ -25,7 +26,8 @@ def espn_win_percentage(game_id: int) -> tuple | str:
         "Upgrade-Insecure-Requests": "1"
     }
     
-    url = f'https://www.espn.com/nfl/game/_/gameId/{game_id}'
+    # FIX 
+    url = f'{ESPN_ENDPOINT}/nfl/game/_/gameId/{game_id}'
     response = requests.get(url, headers=headers)
     if response.status_code != 200:
         return None
@@ -46,7 +48,7 @@ def espn_win_percentage(game_id: int) -> tuple | str:
 
 def espn_schedule(sport: str) -> dict:
     
-    url = f'https://site.api.espn.com/apis/site/v2/sports/{sport_conversion[sport]}/scoreboard'
+    url = f'{ESPN_API_ENDPOINT}/apis/site/v2/sports/{espn_sport_conversion[sport]}/scoreboard'
     response = requests.get(url)
     if response.status_code != 200:
         return None
@@ -75,3 +77,267 @@ def espn_schedule(sport: str) -> dict:
         }
     
     return data
+
+
+##### ODDS API #####
+
+def get_odds(sport: str, mkt: str, platform: 'list[str]') -> dict:
+    
+    params = {
+        'api_key': ODDS_API_KEY,
+        'region': 'us',
+        'oddsFormat': 'american',
+        'market': market[mkt],
+        'bookmakers': (',').join(platform)
+    }
+    
+    # example
+    # https://api.the-odds-api.com/v4/sports/baseball_mlb/odds/?api_key=acfb03ce9acfe3c4698d23432a6f7463&region=us&oddsFormat=american&market=h2h&bookmakers=fliff
+    
+    url = f'{ODDS_ENDPOINT}/v4/sports/{odds_sport_conversion[sport]}/odds/'
+    response = requests.get(url, params=params)
+    if response.status_code != 200:
+        return None
+    
+    data = {}
+    response_data = response.json()
+    
+    # loop through upcoming games
+    for game in response_data:
+        home_team = game['home_team']
+        away_team = game['away_team']
+        espn_name = f'{away_team} at {home_team}' # ESPN formatted name
+        
+        # initialize the data
+        data[espn_name] = {}
+        data[espn_name]['home_team'] = home_team
+        data[espn_name]['away_team'] = away_team
+        
+        # loop through each bookmarker or platform (e.g. fliff)
+        bookmakers = game['bookmakers']
+        for bookmaker in bookmakers:
+            bookmaker_name = bookmaker['key']
+            
+            # intialize bookmaker data
+            data[espn_name][bookmaker_name] = {}
+            
+            # loop through each market (e.g. h2h)
+            bookmaker_markets = bookmaker['markets']
+            for bookmaker_market in bookmaker_markets:
+                market_name = bookmaker_market['key']
+                
+                outcomes = {}
+                for outcome in bookmaker_market['outcomes']:
+                    outcome_name = outcome['name']
+                    outcome_odds = outcome['price']
+                    
+                    outcomes[outcome_name] = outcome_odds
+                    
+                data[espn_name][bookmaker_name][market_name] = outcomes
+                
+    return data
+                
+data = get_odds('nfl', 'moneyline', ['fliff']) 
+print(data)
+
+""" 
+{
+    'name': {
+        'home_team': 'team',
+        'away_team': 'team',
+        'bookmaker': [
+            {
+                'platform': platform,
+                'market': [
+                    {
+                        'type': 'market',
+                        'odd1': 'odd1',
+                        'odd2': 'odd2',
+                    },
+                    {
+                        'type': 'market',
+                        'odd1': 'odd1',
+                        'odd2': 'odd2',
+                    }
+                ]
+            },
+            {
+                'platform': platform,
+                'market': [
+                    {
+                        'type': 'market',
+                        'odd1': 'odd1',
+                        'odd2': 'odd2',
+                    },
+                    {
+                        'type': 'market',
+                        'odd1': 'odd1',
+                        'odd2': 'odd2',
+                    }
+                ]
+            }
+        ]
+    }   
+}
+
+{
+  'New York Jets at San Francisco 49ers': {
+    'home_team': 'San Francisco 49ers',
+    'away_team': 'New York Jets',
+    'fliff': {
+      'h2h': {
+        'New York Jets': 160,
+        'San Francisco 49ers': -230
+      }
+    }
+  },
+  'Buffalo Bills at Miami Dolphins': {
+    'home_team': 'Miami Dolphins',
+    'away_team': 'Buffalo Bills',
+    'fliff': {
+      'h2h': {
+        'Buffalo Bills': 100,
+        'Miami Dolphins': -130
+      }
+    }
+  },
+  'Indianapolis Colts at Green Bay Packers': {
+    'home_team': 'Green Bay Packers',
+    'away_team': 'Indianapolis Colts',
+    'fliff': {
+      'h2h': {
+        'Green Bay Packers': 140,
+        'Indianapolis Colts': -195
+      }
+    }
+  },
+  'Las Vegas Raiders at Baltimore Ravens': {
+    'home_team': 'Baltimore Ravens',
+    'away_team': 'Las Vegas Raiders',
+    'fliff': {
+      'h2h': {
+        'Baltimore Ravens': -530,
+        'Las Vegas Raiders': 335
+      }
+    }
+  },
+  'Los Angeles Chargers at Carolina Panthers': {
+    'home_team': 'Carolina Panthers',
+    'away_team': 'Los Angeles Chargers',
+    'fliff': {
+      'h2h': {
+        'Carolina Panthers': 210,
+        'Los Angeles Chargers': -305
+      }
+    }
+  },
+  'Cleveland Browns at Jacksonville Jaguars': {
+    'home_team': 'Jacksonville Jaguars',
+    'away_team': 'Cleveland Browns',
+    'fliff': {
+      'h2h': {
+        'Cleveland Browns': 155,
+        'Jacksonville Jaguars': -195
+      }
+    }
+  },
+  'New Orleans Saints at Dallas Cowboys': {
+    'home_team': 'Dallas Cowboys',
+    'away_team': 'New Orleans Saints',
+    'fliff': {
+      'h2h': {
+        'Dallas Cowboys': -335,
+        'New Orleans Saints': 230
+      }
+    }
+  },
+  'Tampa Bay Buccaneers at Detroit Lions': {
+    'home_team': 'Detroit Lions',
+    'away_team': 'Tampa Bay Buccaneers',
+    'fliff': {
+      'h2h': {
+        'Detroit Lions': -325,
+        'Tampa Bay Buccaneers': 255
+      }
+    }
+  },
+  'San Francisco 49ers at Minnesota Vikings': {
+    'home_team': 'Minnesota Vikings',
+    'away_team': 'San Francisco 49ers',
+    'fliff': {
+      'h2h': {
+        'Minnesota Vikings': 185,
+        'San Francisco 49ers': -255
+      }
+    }
+  },
+  'Seattle Seahawks at New England Patriots': {
+    'home_team': 'New England Patriots',
+    'away_team': 'Seattle Seahawks',
+    'fliff': {
+      'h2h': {
+        'New England Patriots': 140,
+        'Seattle Seahawks': -190
+      }
+    }
+  },
+  'New York Giants at Washington Commanders': {
+    'home_team': 'Washington Commanders',
+    'away_team': 'New York Giants',
+    'fliff': {
+      'h2h': {
+        'New York Giants': 120,
+        'Washington Commanders': -145
+      }
+    }
+  },
+  'New York Jets at Tennessee Titans': {
+    'home_team': 'Tennessee Titans',
+    'away_team': 'New York Jets'
+  },
+  'Los Angeles Rams at Arizona Cardinals': {
+    'home_team': 'Arizona Cardinals',
+    'away_team': 'Los Angeles Rams',
+    'fliff': {
+      'h2h': {
+        'Arizona Cardinals': -125,
+        'Los Angeles Rams': -115
+      }
+    }
+  },
+  'Cincinnati Bengals at Kansas City Chiefs': {
+    'home_team': 'Kansas City Chiefs',
+    'away_team': 'Cincinnati Bengals',
+    'fliff': {
+      'h2h': {
+        'Cincinnati Bengals': 195,
+        'Kansas City Chiefs': -270
+      }
+    }
+  },
+  'Pittsburgh Steelers at Denver Broncos': {
+    'home_team': 'Denver Broncos',
+    'away_team': 'Pittsburgh Steelers',
+    'fliff': {
+      'h2h': {
+        'Denver Broncos': 140,
+        'Pittsburgh Steelers': -175
+      }
+    }
+  },
+  'Chicago Bears at Houston Texans': {
+    'home_team': 'Houston Texans',
+    'away_team': 'Chicago Bears',
+    'fliff': {
+      'h2h': {
+        'Chicago Bears': 230,
+        'Houston Texans': -330
+      }
+    }
+  },
+  'Atlanta Falcons at Philadelphia Eagles': {
+    'home_team': 'Philadelphia Eagles',
+    'away_team': 'Atlanta Falcons'
+  }
+}
+"""
