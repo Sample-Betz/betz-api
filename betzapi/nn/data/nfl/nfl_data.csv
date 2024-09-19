@@ -1,0 +1,513 @@
+Week,Team,Opponent,Is Home,Is Win,QBR,Passing Rating,Rushing Yards Per Attempt,Defense Passing Yards,Defense Rushing Yards,Defense Turnovers
+1,crd,San Francisco 49ers,1,1,77.5,77.5,5.0,243,123,0
+2,crd,Washington Football Team,0,1,87.39,87.4,5.0,199,117,2
+3,crd,Detroit Lions,0,0,72.08,72.1,4.0,232,90,0
+4,crd,Carolina Panthers,1,0,116.73,116.7,5.6,276,168,1
+5,crd,New York Jets,1,1,102.2,102.2,4.2,162,123,0
+6,crd,Dallas Cowboys,1,1,91.84,91.8,7.5,247,97,4
+7,crd,Seattle Seahawks,0,1,104.51,104.5,4.8,372,200,3
+9,crd,Miami Dolphins,0,0,150.16,147.4,4.8,221,91,0
+10,crd,Buffalo Bills,0,1,87.5,87.5,6.2,296,73,2
+11,crd,Seattle Seahawks,1,0,100.99,101.0,3.2,182,165,0
+12,crd,New England Patriots,1,0,65.81,65.8,4.1,69,110,2
+13,crd,Los Angeles Rams,0,0,76.87,76.9,4.4,344,119,1
+14,crd,New York Giants,1,1,96.25,96.2,3.7,81,78,3
+15,crd,Philadelphia Eagles,0,1,128.55,128.5,3.4,305,117,0
+16,crd,San Francisco 49ers,0,0,64.58,64.6,4.4,171,227,1
+17,crd,Los Angeles Rams,1,0,83.26,83.3,2.7,223,110,2
+1,atl,Seattle Seahawks,0,0,97.3,97.3,3.4,299,84,0
+2,atl,Dallas Cowboys,1,0,122.24,122.2,3.3,445,125,3
+3,atl,Chicago Bears,0,0,66.45,66.4,5.8,307,130,2
+4,atl,Green Bay Packers,1,0,88.51,88.5,3.1,315,88,0
+5,atl,Carolina Panthers,0,0,61.43,61.4,6.9,313,124,0
+6,atl,Minnesota Vikings,1,1,135.73,135.7,2.7,333,32,3
+7,atl,Detroit Lions,0,0,103.47,103.5,2.5,322,64,0
+8,atl,Carolina Panthers,1,1,84.03,84.0,3.6,157,147,1
+9,atl,Denver Broncos,0,1,110.54,110.5,2.9,302,103,1
+11,atl,New Orleans Saints,1,0,44.43,44.4,3.7,210,166,1
+12,atl,Las Vegas Raiders,0,1,74.63,74.6,3.9,203,40,5
+13,atl,New Orleans Saints,0,0,79.22,79.2,3.3,217,207,1
+14,atl,Los Angeles Chargers,1,0,71.4,71.4,3.5,240,105,1
+15,atl,Tampa Bay Buccaneers,0,0,108.55,108.5,2.8,365,51,0
+16,atl,Kansas City Chiefs,1,0,118.39,118.4,3.9,278,117,2
+17,atl,Tampa Bay Buccaneers,1,0,96.59,96.6,4.9,391,94,1
+1,rav,Cleveland Browns,0,1,151.12,148.4,3.7,168,138,3
+2,rav,Houston Texans,1,1,109.2,109.2,6.2,253,51,2
+3,rav,Kansas City Chiefs,0,0,71.13,71.1,7.5,385,132,1
+4,rav,Washington Football Team,1,1,86.5,86.5,4.5,274,69,1
+5,rav,Cincinnati Bengals,0,1,70.89,70.9,6.7,135,70,3
+6,rav,Philadelphia Eagles,1,1,90.51,90.5,4.9,170,194,1
+8,rav,Pittsburgh Steelers,0,0,63.39,63.4,5.6,173,48,1
+9,rav,Indianapolis Colts,1,1,99.18,94.9,2.9,227,112,2
+10,rav,New England Patriots,1,0,97.92,97.9,4.1,135,173,0
+11,rav,Tennessee Titans,0,0,73.49,73.5,3.9,250,173,1
+12,rav,Pittsburgh Steelers,1,0,59.95,60.0,4.6,266,68,2
+13,rav,Dallas Cowboys,0,1,101.84,101.8,7.9,277,111,1
+14,rav,Cleveland Browns,1,1,96.13,96.1,7.2,355,138,1
+15,rav,Jacksonville Jaguars,0,1,125.48,125.5,4.3,205,62,1
+16,rav,New York Giants,0,1,111.54,111.5,6.2,215,54,0
+17,rav,Cincinnati Bengals,1,1,107.57,94.5,7.5,48,147,2
+1,buf,New York Jets,0,1,104.08,104.1,3.1,202,52,2
+2,buf,Miami Dolphins,1,1,146.25,146.2,4.9,311,99,0
+3,buf,Los Angeles Rams,0,1,125.06,124.2,4.8,311,167,2
+4,buf,Las Vegas Raiders,1,1,114.09,114.1,2.6,297,86,2
+5,buf,Tennessee Titans,1,0,75.91,75.9,4.3,195,139,0
+6,buf,Kansas City Chiefs,0,0,73.38,73.4,3.7,221,245,1
+7,buf,New York Jets,1,1,88.91,88.9,4.7,91,100,2
+8,buf,New England Patriots,0,1,64.35,64.4,5.0,161,188,1
+9,buf,Seattle Seahawks,0,1,138.71,135.3,1.8,362,57,4
+10,buf,Arizona Cardinals,1,0,85.08,85.1,4.1,236,217,2
+12,buf,Los Angeles Chargers,0,1,102.08,102.1,5.7,291,76,1
+13,buf,San Francisco 49ers,1,1,140.42,138.3,3.0,316,86,2
+14,buf,Pittsburgh Steelers,0,1,76.7,76.7,3.9,177,47,2
+15,buf,Denver Broncos,1,1,113.75,113.7,7.6,115,140,1
+16,buf,New England Patriots,1,1,133.75,133.7,4.2,56,145,0
+17,buf,Miami Dolphins,0,1,109.21,109.2,3.1,384,70,4
+1,car,Las Vegas Raiders,0,0,97.55,97.5,4.3,239,133,0
+2,car,Tampa Bay Buccaneers,1,0,81.45,80.6,3.6,217,122,2
+3,car,Los Angeles Chargers,1,1,112.35,111.5,3.9,319,117,4
+4,car,Arizona Cardinals,0,1,98.48,98.5,4.8,133,129,1
+5,car,Atlanta Falcons,1,1,119.33,119.3,4.6,207,166,1
+6,car,Chicago Bears,0,0,46.77,46.8,3.9,198,63,1
+7,car,New Orleans Saints,1,0,130.95,127.1,2.6,277,138,1
+8,car,Atlanta Falcons,0,0,72.61,72.6,6.7,270,131,1
+9,car,Kansas City Chiefs,1,0,104.67,104.7,4.3,361,36,1
+10,car,Tampa Bay Buccaneers,0,0,88.69,88.7,4.1,334,210,1
+11,car,Detroit Lions,0,1,75.65,75.7,3.4,145,40,1
+12,car,Minnesota Vikings,1,0,74.65,74.7,3.8,291,96,3
+14,car,Denver Broncos,0,0,90.1,90.1,6.0,269,96,1
+15,car,Green Bay Packers,1,0,81.73,81.7,4.3,96,195,0
+16,car,Washington Football Team,1,1,80.51,80.5,3.2,278,108,4
+17,car,New Orleans Saints,0,0,30.74,30.7,3.7,191,156,0
+1,chi,Detroit Lions,1,1,100.93,100.9,5.3,288,138,1
+2,chi,New York Giants,0,1,74.85,74.9,4.2,220,75,2
+3,chi,Atlanta Falcons,1,1,84.35,84.4,5.2,227,144,1
+4,chi,Indianapolis Colts,0,0,75.6,75.6,1.8,186,103,0
+5,chi,Tampa Bay Buccaneers,0,1,80.26,80.3,2.5,233,106,1
+6,chi,Carolina Panthers,1,1,70.25,70.2,2.5,191,112,3
+7,chi,Los Angeles Rams,1,0,63.54,63.5,2.9,211,160,1
+8,chi,New Orleans Saints,0,0,88.77,88.8,4.2,272,122,0
+9,chi,Tennessee Titans,1,0,98.16,98.2,2.8,136,92,0
+10,chi,Minnesota Vikings,0,0,46.17,46.2,2.4,286,99,2
+12,chi,Green Bay Packers,1,0,73.55,73.6,7.6,211,182,0
+13,chi,Detroit Lions,0,0,106.13,106.1,4.5,400,60,1
+14,chi,Houston Texans,0,1,123.42,123.4,7.3,155,108,2
+15,chi,Minnesota Vikings,1,1,96.92,96.9,4.7,249,158,1
+16,chi,Jacksonville Jaguars,1,1,95.02,95.0,3.9,203,76,2
+17,chi,Green Bay Packers,0,0,82.24,81.3,3.5,237,79,1
+1,cin,Los Angeles Chargers,0,0,63.77,63.8,4.4,207,155,0
+2,cin,Cleveland Browns,1,0,88.49,88.5,2.8,219,215,1
+3,cin,Philadelphia Eagles,1,0,100.19,100.2,2.7,206,172,2
+4,cin,Jacksonville Jaguars,0,1,92.36,92.4,6.0,340,89,1
+5,cin,Baltimore Ravens,1,0,59.72,59.7,2.5,171,161,1
+6,cin,Indianapolis Colts,1,0,76.87,76.9,3.1,371,59,2
+7,cin,Cleveland Browns,0,0,110.33,110.3,3.9,316,82,1
+8,cin,Tennessee Titans,0,1,106.7,106.7,3.7,223,218,1
+10,cin,Pittsburgh Steelers,1,0,73.44,73.4,6.6,333,44,0
+11,cin,Washington Football Team,1,0,66.67,66.7,3.9,161,164,1
+12,cin,New York Giants,0,0,64.58,64.6,2.7,244,142,1
+13,cin,Miami Dolphins,1,0,60.11,60.1,2.4,296,110,1
+14,cin,Dallas Cowboys,0,0,95.07,95.1,3.4,171,101,0
+15,cin,Pittsburgh Steelers,0,1,97.6,97.6,3.7,158,86,3
+16,cin,Houston Texans,1,1,123.9,123.9,5.1,322,166,1
+17,cin,Baltimore Ravens,0,0,0.0,0.0,7.7,121,404,1
+1,cle,Baltimore Ravens,1,0,62.77,62.8,5.1,270,111,1
+2,cle,Cincinnati Bengals,0,1,110.6,110.6,6.1,285,68,1
+3,cle,Washington Football Team,0,1,114.76,114.8,4.3,206,103,5
+4,cle,Dallas Cowboys,1,1,115.12,115.1,7.7,481,85,3
+5,cle,Indianapolis Colts,0,1,74.56,74.6,3.8,240,68,2
+6,cle,Pittsburgh Steelers,1,0,50.45,50.4,3.4,148,129,0
+7,cle,Cincinnati Bengals,1,1,156.68,137.3,3.7,387,81,2
+8,cle,Las Vegas Raiders,0,0,62.42,62.4,4.6,100,209,0
+10,cle,Houston Texans,0,1,78.12,78.1,5.6,153,90,0
+11,cle,Philadelphia Eagles,0,1,82.95,83.0,3.4,209,106,3
+12,cle,Jacksonville Jaguars,1,1,115.88,115.9,6.3,235,140,0
+13,cle,Tennessee Titans,1,1,146.69,146.7,3.3,369,62,3
+14,cle,Baltimore Ravens,0,0,88.45,88.5,4.9,154,231,0
+15,cle,New York Giants,1,1,130.47,124.7,3.5,214,74,0
+16,cle,New York Jets,1,0,66.08,66.1,2.5,202,131,0
+17,cle,Pittsburgh Steelers,0,1,92.52,92.5,6.2,309,85,1
+1,dal,Los Angeles Rams,1,0,90.12,90.1,5.0,269,153,1
+2,dal,Atlanta Falcons,0,1,104.55,104.5,4.0,267,113,0
+3,dal,Seattle Seahawks,1,0,92.8,92.8,2.9,295,117,1
+4,dal,Cleveland Browns,0,0,111.35,111.4,4.7,201,307,0
+5,dal,New York Giants,0,1,95.01,95.0,4.3,211,89,1
+6,dal,Arizona Cardinals,0,0,64.35,64.4,3.6,177,261,0
+7,dal,Washington Football Team,1,0,37.31,37.3,3.2,189,208,0
+8,dal,Philadelphia Eagles,1,0,59.58,59.6,3.8,103,119,4
+9,dal,Pittsburgh Steelers,0,0,70.07,70.1,4.6,309,46,0
+11,dal,Minnesota Vikings,1,1,103.12,103.1,5.8,305,125,2
+12,dal,Washington Football Team,0,0,81.49,81.5,3.3,156,182,1
+13,dal,Baltimore Ravens,1,0,85.16,85.2,4.0,107,294,1
+14,dal,Cincinnati Bengals,1,1,120.02,120.0,4.0,208,101,3
+15,dal,San Francisco 49ers,0,1,95.71,95.7,4.0,308,150,4
+16,dal,Philadelphia Eagles,0,1,132.92,132.9,4.4,326,151,3
+17,dal,New York Giants,1,0,62.28,62.3,4.0,211,125,2
+1,den,Tennessee Titans,0,0,95.01,95.0,4.1,247,130,0
+2,den,Pittsburgh Steelers,1,0,72.06,72.1,4.0,301,109,2
+3,den,Tampa Bay Buccaneers,0,0,62.34,62.3,3.0,285,68,0
+4,den,New York Jets,1,1,67.61,67.6,3.7,192,129,0
+6,den,New England Patriots,1,1,30.56,30.6,3.6,171,117,3
+7,den,Kansas City Chiefs,0,0,55.62,55.6,5.4,185,101,1
+8,den,Los Angeles Chargers,0,1,93.85,93.9,6.8,275,210,2
+9,den,Atlanta Falcons,1,0,76.91,76.9,4.7,271,92,1
+10,den,Las Vegas Raiders,1,0,36.39,36.4,3.5,154,203,0
+11,den,Miami Dolphins,0,1,75.69,75.7,5.7,167,56,1
+12,den,New Orleans Saints,0,0,0.0,0.0,3.0,63,229,1
+13,den,Kansas City Chiefs,1,0,63.24,63.2,5.4,313,134,0
+14,den,Carolina Panthers,1,1,157.79,147.8,3.2,245,125,0
+15,den,Buffalo Bills,0,0,79.56,79.6,5.0,352,182,1
+16,den,Los Angeles Chargers,1,0,50.22,50.2,4.8,227,89,0
+17,den,Las Vegas Raiders,0,0,102.08,102.1,3.8,359,106,4
+1,det,Chicago Bears,0,0,76.29,76.3,4.8,214,149,0
+2,det,Green Bay Packers,1,0,87.69,87.7,4.2,229,259,0
+3,det,Arizona Cardinals,1,1,113.91,113.9,3.3,268,109,3
+4,det,New Orleans Saints,0,0,92.27,92.3,4.1,228,164,1
+6,det,Jacksonville Jaguars,1,1,80.44,80.4,4.6,231,44,2
+7,det,Atlanta Falcons,1,1,106.48,106.5,3.0,322,66,1
+8,det,Indianapolis Colts,0,0,93.06,93.1,2.2,247,119,0
+9,det,Minnesota Vikings,1,0,73.56,73.6,4.8,212,275,0
+10,det,Washington Football Team,0,1,126.7,126.7,5.0,375,89,1
+11,det,Carolina Panthers,1,0,65.85,65.8,2.4,258,116,2
+12,det,Houston Texans,0,0,81.44,81.4,3.8,307,77,1
+13,det,Chicago Bears,1,1,109.23,109.2,2.7,249,140,1
+14,det,Green Bay Packers,0,0,91.88,91.9,3.4,290,120,0
+15,det,Tennessee Titans,1,0,92.76,92.8,4.6,268,195,0
+16,det,Tampa Bay Buccaneers,0,0,60.28,60.3,4.9,477,111,0
+17,det,Minnesota Vikings,0,0,113.37,113.4,5.9,383,125,0
+1,gnb,Minnesota Vikings,1,1,127.46,127.5,4.9,248,134,1
+2,gnb,Detroit Lions,0,1,106.11,106.1,7.4,218,89,1
+3,gnb,New Orleans Saints,1,1,123.31,123.3,3.8,275,122,1
+4,gnb,Atlanta Falcons,0,1,150.44,146.0,3.4,249,78,0
+6,gnb,Tampa Bay Buccaneers,1,0,29.11,29.1,4.5,166,158,0
+7,gnb,Houston Texans,1,1,132.35,132.4,3.6,286,79,1
+8,gnb,Minnesota Vikings,0,0,110.92,110.9,4.5,151,173,0
+9,gnb,San Francisco 49ers,1,1,151.81,145.8,3.6,282,55,2
+10,gnb,Jacksonville Jaguars,0,1,106.86,106.9,3.2,151,109,1
+11,gnb,Indianapolis Colts,1,0,109.65,109.6,3.7,280,140,2
+12,gnb,Chicago Bears,0,1,138.72,132.3,4.7,229,121,3
+13,gnb,Philadelphia Eagles,0,1,128.06,128.1,6.0,161,117,1
+14,gnb,Detroit Lions,1,1,134.66,133.6,3.9,242,51,0
+15,gnb,Carolina Panthers,0,1,84.84,84.8,7.2,249,115,1
+16,gnb,Tennessee Titans,0,1,144.42,125.2,6.3,104,156,2
+17,gnb,Chicago Bears,1,1,164.76,147.4,4.2,248,108,2
+1,htx,Kansas City Chiefs,1,0,83.07,83.1,5.4,203,166,0
+2,htx,Baltimore Ravens,0,0,86.92,86.9,3.0,177,230,0
+3,htx,Pittsburgh Steelers,1,0,105.63,105.6,1.9,218,169,0
+4,htx,Minnesota Vikings,0,0,109.41,109.4,3.7,248,162,0
+5,htx,Jacksonville Jaguars,0,1,108.87,108.9,5.9,289,75,2
+6,htx,Tennessee Titans,1,0,133.66,133.7,3.4,344,263,2
+7,htx,Green Bay Packers,0,0,111.7,111.7,3.6,283,96,0
+9,htx,Jacksonville Jaguars,1,1,107.16,107.2,3.8,288,115,1
+10,htx,Cleveland Browns,1,0,90.0,90.0,4.1,125,231,0
+11,htx,New England Patriots,0,1,121.9,121.9,2.9,349,86,0
+12,htx,Detroit Lions,1,1,163.25,149.5,3.3,279,109,3
+13,htx,Indianapolis Colts,0,0,81.91,81.9,4.7,262,109,0
+14,htx,Chicago Bears,1,0,93.06,93.1,4.0,241,169,0
+15,htx,Indianapolis Colts,1,0,120.17,117.7,4.0,223,127,0
+16,htx,Cincinnati Bengals,0,0,133.65,133.6,9.8,371,169,0
+17,htx,Tennessee Titans,0,0,114.69,114.7,5.6,204,288,1
+1,clt,Jacksonville Jaguars,1,0,88.77,88.1,4.0,150,91,0
+2,clt,Minnesota Vikings,0,1,95.92,95.9,3.8,95,80,3
+3,clt,New York Jets,0,1,117.75,117.7,3.8,151,109,3
+4,clt,Chicago Bears,1,1,86.28,86.3,2.7,241,28,1
+5,clt,Cleveland Browns,1,0,60.16,60.2,3.8,261,124,2
+6,clt,Cincinnati Bengals,0,1,105.4,105.4,3.9,300,98,1
+8,clt,Detroit Lions,1,1,118.14,118.1,3.1,297,29,2
+9,clt,Baltimore Ravens,0,0,61.46,61.5,5.3,156,110,1
+10,clt,Tennessee Titans,1,1,104.33,104.3,4.6,137,157,0
+11,clt,Green Bay Packers,0,1,106.25,106.3,3.8,301,66,4
+12,clt,Tennessee Titans,0,0,79.73,79.7,2.7,220,229,0
+13,clt,Houston Texans,1,1,116.61,116.6,3.8,308,90,2
+14,clt,Las Vegas Raiders,1,1,118.75,118.7,6.8,345,79,3
+15,clt,Houston Texans,0,1,120.33,120.3,5.5,342,83,2
+16,clt,Pittsburgh Steelers,1,0,80.27,80.3,4.5,332,22,0
+17,clt,Jacksonville Jaguars,0,1,76.77,76.8,7.4,230,53,1
+1,jax,Indianapolis Colts,0,1,162.5,137.5,4.0,357,88,2
+2,jax,Tennessee Titans,1,0,90.51,90.5,6.1,231,123,0
+3,jax,Miami Dolphins,0,0,76.09,76.1,4.2,156,138,0
+4,jax,Cincinnati Bengals,1,0,100.0,100.0,4.5,300,205,1
+5,jax,Houston Texans,1,0,92.98,93.0,3.8,357,129,2
+6,jax,Detroit Lions,0,0,69.41,69.4,2.8,223,180,1
+7,jax,Los Angeles Chargers,1,0,93.75,93.7,5.2,349,135,0
+9,jax,Houston Texans,0,0,88.49,88.5,4.3,267,107,1
+10,jax,Green Bay Packers,1,0,60.54,60.5,4.7,315,80,2
+11,jax,Pittsburgh Steelers,0,0,13.51,13.5,4.3,267,106,1
+12,jax,Cleveland Browns,0,0,96.73,96.7,5.6,252,207,1
+13,jax,Minnesota Vikings,1,0,72.12,72.1,5.0,275,145,2
+14,jax,Tennessee Titans,0,0,68.67,68.7,6.1,205,249,1
+15,jax,Baltimore Ravens,1,0,117.74,117.7,2.8,250,159,1
+16,jax,Chicago Bears,0,0,74.49,74.5,4.8,263,128,1
+17,jax,Indianapolis Colts,1,0,92.36,92.4,3.1,164,273,1
+1,kan,Houston Texans,0,1,122.27,122.3,4.9,242,118,1
+2,kan,Los Angeles Chargers,1,1,89.76,89.8,5.7,296,183,1
+3,kan,Baltimore Ravens,1,1,133.53,133.5,4.3,70,158,1
+4,kan,New England Patriots,0,1,112.57,112.6,3.8,172,185,4
+5,kan,Las Vegas Raiders,0,0,82.8,82.8,4.0,346,144,1
+6,kan,Buffalo Bills,1,1,130.45,127.7,5.3,122,84,1
+7,kan,Denver Broncos,1,1,102.92,102.9,4.6,234,177,4
+8,kan,New York Jets,0,1,139.14,139.1,2.5,128,93,1
+9,kan,Carolina Panthers,0,1,120.69,120.7,3.3,331,104,0
+11,kan,Las Vegas Raiders,1,1,102.81,102.8,4.0,275,89,1
+12,kan,Tampa Bay Buccaneers,1,1,121.75,121.7,4.4,342,75,2
+13,kan,Denver Broncos,0,1,95.1,95.1,6.1,151,179,2
+14,kan,Miami Dolphins,1,1,87.13,87.1,3.9,287,80,1
+15,kan,New Orleans Saints,1,1,90.03,90.0,4.4,225,60,1
+16,kan,Atlanta Falcons,0,1,68.56,68.6,5.6,277,90,1
+17,kan,Los Angeles Chargers,0,0,111.07,111.1,3.0,281,135,0
+1,rai,Carolina Panthers,1,1,107.5,107.5,4.3,259,129,0
+2,rai,New Orleans Saints,0,1,118.42,118.4,3.3,312,112,1
+3,rai,New England Patriots,1,0,117.84,117.8,5.7,156,250,1
+4,rai,Buffalo Bills,0,0,105.97,106.0,3.7,274,63,0
+5,rai,Kansas City Chiefs,1,1,126.55,126.5,4.1,333,80,1
+7,rai,Tampa Bay Buccaneers,0,0,95.95,95.9,3.2,369,85,0
+8,rai,Cleveland Browns,1,1,85.42,85.4,4.6,122,101,1
+9,rai,Los Angeles Chargers,1,1,107.16,107.2,6.2,312,128,1
+10,rai,Denver Broncos,0,1,81.08,81.1,5.0,247,66,5
+11,rai,Kansas City Chiefs,0,0,119.69,119.7,3.4,352,108,1
+12,rai,Atlanta Falcons,1,0,66.51,66.5,2.9,179,125,1
+13,rai,New York Jets,1,1,96.76,96.8,2.9,170,206,3
+14,rai,Indianapolis Colts,0,0,87.68,87.7,3.6,244,212,0
+15,rai,Los Angeles Chargers,0,0,84.91,84.9,4.2,306,96,0
+16,rai,Miami Dolphins,0,0,101.84,101.8,4.3,253,130,0
+17,rai,Denver Broncos,1,1,89.69,89.7,4.6,324,122,0
+1,sdg,Cincinnati Bengals,1,1,75.28,75.3,4.0,173,122,2
+2,sdg,Kansas City Chiefs,0,0,92.49,92.5,4.2,289,125,0
+3,sdg,Carolina Panthers,0,0,87.03,87.0,5.1,221,81,0
+4,sdg,Tampa Bay Buccaneers,1,0,138.42,135.9,2.0,369,115,1
+5,sdg,New Orleans Saints,1,0,119.61,119.6,3.5,313,95,1
+7,sdg,Jacksonville Jaguars,0,1,110.89,110.9,4.2,154,140,1
+8,sdg,Denver Broncos,1,0,86.84,86.8,5.5,243,108,1
+9,sdg,Las Vegas Raiders,0,0,104.46,104.5,4.1,160,160,1
+10,sdg,Miami Dolphins,1,0,84.64,84.6,3.4,169,111,1
+11,sdg,New York Jets,0,1,114.92,114.9,1.1,196,96,1
+12,sdg,Buffalo Bills,1,0,73.48,73.5,3.2,160,172,3
+13,sdg,New England Patriots,0,0,42.02,42.0,4.7,126,165,0
+14,sdg,Atlanta Falcons,0,1,98.67,95.1,4.0,249,70,3
+15,sdg,Las Vegas Raiders,1,1,120.05,120.1,3.3,276,173,1
+16,sdg,Denver Broncos,0,1,93.88,93.9,4.5,263,133,2
+17,sdg,Kansas City Chiefs,1,1,131.25,131.2,3.9,217,51,1
+1,ram,Dallas Cowboys,0,1,78.56,78.6,3.8,244,136,0
+2,ram,Philadelphia Eagles,1,1,140.66,140.7,4.9,242,121,3
+3,ram,Buffalo Bills,1,0,110.29,110.3,5.2,274,101,2
+4,ram,New York Giants,0,1,101.3,100.8,2.5,159,136,1
+5,ram,Washington Football Team,1,1,110.42,110.4,3.7,70,38,0
+6,ram,San Francisco 49ers,1,0,72.04,72.0,5.9,268,122,0
+7,ram,Chicago Bears,0,1,107.01,107.0,4.7,230,49,2
+8,ram,Miami Dolphins,1,0,64.92,64.9,4.5,90,55,2
+10,ram,Seattle Seahawks,0,1,94.76,94.8,3.7,220,113,3
+11,ram,Tampa Bay Buccaneers,1,1,99.8,99.8,1.9,209,42,2
+12,ram,San Francisco 49ers,0,0,50.74,50.7,4.5,233,112,3
+13,ram,Arizona Cardinals,1,1,105.27,104.3,3.8,140,92,2
+14,ram,New England Patriots,0,1,74.08,74.1,5.2,113,107,1
+15,ram,New York Jets,0,0,86.52,86.5,6.0,196,93,0
+16,ram,Seattle Seahawks,1,0,59.84,59.8,4.1,197,95,0
+17,ram,Arizona Cardinals,0,1,63.82,63.8,3.7,166,48,1
+1,mia,New England Patriots,1,0,43.33,43.3,3.2,140,217,1
+2,mia,Buffalo Bills,0,0,98.8,98.8,4.5,411,112,1
+3,mia,Jacksonville Jaguars,1,1,142.92,132.5,3.8,246,72,2
+4,mia,Seattle Seahawks,0,0,66.16,66.2,4.7,343,98,1
+5,mia,San Francisco 49ers,1,1,154.17,153.3,2.8,128,131,3
+6,mia,New York Jets,0,1,92.89,92.9,4.4,148,115,1
+8,mia,Los Angeles Rams,0,1,79.73,79.7,2.2,340,131,4
+9,mia,Arizona Cardinals,1,1,118.3,118.3,3.6,264,178,1
+10,mia,Los Angeles Chargers,0,1,106.92,106.9,3.5,174,99,1
+11,mia,Denver Broncos,1,0,68.64,68.6,3.3,270,189,2
+12,mia,New York Jets,1,1,96.21,96.2,4.2,173,87,2
+13,mia,Cincinnati Bengals,0,1,97.81,97.8,3.9,156,40,2
+14,mia,Kansas City Chiefs,0,0,79.21,79.2,3.3,354,94,4
+15,mia,New England Patriots,0,1,71.47,71.5,6.0,186,117,1
+16,mia,Las Vegas Raiders,1,1,113.15,113.2,5.2,314,104,1
+17,mia,Buffalo Bills,1,0,64.51,64.5,3.5,377,78,2
+1,min,Green Bay Packers,0,0,116.75,116.7,6.1,364,158,0
+2,min,Indianapolis Colts,1,0,12.98,13.0,4.4,203,151,1
+3,min,Tennessee Titans,0,0,94.37,94.4,6.8,310,134,1
+4,min,Houston Texans,1,1,124.81,124.8,4.1,290,96,1
+5,min,Seattle Seahawks,1,0,92.68,92.7,4.9,190,124,1
+6,min,Atlanta Falcons,0,0,89.24,89.2,2.5,363,99,1
+8,min,Green Bay Packers,1,1,136.31,135.4,5.1,291,109,1
+9,min,Detroit Lions,0,1,150.42,140.0,8.1,292,129,3
+10,min,Chicago Bears,1,1,100.0,100.0,3.0,108,41,2
+11,min,Dallas Cowboys,0,0,138.89,138.9,4.3,196,180,1
+12,min,Carolina Panthers,0,1,114.21,114.2,4.0,267,107,1
+13,min,Jacksonville Jaguars,0,1,96.56,96.6,3.8,266,124,4
+14,min,Tampa Bay Buccaneers,1,0,84.63,84.6,4.9,196,107,0
+15,min,Chicago Bears,0,0,96.01,96.0,5.6,198,199,1
+16,min,New Orleans Saints,1,0,109.2,109.2,5.3,319,264,2
+17,min,Detroit Lions,1,1,125.31,125.3,4.0,288,129,2
+1,nwe,Miami Dolphins,0,1,98.57,97.4,5.2,182,87,3
+2,nwe,Seattle Seahawks,1,0,94.6,94.6,2.7,275,154,1
+3,nwe,Las Vegas Raiders,0,1,72.92,72.9,6.6,249,126,3
+4,nwe,Kansas City Chiefs,1,0,41.72,41.7,5.3,229,94,1
+6,nwe,Denver Broncos,0,0,56.25,56.2,4.7,164,135,2
+7,nwe,San Francisco 49ers,0,0,37.0,37.0,4.3,270,197,2
+8,nwe,Buffalo Bills,1,0,78.92,78.9,5.5,149,190,1
+9,nwe,New York Jets,1,1,98.99,99.0,3.9,257,65,1
+10,nwe,Baltimore Ravens,0,1,135.19,135.0,4.4,242,115,1
+11,nwe,Houston Texans,1,0,100.94,100.9,3.6,344,55,0
+12,nwe,Arizona Cardinals,0,1,20.14,20.1,3.7,160,138,1
+13,nwe,Los Angeles Chargers,1,1,109.28,109.3,3.8,188,70,2
+14,nwe,Los Angeles Rams,1,0,55.16,55.2,3.7,132,186,1
+15,nwe,Miami Dolphins,1,0,83.26,83.3,5.3,133,250,1
+16,nwe,Buffalo Bills,0,0,50.3,50.3,6.0,344,130,0
+17,nwe,New York Jets,0,1,136.22,132.8,5.7,239,111,2
+1,nor,Tampa Bay Buccaneers,0,1,100.07,100.1,2.4,224,86,3
+2,nor,Las Vegas Raiders,1,0,91.12,91.1,5.9,261,116,1
+3,nor,Green Bay Packers,0,0,128.82,126.3,6.1,271,98,0
+4,nor,Detroit Lions,1,1,113.42,113.4,3.9,191,90,1
+5,nor,Los Angeles Chargers,0,1,84.81,84.8,3.8,239,111,0
+7,nor,Carolina Panthers,0,1,118.86,115.9,4.8,246,37,0
+8,nor,Chicago Bears,1,1,108.99,109.0,4.1,233,96,1
+9,nor,Tampa Bay Buccaneers,1,1,142.8,138.3,3.7,186,8,3
+10,nor,San Francisco 49ers,0,1,89.58,89.6,3.8,232,49,4
+11,nor,Atlanta Falcons,0,1,105.34,104.7,4.6,196,52,2
+12,nor,Denver Broncos,1,1,39.32,39.3,5.2,12,100,3
+13,nor,Atlanta Falcons,1,1,105.35,105.3,5.8,262,70,1
+14,nor,Philadelphia Eagles,1,0,98.79,98.8,4.8,167,246,1
+15,nor,Kansas City Chiefs,0,0,83.58,83.6,3.5,232,179,1
+16,nor,Minnesota Vikings,0,1,82.29,82.3,5.9,274,90,0
+17,nor,Carolina Panthers,1,1,115.49,115.5,5.2,246,74,5
+1,nyg,Pittsburgh Steelers,0,0,77.49,77.5,1.5,208,141,1
+2,nyg,Chicago Bears,1,0,66.67,66.7,4.2,169,135,2
+3,nyg,San Francisco 49ers,0,0,54.82,54.8,4.4,327,93,0
+4,nyg,Los Angeles Rams,1,0,62.15,62.2,5.4,182,58,1
+5,nyg,Dallas Cowboys,1,0,79.23,79.2,3.3,276,126,2
+6,nyg,Washington Football Team,0,1,74.01,74.0,5.1,251,86,2
+7,nyg,Philadelphia Eagles,1,0,88.89,88.9,7.3,346,96,1
+8,nyg,Tampa Bay Buccaneers,0,0,75.1,75.1,4.2,263,81,1
+9,nyg,Washington Football Team,1,1,90.81,90.8,4.7,365,37,5
+10,nyg,Philadelphia Eagles,0,1,98.96,99.0,4.2,190,156,0
+12,nyg,Cincinnati Bengals,1,1,77.08,77.1,3.4,115,40,3
+13,nyg,Seattle Seahawks,1,1,66.48,66.5,6.1,216,111,2
+14,nyg,Arizona Cardinals,0,0,61.28,61.3,4.6,231,159,0
+15,nyg,Cleveland Browns,0,0,79.43,79.4,3.5,286,106,0
+16,nyg,Baltimore Ravens,1,0,80.84,80.8,4.5,183,249,1
+17,nyg,Dallas Cowboys,0,1,103.92,103.9,4.5,199,108,1
+1,nyj,Buffalo Bills,1,0,73.75,73.8,3.5,306,98,2
+2,nyj,San Francisco 49ers,0,0,89.71,89.7,3.6,177,182,1
+3,nyj,Indianapolis Colts,1,0,44.54,44.5,3.8,234,119,0
+4,nyj,Denver Broncos,0,0,67.61,67.6,5.4,242,117,3
+5,nyj,Arizona Cardinals,0,0,78.09,78.1,4.4,369,127,1
+6,nyj,Miami Dolphins,1,0,46.4,46.4,5.2,192,110,2
+7,nyj,Buffalo Bills,0,0,25.82,25.8,4.5,296,126,1
+8,nyj,Kansas City Chiefs,1,0,69.86,69.9,3.7,446,50,0
+9,nyj,New England Patriots,0,0,128.25,127.8,3.6,274,159,0
+11,nyj,Los Angeles Chargers,1,0,79.31,79.3,4.0,347,29,1
+12,nyj,Miami Dolphins,0,0,47.3,47.3,3.8,241,104,2
+13,nyj,Las Vegas Raiders,0,0,94.47,94.5,6.1,368,72,2
+14,nyj,Seattle Seahawks,1,0,65.54,65.5,3.0,236,174,1
+15,nyj,Los Angeles Rams,1,1,98.32,98.3,3.0,189,114,1
+16,nyj,Cleveland Browns,0,1,100.82,100.8,3.9,254,45,2
+17,nyj,New England Patriots,1,0,73.04,73.0,4.4,238,166,0
+1,phi,Washington Football Team,1,0,66.37,66.4,3.4,159,80,0
+2,phi,Los Angeles Rams,0,0,56.54,56.5,4.7,258,191,1
+3,phi,Cincinnati Bengals,0,0,61.13,61.1,4.8,256,48,0
+4,phi,San Francisco 49ers,1,1,78.57,78.6,3.3,301,116,3
+5,phi,Pittsburgh Steelers,1,0,74.07,74.1,5.9,231,136,1
+6,phi,Baltimore Ravens,0,0,80.21,80.2,10.8,173,182,0
+7,phi,New York Giants,0,1,89.87,89.9,3.7,165,160,3
+8,phi,Dallas Cowboys,0,1,59.08,59.1,4.6,132,133,2
+10,phi,New York Giants,1,0,70.78,70.8,6.8,231,151,0
+11,phi,Cleveland Browns,1,0,72.2,72.2,4.2,187,137,1
+12,phi,Seattle Seahawks,0,0,70.92,70.9,5.0,225,76,0
+13,phi,Green Bay Packers,1,0,57.79,57.8,4.7,288,149,0
+14,phi,New Orleans Saints,0,1,83.61,83.6,6.8,262,96,2
+15,phi,Arizona Cardinals,1,0,99.15,99.1,4.0,423,103,3
+16,phi,Dallas Cowboys,1,0,68.96,69.0,5.2,362,151,1
+17,phi,Washington Football Team,0,0,22.16,22.2,4.1,145,103,2
+1,pit,New York Giants,1,1,115.1,115.1,4.7,262,29,2
+2,pit,Denver Broncos,0,1,97.71,97.7,5.0,215,104,2
+3,pit,Houston Texans,0,1,99.07,99.1,4.4,231,29,1
+5,pit,Philadelphia Eagles,0,1,125.98,124.4,4.3,242,94,2
+6,pit,Cleveland Browns,0,1,97.74,97.7,3.5,145,75,2
+7,pit,Tennessee Titans,1,1,67.39,67.4,3.8,210,82,0
+8,pit,Baltimore Ravens,1,1,100.13,100.1,3.0,192,265,4
+9,pit,Dallas Cowboys,1,1,110.32,110.3,2.6,220,144,2
+10,pit,Cincinnati Bengals,0,1,110.14,110.1,2.2,185,139,2
+11,pit,Jacksonville Jaguars,1,1,89.67,89.7,3.9,133,73,4
+12,pit,Baltimore Ravens,0,1,81.0,81.0,3.4,90,129,2
+13,pit,Washington Football Team,0,0,82.67,82.7,1.5,273,45,0
+14,pit,Buffalo Bills,1,0,64.81,64.8,2.8,230,104,2
+15,pit,Cincinnati Bengals,1,0,61.07,61.1,3.7,78,152,0
+16,pit,Indianapolis Colts,0,1,108.55,108.5,1.6,238,127,2
+17,pit,Cleveland Browns,1,0,86.27,86.3,4.3,166,192,0
+1,sfo,Arizona Cardinals,0,0,100.95,100.9,4.9,224,180,1
+2,sfo,New York Jets,1,1,106.56,103.2,6.3,173,104,0
+3,sfo,New York Giants,1,1,107.06,107.1,2.7,165,66,3
+4,sfo,Philadelphia Eagles,0,0,78.1,78.1,5.8,174,93,1
+5,sfo,Miami Dolphins,0,0,41.13,41.1,6.9,342,94,0
+6,sfo,Los Angeles Rams,0,1,124.31,124.3,3.3,198,113,1
+7,sfo,New England Patriots,1,1,80.42,78.3,5.3,147,94,4
+8,sfo,Seattle Seahawks,1,0,97.51,97.5,2.4,249,101,0
+9,sfo,Green Bay Packers,0,0,85.65,85.7,3.2,294,111,0
+10,sfo,New Orleans Saints,1,0,65.33,65.3,2.0,123,114,2
+12,sfo,Los Angeles Rams,1,1,75.06,75.1,3.4,182,126,4
+13,sfo,Buffalo Bills,0,0,95.67,95.7,4.1,368,81,1
+14,sfo,Washington Football Team,0,0,68.38,68.4,4.0,95,98,1
+15,sfo,Dallas Cowboys,1,0,86.19,86.2,4.2,204,87,0
+16,sfo,Arizona Cardinals,1,1,129.17,123.3,7.6,230,120,2
+17,sfo,Seattle Seahawks,0,0,94.65,94.7,3.6,159,121,0
+1,sea,Atlanta Falcons,1,1,149.58,140.4,4.2,434,72,2
+2,sea,New England Patriots,0,1,150.15,130.2,5.1,397,67,1
+3,sea,Dallas Cowboys,0,1,130.73,128.6,4.5,461,61,3
+4,sea,Miami Dolphins,1,1,110.29,110.3,3.8,312,103,2
+5,sea,Minnesota Vikings,0,1,97.14,97.1,7.8,248,201,2
+7,sea,Arizona Cardinals,1,0,83.08,83.1,6.7,360,159,2
+8,sea,San Francisco 49ers,0,1,126.97,127.0,3.6,299,52,2
+9,sea,Buffalo Bills,1,0,91.72,91.7,3.4,386,34,0
+10,sea,Los Angeles Rams,1,0,53.89,53.9,5.1,283,106,1
+11,sea,Arizona Cardinals,0,1,121.43,117.6,5.3,257,57,0
+12,sea,Philadelphia Eagles,1,1,102.22,102.2,2.5,180,70,1
+13,sea,New York Giants,0,0,73.4,73.4,5.0,100,190,1
+14,sea,New York Jets,0,1,126.56,124.0,4.8,116,69,1
+15,sea,Washington Football Team,1,1,73.23,73.2,7.0,269,84,2
+16,sea,Los Angeles Rams,0,1,90.23,90.2,4.0,216,118,1
+17,sea,San Francisco 49ers,1,1,85.3,85.3,4.5,242,86,1
+1,tam,New Orleans Saints,1,0,76.62,76.6,3.3,189,82,0
+2,tam,Carolina Panthers,0,1,80.3,80.3,5.5,340,87,4
+3,tam,Denver Broncos,1,1,114.47,114.5,2.7,184,42,2
+4,tam,Los Angeles Chargers,0,1,117.03,117.0,4.3,278,46,2
+5,tam,Chicago Bears,1,0,84.71,84.7,5.3,208,35,1
+6,tam,Green Bay Packers,0,1,101.19,101.2,4.5,107,94,2
+7,tam,Las Vegas Raiders,1,1,126.99,127.0,3.4,271,76,1
+8,tam,New York Giants,1,1,104.48,104.5,3.4,256,101,2
+9,tam,New Orleans Saints,0,0,37.83,37.8,1.6,282,138,2
+10,tam,Carolina Panthers,1,1,123.24,123.2,5.7,122,65,1
+11,tam,Los Angeles Rams,0,0,61.89,61.9,2.3,376,37,2
+12,tam,Kansas City Chiefs,0,0,95.78,95.8,5.8,456,87,1
+14,tam,Minnesota Vikings,0,1,120.92,120.9,4.1,173,162,1
+15,tam,Atlanta Falcons,1,1,108.1,108.1,2.8,332,37,0
+16,tam,Detroit Lions,1,1,158.53,150.5,4.3,113,73,2
+17,tam,Atlanta Falcons,0,1,117.02,117.0,4.3,258,127,2
+1,oti,Denver Broncos,1,1,97.72,97.7,3.8,216,107,1
+2,oti,Jacksonville Jaguars,0,1,160.24,144.3,3.6,315,165,2
+3,oti,Minnesota Vikings,1,1,77.53,77.5,3.9,238,226,3
+5,oti,Buffalo Bills,0,1,129.32,129.3,4.1,275,95,3
+6,oti,Houston Texans,0,1,120.38,120.4,9.7,320,92,0
+7,oti,Pittsburgh Steelers,0,0,100.2,100.2,3.6,268,94,3
+8,oti,Cincinnati Bengals,1,0,91.39,91.4,7.5,249,118,0
+9,oti,Chicago Bears,0,1,100.5,100.5,3.0,319,56,2
+10,oti,Indianapolis Colts,0,0,81.87,81.9,4.9,297,133,0
+11,oti,Baltimore Ravens,1,1,102.34,102.3,5.1,177,129,1
+12,oti,Indianapolis Colts,1,1,108.14,108.1,5.1,280,56,1
+13,oti,Cleveland Browns,0,0,102.92,102.9,3.4,340,118,1
+14,oti,Jacksonville Jaguars,1,1,131.42,130.0,6.2,263,91,1
+15,oti,Detroit Lions,0,1,145.29,145.1,5.1,307,123,3
+16,oti,Green Bay Packers,1,0,34.78,34.8,5.8,214,234,1
+17,oti,Houston Texans,1,1,101.47,101.5,7.0,361,96,1
+1,was,Philadelphia Eagles,0,1,79.91,79.9,2.2,208,57,3
+2,was,Arizona Cardinals,1,0,85.29,85.3,5.1,278,160,1
+3,was,Cleveland Browns,1,0,56.81,56.8,4.7,142,158,0
+4,was,Baltimore Ravens,0,0,86.71,86.7,3.1,206,144,2
+5,was,Los Angeles Rams,0,0,64.58,64.6,2.7,300,129,1
+6,was,New York Giants,1,0,94.44,94.4,3.6,108,132,1
+7,was,Dallas Cowboys,0,1,110.25,110.2,5.3,59,83,1
+9,was,New York Giants,0,0,79.54,79.5,4.1,184,166,0
+10,was,Detroit Lions,1,0,88.07,88.1,3.4,267,105,0
+11,was,Cincinnati Bengals,0,1,82.25,82.2,4.8,202,70,2
+12,was,Dallas Cowboys,1,1,84.8,84.8,5.1,187,60,2
+13,was,Pittsburgh Steelers,1,1,90.22,90.2,2.1,305,21,1
+14,was,San Francisco 49ers,1,1,40.62,40.6,3.5,236,108,3
+15,was,Seattle Seahawks,0,0,70.95,70.9,4.2,121,181,1
+16,was,Carolina Panthers,0,0,62.19,62.2,5.7,167,113,2
+17,was,Philadelphia Eagles,1,1,73.05,73.0,3.8,98,118,3
