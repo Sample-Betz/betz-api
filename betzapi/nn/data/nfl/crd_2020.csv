@@ -1,17 +1,17 @@
 Week,Team,Opponent,Is Home,Is Win,QBR,Passing Rating,Rushing Yards Per Attempt,Defense Passing Yards,Defense Rushing Yards,Defense Turnovers
-1,crd,San Francisco 49ers,1,1,77.5,77.5,5.0,243,123,0
-2,crd,Washington Football Team,0,1,87.39,87.4,5.0,199,117,2
-3,crd,Detroit Lions,0,0,72.08,72.1,4.0,232,90,0
-4,crd,Carolina Panthers,1,0,116.73,116.7,5.6,276,168,1
-5,crd,New York Jets,1,1,102.2,102.2,4.2,162,123,0
-6,crd,Dallas Cowboys,1,1,91.84,91.8,7.5,247,97,4
-7,crd,Seattle Seahawks,0,1,104.51,104.5,4.8,372,200,3
-9,crd,Miami Dolphins,0,0,150.16,147.4,4.8,221,91,0
-10,crd,Buffalo Bills,0,1,87.5,87.5,6.2,296,73,2
-11,crd,Seattle Seahawks,1,0,100.99,101.0,3.2,182,165,0
-12,crd,New England Patriots,1,0,65.81,65.8,4.1,69,110,2
-13,crd,Los Angeles Rams,0,0,76.87,76.9,4.4,344,119,1
-14,crd,New York Giants,1,1,96.25,96.2,3.7,81,78,3
-15,crd,Philadelphia Eagles,0,1,128.55,128.5,3.4,305,117,0
-16,crd,San Francisco 49ers,0,0,64.58,64.6,4.4,171,227,1
-17,crd,Los Angeles Rams,1,0,83.26,83.3,2.7,223,110,2
+1,crd,sfo,1,1,77.5,77.5,5.0,243,123,0
+2,crd,was,0,1,87.39,87.4,5.0,199,117,2
+3,crd,det,0,0,72.08,72.1,4.0,232,90,0
+4,crd,car,1,0,116.73,116.7,5.6,276,168,1
+5,crd,nyj,1,1,102.2,102.2,4.2,162,123,0
+6,crd,dal,1,1,91.84,91.8,7.5,247,97,4
+7,crd,sea,0,1,104.51,104.5,4.8,372,200,3
+9,crd,mia,0,0,150.16,147.4,4.8,221,91,0
+10,crd,buf,0,1,87.5,87.5,6.2,296,73,2
+11,crd,sea,1,0,100.99,101.0,3.2,182,165,0
+12,crd,nwe,1,0,65.81,65.8,4.1,69,110,2
+13,crd,ram,0,0,76.87,76.9,4.4,344,119,1
+14,crd,nyg,1,1,96.25,96.2,3.7,81,78,3
+15,crd,phi,0,1,128.55,128.5,3.4,305,117,0
+16,crd,sfo,0,0,64.58,64.6,4.4,171,227,1
+17,crd,ram,1,0,83.26,83.3,2.7,223,110,2

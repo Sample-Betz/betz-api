@@ -9,7 +9,7 @@ from bs4 import BeautifulSoup
 # Local application imports
 from custom_logger import get_logger, log_finished
 from scraper import Scraper
-from utils import team_hrefs, calculate_qbr
+from utils import current_teams, team_hrefs, calculate_qbr
 
 
 class NFLScraper(Scraper):
@@ -60,7 +60,7 @@ class NFLScraper(Scraper):
     def get_nfl_data(self, start_year: int, end_year: int, path: str = None) -> pd.DataFrame:
         """ Fetches and cleans data for all teams and seasons."""
         dfs = []
-        teams = team_hrefs.values()
+        teams = current_teams.values()
         
         time_start = time.time()
         
@@ -90,7 +90,13 @@ class NFLScraper(Scraper):
         
         for game in games:
             week = int(game.find('th', {'data-stat': 'week_num'}).text)
-            opp = game.find('td', {'data-stat': 'opp'}).text
+            
+            opp_unformatted = game.find('td', {'data-stat': 'opp'}).text
+            try:
+                opp = team_hrefs[opp_unformatted]
+            except:
+                opp = opp_unformatted
+            
             is_home = 1 if game.find('td', {'data-stat': 'game_location'}).text == '@' else 0
             is_win = 1 if game.find('td', {'data-stat': 'game_outcome'}).text == 'W' else 0
 
@@ -203,7 +209,7 @@ class NFLScraper(Scraper):
 
 def test():
     scraper = NFLScraper(use_proxy=False)
-    # scraper.get_team_season('crd', 2020, 'crd_2020.csv')
+    scraper.get_team_season('crd', 2020, 'crd_2020.csv')
     # scraper.get_nfl_data(2020, 2020, 'nfl_data.csv')
     
 test()
