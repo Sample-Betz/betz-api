@@ -18,12 +18,10 @@ class NFLScraper(Scraper):
         
         # Call the parent constructor
         super().__init__(use_proxy, self.logger)
-        
-        print("#### WELCOME TO NFLSCRAPPER MODULE ####")
     
     # PUBLIC METHODS
     
-    def get_team_season(self, team: str, season: int, filename: str = None) -> pd.DataFrame:
+    def get_team_season(self, team: str, season: int, save_file: bool = False, remove_season_start: bool = False) -> pd.DataFrame:
         """ Combines gamelog and defense dataframes for a given team and season."""
         time_start = time.time()
         
@@ -37,7 +35,7 @@ class NFLScraper(Scraper):
             return None
         
         general_stats = self.__get_general_stats(gs_soup, team, season)
-        advanced_defense_stats = self.__get_advanced_defense(ads_soup, team, season)
+        advanced_defense_stats = self.__get_advanced_defense(ads_soup)
         
         if general_stats.empty or advanced_defense_stats.empty:
             self.logger.error(f"Failed to get stats for {team} {season}")
@@ -48,16 +46,29 @@ class NFLScraper(Scraper):
         # Merge the dataframes
         season_df = self.__merge_season_dfs([general_stats, advanced_defense_stats])
         
+        # Accumulate stats
+        season_df = self.__accumlate_stats(season_df)
+        
+        # Calculate win streak
+        season_df = self.__calculate_streak(season_df)
+        
+        # Move is win column to the end
+        season_df = season_df[[col for col in season_df.columns if col != 'Is Win'] + ['Is Win']]
+        
+        # Remove the first 3 weeks of the season if remove_season_start is True
+        if remove_season_start:
+            season_df = season_df[season_df['Week'] > 3]
+        
         # Save to CSV if path is provided
-        if filename: 
-            self.__df_to_csv(season_df, filename)
+        if save_file: 
+            filename = self.__df_to_csv(season_df, f'{team}_{season}')
             log_finished(self.logger, f"Saved {team} {season} to {filename} in {time_end - time_start:.2f} seconds")
         else:
             log_finished(self.logger, f"Successfully fetched {team} {season} in {time_end - time_start:.2f} seconds")
         
         return season_df
     
-    def get_nfl_data(self, start_year: int, end_year: int, path: str = None) -> pd.DataFrame:
+    def get_nfl_data(self, start_year: int, end_year: int, filename: str = None, remove_season_start: bool = False) -> pd.DataFrame:
         """ Fetches and cleans data for all teams and seasons."""
         dfs = []
         teams = current_teams.values()
@@ -65,9 +76,16 @@ class NFLScraper(Scraper):
         time_start = time.time()
         
         for year in range(start_year, end_year + 1):
+            season = []
+            
             for team in teams:
-                df = self.get_team_season(team, year)
-                dfs.append(df)
+                df = self.get_team_season(team, year, remove_season_start=remove_season_start)
+                season.append(df)
+                
+            season_df = self.__merge_dfs(season)
+            self.__df_to_csv(season_df, "season", year)
+            
+            dfs.extend(season)
                 
         end_time = time.time()
         
@@ -76,8 +94,8 @@ class NFLScraper(Scraper):
         self.logger.info(f"Successfully fetched data from {start_year} to {end_year}")
         
         # Save to CSV if path is provided
-        if path: self.__df_to_csv(final_df, path)
-        log_finished(self.logger, f"Saved data from {start_year} to {end_year} to {path} in {end_time - time_start:.2f} seconds")
+        if filename: self.__df_to_csv(final_df, filename)
+        log_finished(self.logger, f"Saved data from {start_year} to {end_year} to {filename} in {end_time - time_start:.2f} seconds")
         
         return final_df
     
@@ -121,7 +139,7 @@ class NFLScraper(Scraper):
         
         return df
     
-    def __get_advanced_defense(self, soup: BeautifulSoup, team: str, season: int) -> pd.DataFrame:
+    def __get_advanced_defense(self, soup: BeautifulSoup) -> pd.DataFrame:
         """Fetches and cleans a team's defense for a given season."""
         games = self.__clean_table(soup, 'games')
         data = []
@@ -162,6 +180,34 @@ class NFLScraper(Scraper):
         
         return games
     
+    def __accumlate_stats(self, df: pd.DataFrame) -> pd.DataFrame:
+        """ Accumulates stats for each game. """
+        temp_df = df.copy()
+        
+        selected_data = temp_df.iloc[:, 5:]
+        
+        cumulative_data = selected_data.cumsum()
+        cumulative_data.iloc[0] = 0
+        
+        temp_df.iloc[:, 5:] = cumulative_data
+            
+        return temp_df
+    
+    def __calculate_streak(self, df: pd.DataFrame) -> pd.DataFrame:
+        """ Calculates the win streak for each game. """
+        temp_df = df.copy()
+        
+        streak = 0
+        streaks = []
+        
+        for i, row in temp_df.iterrows():
+            streak = streak + 1 if row['Is Win'] == 1 else 0
+            streaks.append(streak)
+            
+        temp_df['Win Streak'] = streaks
+        
+        return temp_df
+    
     def __get_game_stat(self, game: BeautifulSoup, stat_name: str, is_float=False):
         """Helper function to get game stats and handle empty values."""
         stat = game.find('td', {'data-stat': stat_name}).text
@@ -183,7 +229,7 @@ class NFLScraper(Scraper):
         parent_dir = os.path.dirname(dir)
         nfl_data_dir = os.path.join(parent_dir, 'nfl')
         
-        filename = self.__get_unique_filename(nfl_data_dir, filename)
+        filename = self.__get_unique_filename(nfl_data_dir, f"{filename}.csv")
         path = os.path.join(nfl_data_dir, filename)
 
         df.to_csv(path, index=False)
@@ -206,10 +252,11 @@ class NFLScraper(Scraper):
         
         return f"{name}_{counter}{ext}"
 
-
-def test():
-    scraper = NFLScraper(use_proxy=False)
-    scraper.get_team_season('crd', 2020, 'crd_2020.csv')
-    # scraper.get_nfl_data(2020, 2020, 'nfl_data.csv')
+# def main():
+#     scraper = NFLScraper(use_proxy=False)
+#     # scraper.get_team_season('sea', 2015, True, True)
+#     scraper.get_nfl_data(2014, 2023, 'nfl_data', True)
     
-test()
+    
+# if __name__ == '__main__':
+#     main()
