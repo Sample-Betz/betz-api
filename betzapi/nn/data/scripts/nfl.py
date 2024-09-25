@@ -187,6 +187,7 @@ class NFLScraper(Scraper):
         selected_data = temp_df.iloc[:, 5:]
         
         cumulative_data = selected_data.cumsum()
+        cumulative_data = cumulative_data.round(2)
         cumulative_data.iloc[0] = 0
         
         temp_df.iloc[:, 5:] = cumulative_data
@@ -254,8 +255,8 @@ class NFLScraper(Scraper):
 
 # def main():
 #     scraper = NFLScraper(use_proxy=False)
-#     # scraper.get_team_season('sea', 2015, True, True)
-#     scraper.get_nfl_data(2014, 2023, 'nfl_data', True)
+#     # scraper.get_team_season('ram', 2023, True, True)
+#     # scraper.get_nfl_data(2014, 2023, 'nfl_data', True)
     
     
 # if __name__ == '__main__':
