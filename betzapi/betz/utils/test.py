@@ -6,13 +6,14 @@ from statmuse import StatMuseFetcher
 from espn import PlayerStats
 from fanduel import FanDuelScraper
 from oddsapi import OddsAPI
+from django.conf import settings
 
-client = OpenAI(api_key='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')
+client = OpenAI(api_key=settings.OPENAI_KEY)
 
 
 def odds_api():
     # Initialize the OddsAPI with your API key
-    odds_api = OddsAPI(api_key='acfb03ce9acfe3c4698d23432a6f7463')
+    odds_api = OddsAPI(api_key=settings.ODDS_API_KEY)
     
     # Fetch upcoming NBA games
     games_data = odds_api.get_upcoming('nba')
