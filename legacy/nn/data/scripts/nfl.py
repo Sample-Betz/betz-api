@@ -3,6 +3,7 @@ import os
 import time
 
 # Third-party imports
+from numpy import ndarray
 import pandas as pd
 from bs4 import BeautifulSoup
 
@@ -20,6 +21,16 @@ class NFLScraper(Scraper):
         super().__init__(use_proxy, self.logger)
     
     # PUBLIC METHODS
+    
+    def get_current_game(self, team: str, week: int, year: int = 2024) -> ndarray:
+        """ Fetches the current game for a given team and week. """
+        team_season = self.get_team_season(team, year)
+        
+        # get the current game
+        current_game = team_season[team_season['Week'] == week]
+        
+        # conver to numpy array 
+        return current_game.to_numpy()
     
     def get_team_season(self, team: str, season: int, save_file: bool = False, remove_season_start: bool = False) -> pd.DataFrame:
         """ Combines gamelog and defense dataframes for a given team and season."""
@@ -253,11 +264,18 @@ class NFLScraper(Scraper):
         
         return f"{name}_{counter}{ext}"
 
-# def main():
-#     scraper = NFLScraper(use_proxy=False)
-#     # scraper.get_team_season('ram', 2023, True, True)
-#     # scraper.get_nfl_data(2014, 2023, 'nfl_data', True)
+def main():
+    scraper = NFLScraper(use_proxy=False)
+    # scraper.get_team_season('ram', 2023, True, True)
+    # scraper.get_nfl_data(2014, 2023, 'nfl_data', True)
+    
+    current = scraper.get_current_game('dal', 4)
+    print(current)
+    
+    # import tensorflow as tf
+    # model = tf.keras.models.load_model('models/nfl_model.h5')
+    # model.predict(current)
     
     
-# if __name__ == '__main__':
-#     main()
+if __name__ == '__main__':
+    main()

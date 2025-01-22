@@ -1,0 +1,286 @@
+{
+    "Wins": 15,
+    "Losses": 25,
+    "Players": [
+        {
+            "player": "mikal bridges",
+            "prop": 2.5,
+            "actual": 0.0,
+            "expected": "over",
+            "result": "loss"
+        },
+        {
+            "player": "jalen suggs",
+            "prop": 2.5,
+            "actual": 4.0,
+            "expected": "under",
+            "result": "loss"
+        },
+        {
+            "player": "jalen brunson",
+            "prop": 2.5,
+            "actual": 0.0,
+            "expected": "over",
+            "result": "loss"
+        },
+        {
+            "player": "og anunoby",
+            "prop": 1.5,
+            "actual": 0.0,
+            "expected": "over",
+            "result": "loss"
+        },
+        {
+            "player": "karl-anthony towns",
+            "prop": 1.5,
+            "actual": 2.0,
+            "expected": "over",
+            "result": "win"
+        },
+        {
+            "player": "miles mcbride",
+            "prop": 1.5,
+            "actual": 0.0,
+            "expected": "over",
+            "result": "loss"
+        },
+        {
+            "player": "kentavious caldwell-pope",
+            "prop": 1.5,
+            "actual": 1.0,
+            "expected": "over",
+            "result": "loss"
+        },
+        {
+            "player": "tristan da silva",
+            "prop": 1.5,
+            "actual": 0.0,
+            "expected": "over",
+            "result": "loss"
+        },
+        {
+            "player": "trevelin queen",
+            "prop": 1.5,
+            "actual": 3.0,
+            "expected": "under",
+            "result": "loss"
+        },
+        {
+            "player": "cameron payne",
+            "prop": 1.5,
+            "actual": 0.0,
+            "expected": "over",
+            "result": "loss"
+        },
+        {
+            "player": "josh hart",
+            "prop": 1.5,
+            "actual": 1.0,
+            "expected": "over",
+            "result": "loss"
+        },
+        {
+            "player": "jayson tatum",
+            "prop": 3.5,
+            "actual": 3.0,
+            "expected": "over",
+            "result": "loss"
+        },
+        {
+            "player": "derrick white",
+            "prop": 3.5,
+            "actual": 3.0,
+            "expected": "under",
+            "result": "win"
+        },
+        {
+            "player": "tyrese haliburton",
+            "prop": 3.5,
+            "actual": 3.0,
+            "expected": "under",
+            "result": "win"
+        },
+        {
+            "player": "jaylen brown",
+            "prop": 1.5,
+            "actual": 6.0,
+            "expected": "over",
+            "result": "win"
+        },
+        {
+            "player": "myles turner",
+            "prop": 1.5,
+            "actual": 1.0,
+            "expected": "over",
+            "result": "loss"
+        },
+        {
+            "player": "bennedict mathurin",
+            "prop": 1.5,
+            "actual": 1.0,
+            "expected": "under",
+            "result": "win"
+        },
+        {
+            "player": "pascal siakam",
+            "prop": 1.5,
+            "actual": 3.0,
+            "expected": "over",
+            "result": "win"
+        },
+        {
+            "player": "ben sheppard",
+            "prop": 1.5,
+            "actual": 0.0,
+            "expected": "under",
+            "result": "win"
+        },
+        {
+            "player": "trey murphy iii",
+            "prop": 3.5,
+            "actual": 5.0,
+            "expected": "under",
+            "result": "loss"
+        },
+        {
+            "player": "cj mccollum",
+            "prop": 2.5,
+            "actual": 3.0,
+            "expected": "under",
+            "result": "loss"
+        },
+        {
+            "player": "desmond bane",
+            "prop": 2.5,
+            "actual": 2.0,
+            "expected": "over",
+            "result": "loss"
+        },
+        {
+            "player": "ja morant",
+            "prop": 1.5,
+            "actual": 3.0,
+            "expected": "over",
+            "result": "win"
+        },
+        {
+            "player": "jaylen wells",
+            "prop": 1.5,
+            "actual": 1.0,
+            "expected": "over",
+            "result": "loss"
+        },
+        {
+            "player": "dejounte murray",
+            "prop": 1.5,
+            "actual": 1.0,
+            "expected": "under",
+            "result": "win"
+        },
+        {
+            "player": "jaren jackson jr.",
+            "prop": 1.5,
+            "actual": 4.0,
+            "expected": "under",
+            "result": "loss"
+        },
+        {
+            "player": "herbert jones",
+            "prop": 1.5,
+            "actual": 0.0,
+            "expected": "under",
+            "result": "win"
+        },
+        {
+            "player": "donovan mitchell",
+            "prop": 3.5,
+            "actual": 6.0,
+            "expected": "over",
+            "result": "win"
+        },
+        {
+            "player": "darius garland",
+            "prop": 2.5,
+            "actual": 2.0,
+            "expected": "over",
+            "result": "loss"
+        },
+        {
+            "player": "michael porter jr.",
+            "prop": 2.5,
+            "actual": 5.0,
+            "expected": "under",
+            "result": "loss"
+        },
+        {
+            "player": "jamal murray",
+            "prop": 2.5,
+            "actual": 3.0,
+            "expected": "under",
+            "result": "loss"
+        },
+        {
+            "player": "nikola jokic",
+            "prop": 1.5,
+            "actual": 0.0,
+            "expected": "over",
+            "result": "loss"
+        },
+        {
+            "player": "russell westbrook",
+            "prop": 1.5,
+            "actual": 1.0,
+            "expected": "under",
+            "result": "win"
+        },
+        {
+            "player": "klay thompson",
+            "prop": 3.5,
+            "actual": 1.0,
+            "expected": "over",
+            "result": "loss"
+        },
+        {
+            "player": "kyrie irving",
+            "prop": 3.5,
+            "actual": 5.0,
+            "expected": "under",
+            "result": "loss"
+        },
+        {
+            "player": "tyus jones",
+            "prop": 2.5,
+            "actual": 1.0,
+            "expected": "under",
+            "result": "win"
+        },
+        {
+            "player": "kevin durant",
+            "prop": 2.5,
+            "actual": 3.0,
+            "expected": "under",
+            "result": "loss"
+        },
+        {
+            "player": "bradley beal",
+            "prop": 2.5,
+            "actual": 1.0,
+            "expected": "over",
+            "result": "loss"
+        },
+        {
+            "player": "quentin grimes",
+            "prop": 1.5,
+            "actual": 2.0,
+            "expected": "over",
+            "result": "win"
+        },
+        {
+            "player": "pj washington",
+            "prop": 1.5,
+            "actual": 2.0,
+            "expected": "over",
+            "result": "win"
+        }
+    ]
+}

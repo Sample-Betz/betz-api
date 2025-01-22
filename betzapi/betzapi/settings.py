@@ -71,6 +71,14 @@ DATABASES = {
         "ENGINE": "django.db.backends.sqlite3",
         "NAME": BASE_DIR / "db.sqlite3",
     }
+    # "default": {
+    #     "ENGINE": "django.db.backends.postgresql",
+    #     "NAME": "mydatabase",
+    #     "USER": "mydatabaseuser",
+    #     "PASSWORD": "mypassword",
+    #     "HOST": "127.0.0.1",
+    #     "PORT": "5432",
+    # }
 }
 
 
@@ -132,4 +140,5 @@ ENV_FILE = find_dotenv()
 if ENV_FILE:
     load_dotenv(ENV_FILE)
     
-ODDS_API = os.environ.get("ODDS_API")
+ODDS_API_KEY = os.environ.get("ODDS_API_KEY")
+OPENAI_KEY = os.environ.get("OPENAI_KEY")

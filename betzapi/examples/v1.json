@@ -1,0 +1,852 @@
+{
+    "type": "3ptrs",
+    "prop": [
+        {
+            "player": "tyrese maxey",
+            "team": "philadelphia 76ers",
+            "opp": "san antonio spurs",
+            "prop": 2.5,
+            "prediction": {
+                "result": "over",
+                "certainty": 0.85,
+                "explaination": "Tyrese Maxey's recent performance shows he is averaging 4.2 three-pointers per game over his last five games, significantly above the prop of 2.5. His 3-point accuracy remains consistent in both home and away settings, reinforcing his capability to score beyond the arc. Considering the opposition's recent 3PM statistics are around 2.66 to 2.87, Maxey has consistently outperformed this average in recent matches, suggesting a strong likelihood that he will continue this trend."
+            }
+        },
+        {
+            "player": "victor wembanyama",
+            "team": "san antonio spurs",
+            "opp": "philadelphia 76ers",
+            "prop": 2.5,
+            "prediction": {
+                "result": "over",
+                "certainty": 0.8,
+                "explaination": "Considering Victor Wembanyama's recent performance trend, where he averaged 3.4 three-pointers in his last five games, and his solid shooting percentages both at home and away, it is reasonable to predict he will make over 2.5 three-pointers next game. Additionally, opponent stats indicate a trend of allowing just above 2.5 three-pointers on average, suggesting he can maintain or exceed this number."
+            }
+        },
+        {
+            "player": "devin vassell",
+            "team": "san antonio spurs",
+            "opp": "philadelphia 76ers",
+            "prop": 2.5,
+            "prediction": {
+                "result": "under",
+                "certainty": 0.75,
+                "explaination": "Devin Vassell is averaging 1.8 three-pointers in his last five games, which is under the prop of 2.5. Additionally, his away performance shows a significant drop in three-point percentage (32.1%) and volume (1.8 per game) compared to his home stats. Given this trend and the importance of consistency in recent performance, the likelihood of him going over 2.5 three-pointers in a game appears less probable."
+            }
+        },
+        {
+            "player": "paul george",
+            "team": "philadelphia 76ers",
+            "opp": "san antonio spurs",
+            "prop": 2.5,
+            "prediction": {
+                "result": "under",
+                "certainty": 0.7,
+                "explaination": "Paul George's recent performance shows he has averaged 2.0 three-pointers per game in his last five games, which is below the prop of 2.5. Additionally, both the season and opponent averages are around 2.66, but given his current shooting form, especially considering the 33.3% shooting percentage from three-point range, it seems more likely he will fall slightly under the prop. His home and away performance does not drastically alter this expectation."
+            }
+        },
+        {
+            "player": "joel embiid",
+            "team": "philadelphia 76ers",
+            "opp": "san antonio spurs",
+            "prop": 1.5,
+            "prediction": {
+                "result": "under",
+                "certainty": 0.8,
+                "explaination": "Joel Embiid is primarily known for his prowess in the paint and mid-range rather than a shooter from beyond the arc. His home shooting percentage from three is particularly low at 20.7%, and although it improves to 36.4% away, he still averages 1.3 makes on the road. His recent form indicates just 1.0 three-pointer per game. Therefore, given the prop is set at 1.5, and considering Embiid's overall play style and historical performance, it is more likely he will score under 1.5 threes in the upcoming game."
+            }
+        },
+        {
+            "player": "chris paul",
+            "team": "san antonio spurs",
+            "opp": "philadelphia 76ers",
+            "prop": 1.5,
+            "prediction": {
+                "result": "over",
+                "certainty": 0.75,
+                "explaination": "Chris Paul's historical shooting data suggests he can exceed 1.5 threes given his averages. In the last five games, Paul has managed 1.6 threes per game, which is slightly above the prop value of 1.5. His shooting percentage is relatively consistent, and his opportunities align closely with the opponent's average allowed three-pointers (2.58-2.8 range). Considering these factors, alongside a consistent shooting form, there's a reasonable expectation for him to hit over 1.5 threes in the upcoming game."
+            }
+        },
+        {
+            "player": "kelly oubre jr.",
+            "team": "philadelphia 76ers",
+            "opp": "san antonio spurs",
+            "prop": 1.5,
+            "prediction": {
+                "result": "over",
+                "certainty": 0.75,
+                "explaination": "Given that Kelly Oubre Jr. averages approximately 1.6 three-pointers per game in his last five games and has a home average of 1.4 and an away average of 1.5, it's reasonable to expect he might slightly exceed the 1.5 mark, especially considering the overall 3PM averages across various opponents suggest potential opportunities. Although his shooting percentage hovers around 30-32%, the opponents' stats show an average above 2.6 3PM, indicating a generally favorable matchup for 3-point shooters. This makes the over bet a likely outcome despite his slightly below-average shooting percentages."
+            }
+        },
+        {
+            "player": "julian champagnie",
+            "team": "san antonio spurs",
+            "opp": "philadelphia 76ers",
+            "prop": 1.5,
+            "prediction": {
+                "result": "over",
+                "certainty": 0.85,
+                "explaination": "Julian Champagnie has consistently averaged over 1.5 three-pointers per game across various contexts (e.g., home, away, last five games), with averages all above the prop line of 1.5. His recent form of 2.6 three-pointers in his last five games adds to the likelihood of exceeding this prop."
+            }
+        },
+        {
+            "player": "harrison barnes",
+            "team": "san antonio spurs",
+            "opp": "philadelphia 76ers",
+            "prop": 1.5,
+            "prediction": {
+                "result": "over",
+                "certainty": 85.0,
+                "explaination": "Analyzing the data, Harrison Barnes has consistently surpassed the 1.5 three-pointers made benchmark across different metrics. His career trend shows 2.2 three-pointers per game in his last five games, which indicates a solid average above the given prop. Additionally, against the current opponent, players have averaged around 2.58 three-pointers. With Barnes' strong shooting percentage both at home (43.3%) and away (50.7%), it's reasonable to predict he will likely make over 1.5 three-pointers in the next game."
+            }
+        },
+        {
+            "player": "keldon johnson",
+            "team": "san antonio spurs",
+            "opp": "philadelphia 76ers",
+            "prop": 1.5,
+            "prediction": {
+                "result": "under",
+                "certainty": 0.85,
+                "explaination": "Keldon Johnson has recently been averaging less than one three-pointer per game over his last five games, and his overall shooting percentage from beyond the arc hovers just below 30%. Despite facing opponents who average a higher number of threes made (above 2.5 in various contexts), Keldon's recent form and shooting efficiency suggest that hitting over 1.5 threes in his next game is likely challenging, hence predicting under."
+            }
+        },
+        {
+            "player": "caleb martin",
+            "team": "philadelphia 76ers",
+            "opp": "san antonio spurs",
+            "prop": 0.5,
+            "prediction": {
+                "result": "under",
+                "certainty": 0.85,
+                "explaination": "Caleb Martin's recent performance shows a low three-point shooting rate, averaging only 0.2 per game in his last five games. His shooting percentages both home and away are notably low, with under 30% accuracy. Additionally, opponent averages suggest that they'll likely defend the three-point line well. Therefore, the likelihood of Martin making over 0.5 three-pointers in his next game is low."
+            }
+        },
+        {
+            "player": "guerschon yabusele",
+            "team": "philadelphia 76ers",
+            "opp": "san antonio spurs",
+            "prop": 0.5,
+            "prediction": {
+                "result": "under",
+                "certainty": 0.7,
+                "explaination": "Although Yabusele's season average demonstrates decent three-point shooting percentages, his performance in the last five games suggests a significant decline, averaging only 0.2 three-pointers per game. This recent trend outweighs his usual shooting ability, making it more likely that he will score under 0.5 three-pointers in the next game."
+            }
+        },
+        {
+            "player": "stephon castle",
+            "team": "san antonio spurs",
+            "opp": "philadelphia 76ers",
+            "prop": 0.5,
+            "prediction": {
+                "result": "over",
+                "certainty": 0.7,
+                "explaination": "Stephon Castle has shown a propensity to average 0.8 made three-pointers over his last five games, which is above the prop of 0.5. Given that his current opponents on average allow more than two three-pointers per game across various time intervals, it's reasonable to predict that Castle could make at least one three-pointer. His three-point shooting attempts per game and his percentage, while not the highest, suggest that he frequently takes these shots, supporting the likelihood of exceeding the prop."
+            }
+        },
+        {
+            "player": "jeremy sochan",
+            "team": "san antonio spurs",
+            "opp": "philadelphia 76ers",
+            "prop": 0.5,
+            "prediction": {
+                "result": "under",
+                "certainty": 0.85,
+                "explaination": "Jeremy Sochan has attempted a relatively low volume of three-pointers, both at home and away, with percentages below 20%. In his recent form, he only manages to hit 0.2 three-pointers per game over his last five games. Given the strong opposing team's defense, averaging over two 3-pointers allowed, it seems unlikely for him to surpass the 0.5 mark."
+            }
+        },
+        {
+            "player": "kj martin",
+            "team": "philadelphia 76ers",
+            "opp": "san antonio spurs",
+            "prop": 0.5,
+            "prediction": {
+                "result": "over",
+                "certainty": 0.8,
+                "explaination": "KJ Martin has been making an average of 0.6 three-pointers in his recent games. Given the prop is 0.5 and his ability to exceed this on average in the last five games, he is likely to make at least one three-pointer in the next game. Martin's shooting percentage is reasonable, and opponent stats indicate a relatively high 3PM, suggesting potential for shots. Therefore, the prediction leans towards over."
+            }
+        },
+        {
+            "player": "jayson tatum",
+            "team": "boston celtics",
+            "opp": "orlando magic",
+            "prop": 3.5,
+            "prediction": {
+                "result": "over",
+                "certainty": 0.7,
+                "explaination": "Jayson Tatum has shown a strong consistency in making 3-point shots, averaging 4.0 successes in his last five games. His performance remains steady both at home and away with percentages over 37%. The opponent's defense has been average, allowing players to score over 2 three-pointers on average. Given Tatum's current form and confidence in his shot, he is likely to exceed the prop of 3.5."
+            }
+        },
+        {
+            "player": "jalen suggs",
+            "team": "orlando magic",
+            "opp": "boston celtics",
+            "prop": 2.5,
+            "prediction": {
+                "result": "over",
+                "certainty": 0.7,
+                "explaination": "Looking at Jalen Suggs' stats, he's recently averaging 2.6 made three-pointers in his last five games, slightly above the prop of 2.5. His shooting percentage, while not exceptionally high, indicates he takes enough attempts that a few would likely result in makes. Additionally, opponents' defensive stats suggest they're conceding around 2.5 made threes per game, which aligns with his recent form."
+            }
+        },
+        {
+            "player": "derrick white",
+            "team": "boston celtics",
+            "opp": "orlando magic",
+            "prop": 2.5,
+            "prediction": {
+                "result": "over",
+                "certainty": 80.0,
+                "explaination": "Derrick White has shown a recent uptick in his 3-point shooting performance, averaging 3.0 3PM over his last five games. Both his home and away shooting stats are strong, with above 38% accuracy from beyond the arc. When considering the opponent's average allowed 3PM at around 2.3, White's current form positions him well to exceed the 2.5 prop line."
+            }
+        },
+        {
+            "player": "kentavious caldwell-pope",
+            "team": "orlando magic",
+            "opp": "boston celtics",
+            "prop": 2.5,
+            "prediction": {
+                "result": "under",
+                "certainty": 0.75,
+                "explaination": "Kentavious Caldwell-Pope has been averaging 1.4 made threes in his last five games and both his home and away 3-point shooting percentages are slightly above 30%. Despite the opposing team's stats showing a slight upward trend, his personal recent performance and season-long shooting percentages suggest it is unlikely he will reach 2.5 made threes in the upcoming game."
+            }
+        },
+        {
+            "player": "jaylen brown",
+            "team": "boston celtics",
+            "opp": "orlando magic",
+            "prop": 1.5,
+            "prediction": {
+                "result": "over",
+                "certainty": 0.8,
+                "explaination": "Looking at the overall stats, Jaylen Brown's average 3-point makes per game for 2024 and against recent opponents is consistently above 2. His away performance is particularly strong, with a 3PT percentage of 38.2, making 2.6 threes on average. Although he has struggled recently, averaging 1.2 threes in the last five games, his historical and away statistics suggest he will bounce back. Therefore, predicting over 1.5 threes seems reasonable."
+            }
+        },
+        {
+            "player": "tristan da silva",
+            "team": "orlando magic",
+            "opp": "boston celtics",
+            "prop": 1.5,
+            "prediction": {
+                "result": "under",
+                "certainty": 0.8,
+                "explaination": "Tristan da Silva has averaged 1.2 three-pointers per game in his last five games, which is below the 1.5 threshold. His shooting percentages both at home and away (32.6% and 29.8% respectively) indicate inconsistency. Considering the opposition's stats, which suggest they allow around 2.5 three-pointers on average, Da Silva is less likely to surpass his historical average. The prediction leans towards under due to these factors."
+            }
+        },
+        {
+            "player": "kristaps porzingis",
+            "team": "boston celtics",
+            "opp": "orlando magic",
+            "prop": 1.5,
+            "prediction": {
+                "result": "over",
+                "certainty": 80.0,
+                "explaination": "Kristaps Porzingis has been consistently making over 1.5 three-pointers per game, with an average of 2.0 in his last five games. His overall stats at home and away also support an average above 1.5, with 2.1 to 2.2 three-pointers made, although his shooting percentage varies. The opposition and recent trends indicate he is likely to continue this pattern, thus an 'over' on the prop of 1.5 is predicted."
+            }
+        },
+        {
+            "player": "jrue holiday",
+            "team": "boston celtics",
+            "opp": "orlando magic",
+            "prop": 1.5,
+            "prediction": {
+                "result": "over",
+                "certainty": 0.75,
+                "explaination": "Jrue Holiday is averaging around 1.6 made three-pointers in his recent games, which is above the prop line of 1.5. Additionally, his average over larger time frames, such as the 2024 season and considering different opponent stats, also suggest he's capable of surpassing this number. Although his shooting percentage varies between home and away games, he typically attempts over five three-point shots which increases the likelihood of making at least two. Given these factors, he is likely to hit 'over' 1.5 threes."
+            }
+        },
+        {
+            "player": "wendell carter jr.",
+            "team": "orlando magic",
+            "opp": "boston celtics",
+            "prop": 0.5,
+            "prediction": {
+                "result": "under",
+                "certainty": 0.9,
+                "explaination": "Wendell Carter Jr. has not been prolific from the 3-point line, with a very low shooting percentage both at home (17.1%) and away (13.3%). His recent performance, hitting 0.2 threes per game over the last five matches, and general career statistics do not support him clearing 0.5 three-point shots in a game. Additionally, the opposition's stats indicate decent three-point defense, reinforcing the likelihood of under 0.5."
+            }
+        },
+        {
+            "player": "donovan mitchell",
+            "team": "cleveland cavaliers",
+            "opp": "utah jazz",
+            "prop": 3.5,
+            "prediction": {
+                "result": "under",
+                "certainty": 0.7,
+                "explaination": "Donovan Mitchell's shooting statistics indicate a tendency to average under 3.5 three-pointers per game recently. His last five games show a rate of 3.0 made threes, which is slightly below the prop. The opponent's defense also tends to allow about 3.31 three-pointers on average to scorers, suggesting defenses may be slightly above average. Mitchell's shooting percentages at home and away support a high efficiency rate, but given the averages, a prediction leaning towards under is sensible."
+            }
+        },
+        {
+            "player": "lauri markkanen",
+            "team": "utah jazz",
+            "opp": "cleveland cavaliers",
+            "prop": 3.5,
+            "prediction": {
+                "result": "under",
+                "certainty": 80.0,
+                "explaination": "Lauri Markkanen's data indicates an average of 2.6 made threes in his last five games, and similar averages are noted in other recent statistics provided. Given these numbers and without any recent indicators of a significant performance surge, the likelihood is that he will fall under the prop of 3.5 threes in the next game."
+            }
+        },
+        {
+            "player": "darius garland",
+            "team": "cleveland cavaliers",
+            "opp": "utah jazz",
+            "prop": 2.5,
+            "prediction": {
+                "result": "over",
+                "certainty": 0.8,
+                "explaination": "Darius Garland has been consistently shooting over the prop of 2.5 three-pointers. Over the last five games, he averaged 3.4 threes, surpassing the prop bet comfortably. Considering both his home and away shooting percentages, which are above 44%, and his higher frequency of attempts, it is likely that Garland will continue this trend in his next game. Additionally, the opponent stats show that they allow an average of close to 3 threes per game, reinforcing the likelihood of Garland achieving over the prop."
+            }
+        },
+        {
+            "player": "keyonte george",
+            "team": "utah jazz",
+            "opp": "cleveland cavaliers",
+            "prop": 2.5,
+            "prediction": {
+                "result": "over",
+                "certainty": 0.85,
+                "explaination": "The data shows that Keyonte George has been averaging over 3 three-pointers per game in his recent performances, with a notable 3.2 average in his last five games. Both his home and away shooting averages hover around the 2.5 mark, with a slight edge when playing at home where he averages 2.7 threes per game. Considering these statistics combined with his recent form, it's more likely he would hit over 2.5 three-pointers in the upcoming game."
+            }
+        },
+        {
+            "player": "collin sexton",
+            "team": "utah jazz",
+            "opp": "cleveland cavaliers",
+            "prop": 1.5,
+            "prediction": {
+                "result": "over",
+                "certainty": 0.8,
+                "explaination": "Collin Sexton has been averaging 2.2 three-pointers made per game in his last five games. The upcoming opponent's mean 3PM rates are also higher, indicating a game style conducive to more three-point attempts. Furthermore, Sexton has a commendable 3PT percentage at home, which suggests he can meet or exceed the prop of 1.5 three-pointers with reasonable consistency."
+            }
+        },
+        {
+            "player": "dean wade",
+            "team": "cleveland cavaliers",
+            "opp": "utah jazz",
+            "prop": 1.5,
+            "prediction": {
+                "result": "over",
+                "certainty": 0.75,
+                "explaination": "Dean Wade has consistently averaged 2.0 three-pointers in his last 5 games, showing he is capable of surpassing the 1.5 prop. Additionally, his away performance is stronger, with a higher percentage of 38% making this a favorable condition for achieving more three-pointers. Considering the opposing team's recent allowance of nearly 3 three-pointers per game, there's a good likelihood that Wade can achieve over 1.5 threes."
+            }
+        },
+        {
+            "player": "john collins",
+            "team": "utah jazz",
+            "opp": "cleveland cavaliers",
+            "prop": 1.5,
+            "prediction": {
+                "result": "over",
+                "certainty": 0.75,
+                "explaination": "John Collins has recently been shooting well, averaging 2.2 three-pointers over the last five games. Given his opponent's tendency to allow an average of 2.68 three-pointers, and his consistent shooting percentages both home and away, there's a strong likelihood he'll exceed the 1.5 mark in the next game."
+            }
+        },
+        {
+            "player": "evan mobley",
+            "team": "cleveland cavaliers",
+            "opp": "utah jazz",
+            "prop": 0.5,
+            "prediction": {
+                "result": "over",
+                "certainty": 0.85,
+                "explaination": "Evan Mobley has shown an improvement in his three-point shooting, notably making 1.6 three-pointers per game in his last five matches. Despite his overall reputation being more defense-oriented, recent data suggests a steady uptick in his outside shooting. Given the opponent's allowance of approximately 3 three-pointers and Mobley's current form, it's likely he will surpass the prop of 0.5 in his upcoming game."
+            }
+        },
+        {
+            "player": "anthony edwards",
+            "team": "minnesota timberwolves",
+            "opp": "atlanta hawks",
+            "prop": 3.5,
+            "prediction": {
+                "result": "over",
+                "certainty": 0.8,
+                "explaination": "Anthony Edwards has been consistently making 3.4 threes per game in the last five games, and his overall shooting percentage from three-point range is above 42%. Both his home and away shooting splits show he attempts a high volume of threes, averaging over 10 shots per game, which supports his ability to go over the 3.5 mark. Given his recent performance and shooting efficiency, it's reasonable to predict he will exceed the prop line of 3.5 threes in his next game."
+            }
+        },
+        {
+            "player": "trae young",
+            "team": "atlanta hawks",
+            "opp": "minnesota timberwolves",
+            "prop": 2.5,
+            "prediction": {
+                "result": "over",
+                "certainty": 0.7,
+                "explaination": "Trae Young has been making 3.0 three-pointers on average in his last five games, which indicates a slight upward trend compared to historical data. These recent performances, combined with a track record of shooting attempts exceeding 8 per game, suggest he is likely to hit over 2.5 three-pointers."
+            }
+        },
+        {
+            "player": "mike conley",
+            "team": "minnesota timberwolves",
+            "opp": "atlanta hawks",
+            "prop": 1.5,
+            "prediction": {
+                "result": "over",
+                "certainty": 0.7,
+                "explaination": "Given the data, Mike Conley has averaged 1.9 three-pointers in home games and 1.6 away, with an overall shooting percentage around 35%. His recent average of 1.6 threes per game in the last five games suggests he can meet or exceed 1.5 against the current opponent, who generally allows over 3 threes per game. The statistics indicate a slight tendency to exceed 1.5, albeit not overwhelmingly so, thus predicting an 'over' with moderate confidence."
+            }
+        },
+        {
+            "player": "julius randle",
+            "team": "minnesota timberwolves",
+            "opp": "atlanta hawks",
+            "prop": 1.5,
+            "prediction": {
+                "result": "under",
+                "certainty": 0.75,
+                "explaination": "Julius Randle has averaged 1.4 threes per game over his last five games, suggesting some inconsistency in his performance from beyond the arc. While opponents typically allow more than 3 threes per game, historically, Randle averages slightly above his prop at both home and away venues. However, his recent form points towards a dip in output. Given his fluctuating numbers and recent downward trend, the prediction leans towards under the 1.5 prop for his next game."
+            }
+        },
+        {
+            "player": "nickeil alexander-walker",
+            "team": "minnesota timberwolves",
+            "opp": "atlanta hawks",
+            "prop": 1.5,
+            "prediction": {
+                "result": "over",
+                "certainty": 0.7,
+                "explaination": "Nickeil Alexander-Walker has shown consistency in his three-point shooting over the past season and in recent games. Though his last five-game average is slightly below the prop at 1.4, his shooting percentages are strong both home and away, above 40%. Additionally, the opponent's defense statistics suggest opponents allow an average above the prop of 1.5. Given his capacity to perform slightly above averages in favorable games, there's a reasonable expectation of him surpassing this number."
+            }
+        },
+        {
+            "player": "naz reid",
+            "team": "minnesota timberwolves",
+            "opp": "atlanta hawks",
+            "prop": 1.5,
+            "prediction": {
+                "result": "over",
+                "certainty": 75.0,
+                "explaination": "Naz Reid has been performing well in recent games, averaging 1.6 three-pointers in his last five games. His split stats show solid shooting, especially notable is his efficient 42.0% accuracy away, suggesting reliability against various defenses. The opponent's average three-pointers allowed per game are higher than Reid's prop, indicating potential for opportunities. Given these factors and the slight uptick in his recent performance, it's reasonable to predict that Reid will hit over 1.5 three-pointers in his next game."
+            }
+        },
+        {
+            "player": "jaden mcdaniels",
+            "team": "minnesota timberwolves",
+            "opp": "atlanta hawks",
+            "prop": 1.5,
+            "prediction": {
+                "result": "over",
+                "certainty": 0.75,
+                "explaination": "Jaden McDaniels has averaged 1.6 three-pointers made in his last five games, which is slightly above the set prop of 1.5. Additionally, his opponents have allowed an average of over three 3-pointers made to players, suggesting a favorable environment. Despite his slightly lower shooting percentage, the data indicates he can hit over 1.5 threes in the upcoming game."
+            }
+        },
+        {
+            "player": "jalen johnson",
+            "team": "atlanta hawks",
+            "opp": "minnesota timberwolves",
+            "prop": 1.5,
+            "prediction": {
+                "result": "under",
+                "certainty": 0.8,
+                "explaination": "Jalen Johnson's recent form shows he's hitting 0.8 threes per game, which is below the prop of 1.5. Despite facing an opponent that concedes an average significantly above 1.5, his lower volume of threes and shooting percentage suggest he is less likely to exceed the 1.5 prop in his next game."
+            }
+        },
+        {
+            "player": "zaccharie risacher",
+            "team": "atlanta hawks",
+            "opp": "minnesota timberwolves",
+            "prop": 1.5,
+            "prediction": {
+                "result": "under",
+                "certainty": 0.9,
+                "explaination": "Despite the opposing team's average of over 2 three-pointers made by players, Zaccharie Risacher's recent performance suggests he may struggle to meet this prop. His average of just 0.4 three-pointers per game over the last five games, combined with below 30% shooting from the three-point range both at home and away this season, indicates he is not currently in good shooting form. As a result, the prediction leans strongly towards the 'under' for the prop of 1.5 three-pointers in the next game."
+            }
+        },
+        {
+            "player": "dyson daniels",
+            "team": "atlanta hawks",
+            "opp": "minnesota timberwolves",
+            "prop": 1.5,
+            "prediction": {
+                "result": "under",
+                "certainty": 0.7,
+                "explaination": "Given Dyson Daniels' recent performance where he averaged 1.2 three-pointers made per game in his last five games, coupled with his home and away 3-point shooting percentages, it's likely he'll score under 1.5 threes. The opposition's higher 3PM average suggest they guard the perimeter effectively, supporting a prediction of under."
+            }
+        },
+        {
+            "player": "tyler herro",
+            "team": "miami heat",
+            "opp": "brooklyn nets",
+            "prop": 3.5,
+            "prediction": {
+                "result": "over",
+                "certainty": 7.5,
+                "explaination": "Tyler Herro's performance averages above the prop set at 3.5. His recent form, converting an average of 3.8 three-pointers over his last five games, suggests a consistent ability to hit from beyond the arc. Additionally, his shooting percentages at both home and away games (40.6% and 39.7% respectively) indicate a reliable shooting efficiency. This, combined with playing against opponents averaging around 2.7-3 three-pointers, strengthens the prediction for an 'over'. This calculation is made with moderate certainty, considering fluctuations in game dynamics."
+            }
+        },
+        {
+            "player": "cameron johnson",
+            "team": "brooklyn nets",
+            "opp": "miami heat",
+            "prop": 3.5,
+            "prediction": {
+                "result": "under",
+                "certainty": 0.65,
+                "explaination": "Cameron Johnson has averaged 3.0 threes in his last five games which is below the prop of 3.5. His percentage both home and away is consistent around 42%, but he attempts fewer threes at home which suggests a higher likelihood to land under the prop. Opponent stats also show an average below his prop, reinforcing the under prediction."
+            }
+        },
+        {
+            "player": "duncan robinson",
+            "team": "miami heat",
+            "opp": "brooklyn nets",
+            "prop": 2.5,
+            "prediction": {
+                "result": "under",
+                "certainty": 0.7,
+                "explaination": "Duncan Robinson's recent performance shows a downward trend in making three-pointers, with 2.4 average in his last five games. His prop is set at 2.5 three-pointers. Although his seasonal numbers hover around that mark, the slight downturn and low home average of 2.5 threes suggest he might fall just short, especially if the upcoming game is not at home. Additionally, shooting percentages above 37% are solid but not exceptional, indicating some variability in his three-point shooting success. Thus, the expectation slightly favors under for the upcoming game."
+            }
+        },
+        {
+            "player": "dorian finney-smith",
+            "team": "brooklyn nets",
+            "opp": "miami heat",
+            "prop": 2.5,
+            "prediction": {
+                "result": "over",
+                "certainty": 0.75,
+                "explaination": "Dorian Finney-Smith has been consistently hitting three-pointers above the 2.5 mark recently, scoring an average of 3.0 per game in his last five outings. Both his home and away shooting percentages are strong, above 44%, indicating he is in good form. Furthermore, the opponent's average 3-point shots allowed (all above 2.5) suggest he is likely to get opportunities to shoot. Therefore, it's plausible to predict he will go over the set prop of 2.5."
+            }
+        },
+        {
+            "player": "keon johnson",
+            "team": "brooklyn nets",
+            "opp": "miami heat",
+            "prop": 1.5,
+            "prediction": {
+                "result": "under",
+                "certainty": 0.75,
+                "explaination": "Keon Johnson averages 1.2 three-pointers per game over his last five games, slightly below the prop of 1.5. His three-point shooting percentage both at home (27.9%) and away (28.6%) indicates a low efficiency from beyond the arc. Although opponents typically allow 2.71 three-pointers, Keon's track record suggests he struggles to consistently surpass this number. Given this, there's a stronger likelihood he'll score under the prop."
+            }
+        },
+        {
+            "player": "bam adebayo",
+            "team": "miami heat",
+            "opp": "brooklyn nets",
+            "prop": 0.5,
+            "prediction": {
+                "result": "under",
+                "certainty": 0.85,
+                "explaination": "Bam Adebayo is primarily known for his skills in the paint and defense, not for his three-point shooting. Even though there's a slight presence of three-point attempts, his average remains below 1 per game both at home and on the road. His last five games also show a consistency in scoring below one three per game. Given this data and his playstyle, the prediction is under 0.5 for three-pointers in the next game."
+            }
+        },
+        {
+            "player": "jimmy butler",
+            "team": "miami heat",
+            "opp": "brooklyn nets",
+            "prop": 0.5,
+            "prediction": {
+                "result": "under",
+                "certainty": 0.85,
+                "explaination": "Jimmy Butler is not known for being a high-volume three-point shooter. His average of 0.4 three-pointers per game in his last five games combined with around 0.5 threes attempted per game both home and away, suggests he usually doesn't make many threes. Although his opponents concede around 2.68 to 2.97 threes on average, Butler's individual stats indicate he rarely capitalizes significantly on these opportunities. Thus, he's likely to go under 0.5 threes in his next game."
+            }
+        },
+        {
+            "player": "jordan poole",
+            "team": "washington wizards",
+            "opp": "oklahoma city thunder",
+            "prop": 3.5,
+            "prediction": {
+                "result": "over",
+                "certainty": 0.7,
+                "explaination": "Based on Jordan Poole's performance data, he averages 3.8 threes in his last five games, which already exceeds the 3.5 prop. His shooting percentages are consistent both home and away, suggesting stable performance. Additionally, the opponent's three-point defense allows around 2.5 threes per player, which isn't overly restrictive. This means he has a realistic chance to surpass the set line."
+            }
+        },
+        {
+            "player": "shai gilgeous-alexander",
+            "team": "oklahoma city thunder",
+            "opp": "washington wizards",
+            "prop": 2.5,
+            "prediction": {
+                "result": "under",
+                "certainty": 0.75,
+                "explaination": "Shai Gilgeous-Alexander has shown an average performance below the 2.5 three-pointers mark both home and away this season as well as in the specified opponent stats. Although he slightly exceeds this figure on rare occasions, his shooting percentage does not strongly support consistently hitting over the prop in the immediate timeframe."
+            }
+        },
+        {
+            "player": "luguentz dort",
+            "team": "oklahoma city thunder",
+            "opp": "washington wizards",
+            "prop": 1.5,
+            "prediction": {
+                "result": "over",
+                "certainty": 0.85,
+                "explaination": "Luguentz Dort has shown consistent three-point shooting, with a recent average of 2.4 three-pointers per game over his last five games. His overall shooting averages further support this, indicating he typically hits over 2 in both home and away settings. Given his opponent's tendency to allow nearly 2.9 three-pointers, it is likely Dort will exceed the 1.5 prop set for this game."
+            }
+        },
+        {
+            "player": "jalen williams",
+            "team": "oklahoma city thunder",
+            "opp": "washington wizards",
+            "prop": 1.5,
+            "prediction": {
+                "result": "over",
+                "certainty": 0.7,
+                "explaination": "Jalen Williams' historical performance shows a trend of averaging more than 1.5 three-pointers, particularly during home games where he averages 2.0 threes per game at a 38.7% shooting percentage. Additionally, the opposing team has allowed an average of 2.89 to 2.94 threes, suggesting opportunities for Jalen Williams to go over 1.5 threes in this matchup."
+            }
+        },
+        {
+            "player": "alexandre sarr",
+            "team": "washington wizards",
+            "opp": "oklahoma city thunder",
+            "prop": 1.5,
+            "prediction": {
+                "result": "over",
+                "certainty": 0.8,
+                "explaination": "Based on the data, Alexandre Sarr is averaging 2.2 three-pointers per game in his last five games, which is above the prop of 1.5. His away shooting percentage is also higher at 34%, suggesting an increased likelihood of hitting more threes on the road. Additionally, his opponents have consistently allowed over 2.5 threes on average, further supporting the likelihood of Sarr hitting over the 1.5 prop. Given these factors, it's reasonable to predict he will go over 1.5 three-pointers in his next game."
+            }
+        },
+        {
+            "player": "malcolm brogdon",
+            "team": "washington wizards",
+            "opp": "oklahoma city thunder",
+            "prop": 1.5,
+            "prediction": {
+                "result": "over",
+                "certainty": 0.8,
+                "explaination": "Malcolm Brogdon's recent performance and overall statistics suggest a high likelihood of hitting over 1.5 threes in his next game. Despite his last five-game average being slightly below the prop at 1.4, his opponent's defense allows over 2.5 threes on average. Brogdon's performance improves significantly in away games with a 3-point shooting percentage of 46.7%, indicating a strong potential to exceed the prop, especially if the game is on the road."
+            }
+        },
+        {
+            "player": "bilal coulibaly",
+            "team": "washington wizards",
+            "opp": "oklahoma city thunder",
+            "prop": 1.5,
+            "prediction": {
+                "result": "over",
+                "certainty": 85.0,
+                "explaination": "Bilal Coulibaly has showcased strong recent performance with an average of 2.4 three-pointers made per game in his last 5 games, significantly above the prop line of 1.5. Considering his recent form, despite a general shooting percentage in the lower 30s, suggests he's finding his rhythm. Additionally, the opposing defense is allowing over 2.5 threes, which aligns with his current momentum. Therefore, it's likely he will go over the prop."
+            }
+        },
+        {
+            "player": "justin champagnie",
+            "team": "washington wizards",
+            "opp": "oklahoma city thunder",
+            "prop": 1.5,
+            "prediction": {
+                "result": "under",
+                "certainty": 0.7,
+                "explaination": "Justin Champagnie has been averaging about 1.4 three-pointers per game in his last five matchups, which is slightly below the prop line of 1.5. Additionally, his shooting percentages suggest moderate efficiency from beyond the arc. Although the opposing team's stats show they allow over 2.5 three-pointers per game, Justin's own shooting record and recent form imply he might struggle to exceed the 1.5 threshold in the next game."
+            }
+        },
+        {
+            "player": "alex caruso",
+            "team": "oklahoma city thunder",
+            "opp": "washington wizards",
+            "prop": 0.5,
+            "prediction": {
+                "result": "over",
+                "certainty": 0.75,
+                "explaination": "Alex Caruso's prop for three-pointers is set at 0.5. Given his recent average of 1.0 threes per game in his last five games and his away performance shooting 1.0 out of 3.3 attempts at a 30.8% success rate, he is likely to exceed the 0.5 mark. Additionally, the opponents have allowed an average of about 2.9 threes per game, which suggests defensive vulnerabilities. Considering these factors, betting on the over is a favorable choice with moderate confidence."
+            }
+        },
+        {
+            "player": "cason wallace",
+            "team": "oklahoma city thunder",
+            "opp": "washington wizards",
+            "prop": 0.5,
+            "prediction": {
+                "result": "over",
+                "certainty": 0.7,
+                "explaination": "Cason Wallace has averaged 1.0 three-pointers per game in the last five games, exceeding the prop of 0.5. Additionally, his opposing team's average for allowed three-pointers is significantly higher as per the opponent stats. Even with his variable shooting accuracy, the likelihood of him making at least one three-pointer is high."
+            }
+        },
+        {
+            "player": "luka doncic",
+            "team": "dallas mavericks",
+            "opp": "portland trail blazers",
+            "prop": 3.5,
+            "prediction": {
+                "result": "over",
+                "certainty": 0.85,
+                "explaination": "Luka Dončić has been averaging 4.4 three-pointers in his last five games and his overall shooting performance this season supports his ability to exceed the 3.5 mark. Additionally, his current shooting percentage, both at home and away, is consistent with clearing this prop. The opponents' stats indicate they allow around 2.77 to 2.85 threes, which isn't significantly dampening Luka's potential output."
+            }
+        },
+        {
+            "player": "anfernee simons",
+            "team": "portland trail blazers",
+            "opp": "dallas mavericks",
+            "prop": 2.5,
+            "prediction": {
+                "result": "over",
+                "certainty": 0.85,
+                "explaination": "Anfernee Simons has been averaging 3.0 three-pointers per game in his last five games, which is already above the prop of 2.5. His overall stats point towards a consistent ability to exceed this prop, especially in away games where he has a higher 3P% of 36.8. Additionally, the opposing team in his next game allows an average 3PM around the mid-high 2s, aligning with Simons' scoring capability. Given these factors, he is likely to score over 2.5 threes in the upcoming game."
+            }
+        },
+        {
+            "player": "jerami grant",
+            "team": "portland trail blazers",
+            "opp": "dallas mavericks",
+            "prop": 2.5,
+            "prediction": {
+                "result": "over",
+                "certainty": 80.0,
+                "explaination": "Jerami Grant has been shooting well from three-point range recently, averaging 3.4 successful shots in his last five games. His away game percentage also indicates a high success rate, further supporting the likelihood. When comparing against opponent averages and recent form, the odds favor him scoring more than 2.5 three-pointers in the upcoming match."
+            }
+        },
+        {
+            "player": "shaedon sharpe",
+            "team": "portland trail blazers",
+            "opp": "dallas mavericks",
+            "prop": 1.5,
+            "prediction": {
+                "result": "over",
+                "certainty": 0.72,
+                "explaination": "Shaedon Sharpe has shown an average of 1.8 three-pointers in his last five games, consistently surpassing the 1.5 mark set by the prop. Opponent statistics further support this prediction, with opponents allowing an average between 2.64 and 3.19 three-pointers, indicating a favorable environment for Sharpe to exceed 1.5 threes. Given the data, a prediction of exceeding the set prop seems reasonable."
+            }
+        },
+        {
+            "player": "deni avdija",
+            "team": "portland trail blazers",
+            "opp": "dallas mavericks",
+            "prop": 1.5,
+            "prediction": {
+                "result": "over",
+                "certainty": 0.8,
+                "explaination": "Deni Avdija has been averaging 2.0 threes per game in his last five games, which is above the prop of 1.5. His performance aligns with opponent statistics showing recent averages of 2.64 to 3.19 threes per game. His shooting percentage is consistent both at home and away, bolstering confidence he can surpass the set prop."
+            }
+        },
+        {
+            "player": "toumani camara",
+            "team": "portland trail blazers",
+            "opp": "dallas mavericks",
+            "prop": 1.5,
+            "prediction": {
+                "result": "under",
+                "certainty": 0.7,
+                "explaination": "Toumani Camara's current performance shows an average of 1.4 threes made per game in his last five games, which is below the 1.5 prop. His home three-point shooting percentage (36.4%) suggests he might struggle to surpass this threshold against an opponent allowing around 2.64 to 3.19 threes on average. Despite a strong away percentage (47.2%), the overall trend suggests hitting the under."
+            }
+        },
+        {
+            "player": "scoot henderson",
+            "team": "portland trail blazers",
+            "opp": "dallas mavericks",
+            "prop": 1.5,
+            "prediction": {
+                "result": "under",
+                "certainty": 0.85,
+                "explaination": "Scoot Henderson is shooting below average from the three-point line with a home percentage of 28.6% and away percentage of 20.5%. His recent form also shows he averages only 0.8 three-pointers in the last five games, which is significantly under the prop of 1.5. The opposition tends to allow more makes, but based on Scoot's current shooting woes, he is likely to fall short of the mark."
+            }
+        },
+        {
+            "player": "malik beasley",
+            "team": "detroit pistons",
+            "opp": "los angeles lakers",
+            "prop": 3.5,
+            "prediction": {
+                "result": "over",
+                "certainty": 80.0,
+                "explaination": "Malik Beasley has been on a hot streak, averaging 5.2 three-pointers in his last five games. His shooting performance, both home and away, shows a strong attempt rate and favorable shooting percentages. The opposition's average allowed three-pointers per game is lower than the prop, but his recent form and ability to surpass this average suggest he will likely achieve over 3.5 threes in the next game."
+            }
+        },
+        {
+            "player": "austin reaves",
+            "team": "los angeles lakers",
+            "opp": "detroit pistons",
+            "prop": 2.5,
+            "prediction": {
+                "result": "under",
+                "certainty": 75.0,
+                "explaination": "Austin Reaves has been averaging 2.2 three-pointers made over his last five games, which is below the line set at 2.5. Although his overall volume and percentage appear consistent both at home and away, his recent form suggests he might not exceed the prop value in his next game. Additionally, considering the opposing team's defensive stats, he could face challenges surpassing this average."
+            }
+        },
+        {
+            "player": "cade cunningham",
+            "team": "detroit pistons",
+            "opp": "los angeles lakers",
+            "prop": 2.5,
+            "prediction": {
+                "result": "over",
+                "certainty": 0.75,
+                "explaination": "Based on Cade Cunningham's recent performance of averaging 2.8 three-pointers over his last five games, and his overall consistency shown in his shooting stats both at home and away, it is reasonable to predict that he will exceed the 2.5 mark in his next game. His opponent's average allowed three-pointers align closely with his output, supporting an 'over' on this bet."
+            }
+        },
+        {
+            "player": "tim hardaway jr.",
+            "team": "detroit pistons",
+            "opp": "los angeles lakers",
+            "prop": 1.5,
+            "prediction": {
+                "result": "over",
+                "certainty": 75.0,
+                "explaination": "Tim Hardaway Jr.'s average performance in his recent games, hitting 2.4 three-pointers per game, suggests that he is performing slightly above the prop number of 1.5. Additionally, the opponent's stats indicate a vulnerability to three-pointers, with an average of over 2.5 3PM conceded in different time frames. His consistent performance both at home and away, with averages around 2 three-pointers per game, strengthens the likelihood of him going over the 1.5 prop in the next game."
+            }
+        },
+        {
+            "player": "lebron james",
+            "team": "los angeles lakers",
+            "opp": "detroit pistons",
+            "prop": 1.5,
+            "prediction": {
+                "result": "over",
+                "certainty": 80.0,
+                "explaination": "Based on LeBron James' recent performance of averaging 2.4 successful three-pointers per game in his last five games and his away performance showing a 38.3% shooting accuracy (making around 2.1 threes), it is likely he will make more than 1.5 three-pointers in his next game. Additionally, the opposition has allowed an average of around 3 three-pointers per game, indicating a favorable defensive matchup for LeBron's shooting capabilities. All these factors suggest he will score over 1.5 threes."
+            }
+        },
+        {
+            "player": "jaden ivey",
+            "team": "detroit pistons",
+            "opp": "los angeles lakers",
+            "prop": 1.5,
+            "prediction": {
+                "result": "over",
+                "certainty": 0.85,
+                "explaination": "Jaden Ivey has consistently performed above the prop of 1.5 three-pointers. His recent average of 2.0 three-pointers per game over the last five matches, along with an overall favorable percentage at home, indicates his capability to exceed this prop. Additionally, recent opposing team statistics suggest a likelihood of allowing over 1.5 three-pointers to guards."
+            }
+        },
+        {
+            "player": "simone fontecchio",
+            "team": "detroit pistons",
+            "opp": "los angeles lakers",
+            "prop": 1.5,
+            "prediction": {
+                "result": "under",
+                "certainty": 0.8,
+                "explaination": "Simone Fontecchio has averaged 1.2 made 3-pointers per game over his last five games, which is below the prop line of 1.5. His shooting percentages indicate he is neither an exceptionally high-volume nor high-efficiency 3-point shooter. Although the opposing team's averages could suggest a potential uplift, Fontecchio has yet to demonstrate consistent output above this prop in recent history, making \"under\" the more likely outcome."
+            }
+        },
+        {
+            "player": "rui hachimura",
+            "team": "los angeles lakers",
+            "opp": "detroit pistons",
+            "prop": 1.5,
+            "prediction": {
+                "result": "under",
+                "certainty": 0.75,
+                "explaination": "Rui Hachimura has been averaging 1.0 three-pointer per game in his last five games, which is below the prop of 1.5. Although his shooting percentage is quite strong, both at home and away, his recent form suggests he is not heavily relying on or making multiple three-pointers in matches. This consistent sighting tilts the prediction towards the under 1.5 mark."
+            }
+        },
+        {
+            "player": "tobias harris",
+            "team": "detroit pistons",
+            "opp": "los angeles lakers",
+            "prop": 1.5,
+            "prediction": {
+                "result": "over",
+                "certainty": 0.7,
+                "explaination": "Tobias Harris has demonstrated a recent ability to score 1.8 three-pointers per game in his last five games, indicating an upward trend in his 3-point shooting. Furthermore, his opponents have been allowing an average of around 2.5 to 2.71 three-pointers per game. Given these statistics, he is likely to exceed the prop of 1.5."
+            }
+        },
+        {
+            "player": "max christie",
+            "team": "los angeles lakers",
+            "opp": "detroit pistons",
+            "prop": 0.5,
+            "prediction": {
+                "result": "over",
+                "certainty": 0.75,
+                "explaination": "Max Christie has demonstrated the ability to surpass the given prop of 0.5 three-pointers in his recent performances. Over the last five games, he has been averaging 1.2 three-pointers per game, indicating consistent scoring from beyond the arc. His performance at home games further supports this, with an average of 0.7 successful three-point shots per game. Additionally, Christie's opposing defenses have allowed a significant number of three-pointers (averaging 3+ per game), suggesting further opportunity for success in his upcoming match-up."
+            }
+        },
+        {
+            "player": "anthony davis",
+            "team": "los angeles lakers",
+            "opp": "detroit pistons",
+            "prop": 0.5,
+            "prediction": {
+                "result": "over",
+                "certainty": 80.0,
+                "explaination": "Given Anthony Davis' recent performance, he averages 0.6 made threes per game over his last five games, which is slightly above the prop of 0.5 threes. His away shooting stats are stronger with a 44% success rate beyond the arc, indicating a higher chance of making at least one three-pointer. Furthermore, his opponent's average allows for over 3 threes per game, suggesting that the defensive strategy might give him some open looks. All indicators lean towards Davis making at least one three-pointer in the upcoming game."
+            }
+        }
+    ]
+}

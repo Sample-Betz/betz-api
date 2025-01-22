@@ -1,0 +1,1898 @@
+{
+    "type": "3ptrs",
+    "data": [
+        {
+            "player": "mikal bridges",
+            "espn": "https://www.espn.com/nba/player/_/id/3147657/mikal-bridges",
+            "team": "new york knicks",
+            "opp": "orlando magic",
+            "prop": 2.5,
+            "prediction": {
+                "result": "over",
+                "certainty": 0.85,
+                "explanation": "Mikal Bridges has been on a hot streak, averaging 3.6 made 3-pointers in his last five games, well above the prop line of 2.5. Additionally, he shows a slightly better performance on the road with a 39.4% shooting rate compared to 37.1% at home, hinting at increased confidence in away settings such as in Orlando. The Orlando Magic, while a strong defensive team with a rating of 106.3, have allowed around 2.28 3-pointers to players over the last 30 games, aligning more closely with season averages rather than recent trends. Given Bridges' recent form and the opponent's slightly lenient defense against 3-pointers, there's a strong likelihood he will surpass the 2.5 line in his next game."
+            },
+            "stats": {
+                "stats": {
+                    "home": {
+                        "min": "38.8",
+                        "3p%": "37.1",
+                        "3pt_made": "2.5",
+                        "3pt_attempted": "6.8"
+                    },
+                    "away": {
+                        "min": "39.4",
+                        "3p%": "39.4",
+                        "3pt_made": "2.8",
+                        "3pt_attempted": "7.1"
+                    }
+                },
+                "last_five_games": "Mikal Bridges has made 3.6 threes per game in his last 5 games in his career.",
+                "opp_stats": {
+                    "season": {
+                        "3pm": 2.28
+                    },
+                    "last 7 games": {
+                        "3pm": 1.94
+                    },
+                    "last 15 games": {
+                        "3pm": 2.2
+                    },
+                    "last 30 games": {
+                        "3pm": 2.28
+                    }
+                },
+                "opp_def_rating": "The Orlando Magic have a defensive rating of 106.3 this season."
+            }
+        },
+        {
+            "player": "jalen suggs",
+            "espn": "https://www.espn.com/nba/player/_/id/4432165/jalen-suggs",
+            "team": "orlando magic",
+            "opp": "new york knicks",
+            "prop": 2.5,
+            "prediction": {
+                "result": "under",
+                "certainty": 0.85,
+                "explanation": "Analyzing Jalen Suggs' recent performance trends and the defensive capabilities of his next opponent, the prediction suggests that he will go 'under' the 3-point made prop of 2.5 in his next game. Here's a concise breakdown of the data leading to this prediction:\n\n1. **Performance Trend:** Suggs has averaged 1.6 three-pointers made over his last five games. This is notably below the 2.5 threshold set by the prop, indicating a declining form\n2. **Home/Away Split:** His three-point shooting percentage (30.7%) and attempts slightly decrease when playing away, potentially affecting his scoring capabilities negatively, as he's averaging 2.1 threes made away from home.\n3. **Opponent's Defensive Strength:** The New York Knicks, with a defensive rating of 113.6, have recently allowed an average of 2.48 to 2.59 threes made by opponents in the last 7 to 15 games. This demonstrates their ability to limit three-point success against them.\n4. **Threshold for Risk:** With the prop set at 2.5 and given the lower form and stern opposition, the likelihood of him exceeding this prop is further reduced. \n\nGiven these factors, the probability of Jalen Suggs making over 2.5 three-pointers against the New York Knicks seems relatively low, prompting a conservative prediction of 'under.'"
+            },
+            "stats": {
+                "stats": {
+                    "home": {
+                        "min": "29.9",
+                        "3p%": "30.7",
+                        "3pt_made": "2.2",
+                        "3pt_attempted": "7.1"
+                    },
+                    "away": {
+                        "min": "27.5",
+                        "3p%": "30.7",
+                        "3pt_made": "2.1",
+                        "3pt_attempted": "6.8"
+                    }
+                },
+                "last_five_games": "Jalen Suggs has drained 1.6 threes per game in his last 5 games in his career.",
+                "opp_stats": {
+                    "season": {
+                        "3pm": 2.74
+                    },
+                    "last 7 games": {
+                        "3pm": 2.48
+                    },
+                    "last 15 games": {
+                        "3pm": 2.59
+                    },
+                    "last 30 games": {
+                        "3pm": 2.74
+                    }
+                },
+                "opp_def_rating": "The New York Knicks have a defensive rating of 113.6 this season."
+            }
+        },
+        {
+            "player": "jalen brunson",
+            "espn": "https://www.espn.com/nba/player/_/id/3934672/jalen-brunson",
+            "team": "new york knicks",
+            "opp": "orlando magic",
+            "prop": 2.5,
+            "prediction": {
+                "result": "over",
+                "certainty": 0.85,
+                "explanation": "1. **Recent Performance**: Jalen Brunson has shown consistency by making 2.6 three-pointers per game in his last 5 contests. This recent form suggests continued performance at or above the proposed prop.\n\n2. **Home Advantage**: At home, Brunson averages 2.6 three-pointers, significantly higher than his away performance. This game's setting favors his propensity to score beyond the arc.\n\n3. **Opponent's Defensive Context**: While the Orlando Magic have a decent defensive rating of 106.3, their allowance of 3-pointers per game is not particularly restrictive, with figures around or above 2.2 in various analyses over recent periods.\n\n4. **3-Point Efficiency**: A strong 42.2% success rate for home games further bolsters the potential for Brunson to surpass his prop on 6.2 attempts per game.\n\nGiven these factors, the probability leans towards Brunson going over the prop of 2.5, particularly in a favorable home setting."
+            },
+            "stats": {
+                "stats": {
+                    "home": {
+                        "min": "34.5",
+                        "3p%": "42.2",
+                        "3pt_made": "2.6",
+                        "3pt_attempted": "6.2"
+                    },
+                    "away": {
+                        "min": "33.0",
+                        "3p%": "33.3",
+                        "3pt_made": "2.0",
+                        "3pt_attempted": "6.0"
+                    }
+                },
+                "last_five_games": "Jalen Brunson has drained 2.6 three-pointers per game in his last 5 games in his career.",
+                "opp_stats": {
+                    "season": {
+                        "3pm": 2.28
+                    },
+                    "last 7 games": {
+                        "3pm": 1.94
+                    },
+                    "last 15 games": {
+                        "3pm": 2.2
+                    },
+                    "last 30 games": {
+                        "3pm": 2.28
+                    }
+                },
+                "opp_def_rating": "The Orlando Magic have a defensive rating of 106.3 this season."
+            }
+        },
+        {
+            "player": "og anunoby",
+            "espn": "https://www.espn.com/nba/player/_/id/3934719/og-anunoby",
+            "team": "new york knicks",
+            "opp": "orlando magic",
+            "prop": 1.5,
+            "prediction": {
+                "result": "over",
+                "certainty": 0.75,
+                "explanation": "OG Anunoby is currently averaging 2.0 three-pointers in his last five games, which is above the given prop of 1.5. When playing at home, he averages 2.2 three-pointers per game and attempts 6.1 shots from beyond the arc, indicating that he often meets or exceeds this line. Although his away performance dips to 1.9 threes made per game, the matchup against the Orlando Magic may be favorable. The Magic allow an average of 2.28 three-pointers per game over the season, which suggests some defensive lapses that Anunoby can capitalize on. Additionally, their solid defensive rating of 106.3 this season does highlight their overall defensive strengths but, given Anunoby's recent form and performance trends at home, there's a reasonable expectation for him to make at least 2 threes in this coming game. Therefore, predicting \"over\" on his 1.5 prop seems viable with moderate confidence."
+            },
+            "stats": {
+                "stats": {
+                    "home": {
+                        "min": "36.5",
+                        "3p%": "35.7",
+                        "3pt_made": "2.2",
+                        "3pt_attempted": "6.1"
+                    },
+                    "away": {
+                        "min": "35.6",
+                        "3p%": "30.6",
+                        "3pt_made": "1.9",
+                        "3pt_attempted": "6.1"
+                    }
+                },
+                "last_five_games": "OG Anunoby has averaged 2.0 three-pointers per game in his last 5 games in his career.",
+                "opp_stats": {
+                    "season": {
+                        "3pm": 2.28
+                    },
+                    "last 7 games": {
+                        "3pm": 1.94
+                    },
+                    "last 15 games": {
+                        "3pm": 2.2
+                    },
+                    "last 30 games": {
+                        "3pm": 2.28
+                    }
+                },
+                "opp_def_rating": "The Orlando Magic have a defensive rating of 106.3 this season."
+            }
+        },
+        {
+            "player": "karl-anthony towns",
+            "espn": "https://www.espn.com/nba/player/_/id/3136195/karl-anthony-towns",
+            "team": "new york knicks",
+            "opp": "orlando magic",
+            "prop": 1.5,
+            "prediction": {
+                "result": "over",
+                "certainty": 0.75,
+                "explanation": "Karl-Anthony Towns has a solid record for making 3-pointers this season, averaging over his prop of 1.5 in both home and away games. His home and away performance shows made 3-pointers higher than his current prop. In the last five games, he maintains an average of 2.0 made 3-pointers, aligning well with his season trend. \n\nFurthermore, the Orlando Magic's recent defensive statistics indicate they are allowing fewer made 3-pointers in the last 7 games (1.94), but their overall defensive rating of 106.3 suggests they aren't a top-tier perimeter defense. Given Towns' consistent shooting percentage above 40% for 3-pointers both home and away, the prediction leans towards 'over' with moderate confidence."
+            },
+            "stats": {
+                "stats": {
+                    "home": {
+                        "min": "34.0",
+                        "3p%": "44.7",
+                        "3pt_made": "2.3",
+                        "3pt_attempted": "5.0"
+                    },
+                    "away": {
+                        "min": "32.3",
+                        "3p%": "43.3",
+                        "3pt_made": "2.2",
+                        "3pt_attempted": "5.0"
+                    }
+                },
+                "last_five_games": "Karl-Anthony Towns has averaged 2.0 three-pointers per game in his last 5 games in his career.",
+                "opp_stats": {
+                    "season": {
+                        "3pm": 2.28
+                    },
+                    "last 7 games": {
+                        "3pm": 1.94
+                    },
+                    "last 15 games": {
+                        "3pm": 2.2
+                    },
+                    "last 30 games": {
+                        "3pm": 2.28
+                    }
+                },
+                "opp_def_rating": "The Orlando Magic have a defensive rating of 106.3 this season."
+            }
+        },
+        {
+            "player": "miles mcbride",
+            "espn": "https://www.espn.com/nba/player/_/id/4431823/miles-mcbride",
+            "team": "new york knicks",
+            "opp": "orlando magic",
+            "prop": 1.5,
+            "prediction": {
+                "result": "over",
+                "certainty": 0.75,
+                "explanation": "Miles McBride has been consistently making an average of 2.0 three-pointers per game recently, indicating strong form. His 3-point percentage is impressive both at home (41.1%) and away (42.3%), with a steady number of attempts per game. Meanwhile, the Orlando Magic, the upcoming opponent, allow an average of 2.28 three-pointers over the season and have slightly improved defensive stats in recent games (1.94 in the last 7 games), but still not enough to strongly suggest they can restrict McBride to under 1.5 made threes. Therefore, it's reasonable to predict that McBride will go over the 1.5 prop for 3-pointers made, given his current shooting rhythm and the opponent's defense on the perimeter."
+            },
+            "stats": {
+                "stats": {
+                    "home": {
+                        "min": "25.1",
+                        "3p%": "41.1",
+                        "3pt_made": "2.0",
+                        "3pt_attempted": "5.0"
+                    },
+                    "away": {
+                        "min": "25.3",
+                        "3p%": "42.3",
+                        "3pt_made": "2.0",
+                        "3pt_attempted": "4.7"
+                    }
+                },
+                "last_five_games": "Miles McBride has made 2.0 three-pointers per game in his last 5 games in his career.",
+                "opp_stats": {
+                    "season": {
+                        "3pm": 2.28
+                    },
+                    "last 7 games": {
+                        "3pm": 1.94
+                    },
+                    "last 15 games": {
+                        "3pm": 2.2
+                    },
+                    "last 30 games": {
+                        "3pm": 2.28
+                    }
+                },
+                "opp_def_rating": "The Orlando Magic have a defensive rating of 106.3 this season."
+            }
+        },
+        {
+            "player": "kentavious caldwell-pope",
+            "espn": "https://www.espn.com/nba/player/_/id/2581018/kentavious-caldwell-pope",
+            "team": "orlando magic",
+            "opp": "new york knicks",
+            "prop": 1.5,
+            "prediction": {
+                "result": "over",
+                "certainty": 0.7,
+                "explanation": "Kentavious Caldwell-Pope's recent form shows a stable shooting performance with an average of 1.6 made threes per game in his last five games. Given that his 3PT prop is set at 1.5, this suggests a propensity to exceed this mark. Additionally, his performance has been slightly better in away games, with a 3P% of 32.4%, higher than his home stats. \n\nLooking at the New York Knicks’ defensive statistics, they allow an average of 2.74 made threes over a large sample (season and last 30 games), which aligns with Caldwell-Pope's capacity to make shots. Their defensive rating of 113.6 indicates that they are not exceptionally strong defensively, providing further opportunities for Caldwell-Pope.\n\nGiven the alignment of Caldwell-Pope's current form, opponent tendencies, and shooting stats, there's a reasonable expectation for him to go over the 1.5 prop, albeit with a moderate level of certainty."
+            },
+            "stats": {
+                "stats": {
+                    "home": {
+                        "min": "30.7",
+                        "3p%": "30.3",
+                        "3pt_made": "1.5",
+                        "3pt_attempted": "4.8"
+                    },
+                    "away": {
+                        "min": "31.0",
+                        "3p%": "32.4",
+                        "3pt_made": "1.6",
+                        "3pt_attempted": "5.1"
+                    }
+                },
+                "last_five_games": "Kentavious Caldwell-Pope has hit 1.6 threes per game in his last 5 games in his career.",
+                "opp_stats": {
+                    "season": {
+                        "3pm": 2.74
+                    },
+                    "last 7 games": {
+                        "3pm": 2.48
+                    },
+                    "last 15 games": {
+                        "3pm": 2.59
+                    },
+                    "last 30 games": {
+                        "3pm": 2.74
+                    }
+                },
+                "opp_def_rating": "The New York Knicks have a defensive rating of 113.6 this season."
+            }
+        },
+        {
+            "player": "tristan da silva",
+            "espn": "https://www.espn.com/nba/player/_/id/4702382/tristan-da-silva",
+            "team": "orlando magic",
+            "opp": "new york knicks",
+            "prop": 1.5,
+            "prediction": {
+                "result": "over",
+                "certainty": 0.7,
+                "explanation": "Tristan da Silva has shown improvement in his 3-point shooting, averaging 2.0 makes per game over the last five games, which is significant compared to his season averages. Although his 3-point percentage is slightly lower away at 32.7%, he attempts more shots (4.6 attempts). The New York Knicks, the upcoming opponent, allow a descending average of 2.74, 2.48 over the last 7 games, indicating a solid perimeter defense. However, their overall defensive rating is a middling 113.6. Given da Silva's recent hot streak and the prop line set at 1.5, it's reasonable to predict he'll go over."
+            },
+            "stats": {
+                "stats": {
+                    "home": {
+                        "min": "24.3",
+                        "3p%": "34.0",
+                        "3pt_made": "1.3",
+                        "3pt_attempted": "3.7"
+                    },
+                    "away": {
+                        "min": "27.3",
+                        "3p%": "32.7",
+                        "3pt_made": "1.5",
+                        "3pt_attempted": "4.6"
+                    }
+                },
+                "last_five_games": "Tristan da Silva has averaged 2.0 three-pointers per game in his last 5 games in his career.",
+                "opp_stats": {
+                    "season": {
+                        "3pm": 2.74
+                    },
+                    "last 7 games": {
+                        "3pm": 2.48
+                    },
+                    "last 15 games": {
+                        "3pm": 2.59
+                    },
+                    "last 30 games": {
+                        "3pm": 2.74
+                    }
+                },
+                "opp_def_rating": "The New York Knicks have a defensive rating of 113.6 this season."
+            }
+        },
+        {
+            "player": "trevelin queen",
+            "espn": "https://www.espn.com/nba/player/_/id/4409222/trevelin-queen",
+            "team": "orlando magic",
+            "opp": "new york knicks",
+            "prop": 1.5,
+            "prediction": {
+                "result": "under",
+                "certainty": 0.7,
+                "explanation": "1. **Recent Form:** Trevelin Queen has averaged only 1.0 three-pointers per game over his last five games, which is below the prop line of 1.5.\n\n2. **Shooting Opportunities:** His average 3-point attempts per game both home (1.2) and away (1.5) are limited, suggesting fewer chances to exceed the prop line.\n\n3. **Opponent Defense:** The New York Knicks have an opponent 3PM stat around 2.5-2.7 over various spans, indicating they generally allow a moderate number of threes.\n\n4. **Defensive Rating:** With a defensive rating of 113.6, the Knicks aren't the staunchest defense but are not overly permissive either. \n\n5. **Game Location:** There's a slight increase in Trevelin's away stats (1.3 average 3PM), but it still falls short of the prop line, and the Knicks play solid defense at home.\n\nWhile Trevelin Queen shows efficiency with a high 3P% (83.3%), the low volume of attempts and average recent performance suggest he is more likely to go under the 1.5 prop for his next game."
+            },
+            "stats": {
+                "stats": {
+                    "home": {
+                        "min": "11.8",
+                        "3p%": "83.3",
+                        "3pt_made": "1.0",
+                        "3pt_attempted": "1.2"
+                    },
+                    "away": {
+                        "min": "14.0",
+                        "3p%": "83.3",
+                        "3pt_made": "1.3",
+                        "3pt_attempted": "1.5"
+                    }
+                },
+                "last_five_games": "Trevelin Queen has averaged 1.0 three-pointer per game in his last 5 games in his career.",
+                "opp_stats": {
+                    "season": {
+                        "3pm": 2.74
+                    },
+                    "last 7 games": {
+                        "3pm": 2.48
+                    },
+                    "last 15 games": {
+                        "3pm": 2.59
+                    },
+                    "last 30 games": {
+                        "3pm": 2.74
+                    }
+                },
+                "opp_def_rating": "The New York Knicks have a defensive rating of 113.6 this season."
+            }
+        },
+        {
+            "player": "cameron payne",
+            "espn": "https://www.espn.com/nba/player/_/id/3064230/cameron-payne",
+            "team": "new york knicks",
+            "opp": "orlando magic",
+            "prop": 1.5,
+            "prediction": {
+                "result": "over",
+                "certainty": 0.7,
+                "explanation": "Cameron Payne's performance indicates a strong chance of surpassing the 1.5 prop for 3-pointers made in his next game. Here's the reasoning:\n\n1. **Recent Performance**: Payne's recent average of 1.4 three-pointers per game, while close to the prop, doesn't fully capture his potential as he's playing more efficiently on the road.\n\n2. **Home vs. Away Performance**: He performs better in away games with an impressive 49% 3P% and averages 2.2 threes made per game. Given the away environment, he's likely to continue this trend.\n\n3. **Opponent Overview**: The Orlando Magic allow an average of 2.28 3-pointers across multiple recent spans, indicating they're not particularly proficient in defending against the 3.\n\n4. **Defensive Rating**: While Orlando's defensive rating of 106.3 is strong, it highlights their general defensive competence rather than specific 3-point defense weaknesses.\n\nTaking these factors into account against a prop of 1.5, the data suggests that Payne is more likely to go over, especially given his away game form and the opponent's average 3-point concession."
+            },
+            "stats": {
+                "stats": {
+                    "home": {
+                        "min": "16.2",
+                        "3p%": "41.5",
+                        "3pt_made": "1.6",
+                        "3pt_attempted": "3.9"
+                    },
+                    "away": {
+                        "min": "16.4",
+                        "3p%": "49.0",
+                        "3pt_made": "2.2",
+                        "3pt_attempted": "4.5"
+                    }
+                },
+                "last_five_games": "Cameron Payne has hit 1.4 threes per game in his last 5 games in his career.",
+                "opp_stats": {
+                    "season": {
+                        "3pm": 2.28
+                    },
+                    "last 7 games": {
+                        "3pm": 1.94
+                    },
+                    "last 15 games": {
+                        "3pm": 2.2
+                    },
+                    "last 30 games": {
+                        "3pm": 2.28
+                    }
+                },
+                "opp_def_rating": "The Orlando Magic have a defensive rating of 106.3 this season."
+            }
+        },
+        {
+            "player": "josh hart",
+            "espn": "https://www.espn.com/nba/player/_/id/3062679/josh-hart",
+            "team": "new york knicks",
+            "opp": "orlando magic",
+            "prop": 1.5,
+            "prediction": {
+                "result": "over",
+                "certainty": 0.72,
+                "explanation": "Josh Hart is set to play against a team with a moderately strong defensive rating of 106.3 (Orlando Magic). However, given his current form, there are several factors indicating he could exceed the 1.5 3-pointers made prop:\n\n1. **Recent Form**: Hart has been averaging 1.4 3-pointers per game over his last five outings, showing a consistent attempt to hit beyond the arc. This metric is close to the prop, making it feasible for him to surpass it.\n\n2. **Performance on the Road**: When playing away, Hart has a higher 3-point shooting percentage of 43.4% and makes an average of 1.6 3-pointers per game. This is pivotal as games on the road are often tougher, and he seems to thrive under such conditions.\n\n3. **Opponent's Vulnerability**: The Magic have allowed an average of 2.28 3-pointers to opponents over the season. Although this figure dips slightly in recent games (1.94 for the last 7 games), they still provide ample opportunities for efficient shooters like Hart.\n\n4. **Player's Aggressiveness**: With Hart attempting nearly 3.8 threes per game away, the likelihood of making two increases, especially if his shooting percentage holds.\n\nIn conclusion, based on his away performance, current form, and Orlando's defensive lapses, there's a higher probability of Hart going over the 1.5 prop for this matchup."
+            },
+            "stats": {
+                "stats": {
+                    "home": {
+                        "min": "36.8",
+                        "3p%": "39.8",
+                        "3pt_made": "1.3",
+                        "3pt_attempted": "3.4"
+                    },
+                    "away": {
+                        "min": "36.5",
+                        "3p%": "43.4",
+                        "3pt_made": "1.6",
+                        "3pt_attempted": "3.8"
+                    }
+                },
+                "last_five_games": "Josh Hart has averaged 1.4 three-pointers per game in his last 5 games in his career.",
+                "opp_stats": {
+                    "season": {
+                        "3pm": 2.28
+                    },
+                    "last 7 games": {
+                        "3pm": 1.94
+                    },
+                    "last 15 games": {
+                        "3pm": 2.2
+                    },
+                    "last 30 games": {
+                        "3pm": 2.28
+                    }
+                },
+                "opp_def_rating": "The Orlando Magic have a defensive rating of 106.3 this season."
+            }
+        },
+        {
+            "player": "jayson tatum",
+            "espn": "https://www.espn.com/nba/player/_/id/4065648/jayson-tatum",
+            "team": "boston celtics",
+            "opp": "indiana pacers",
+            "prop": 3.5,
+            "prediction": {
+                "result": "over",
+                "certainty": 0.8,
+                "explanation": "1. **Player Performance:** Jayson Tatum is averaging around 4.0 made 3-pointers in his last five games, showing consistency with his shooting form. His 3-point percentages at both home (37.5%) and away (38.7%) indicate strong shooting ability, and he attempts over 10 shots per game, providing ample opportunity to meet or exceed the prop.\n\n2. **Opponent's Defensive Weaknesses:** The Indiana Pacers have a high defensive rating of 115.5, suggesting they may struggle defensively. Additionally, they have allowed on average over 2.6 made 3-pointers across various periods, which aligns with their lax defense against 3-point shooters.\n\n3. **Trend and Confidence:** Considering Tatum's strong recent form, ability, and the opponent's vulnerabilities, there is a high probability that he will exceed 3.5 made 3-pointers in the next game. Therefore, predicting 'over' is a justified conclusion given the provided data."
+            },
+            "stats": {
+                "stats": {
+                    "home": {
+                        "min": "36.6",
+                        "3p%": "37.5",
+                        "3pt_made": "4.0",
+                        "3pt_attempted": "10.6"
+                    },
+                    "away": {
+                        "min": "37.2",
+                        "3p%": "38.7",
+                        "3pt_made": "3.9",
+                        "3pt_attempted": "10.1"
+                    }
+                },
+                "last_five_games": "Jayson Tatum has drained 4.0 threes per game in his last 5 games in his career.",
+                "opp_stats": {
+                    "season": {
+                        "3pm": 2.61
+                    },
+                    "last 7 games": {
+                        "3pm": 2.51
+                    },
+                    "last 15 games": {
+                        "3pm": 2.66
+                    },
+                    "last 30 games": {
+                        "3pm": 2.61
+                    }
+                },
+                "opp_def_rating": "The Indiana Pacers have a defensive rating of 115.5 this season."
+            }
+        },
+        {
+            "player": "derrick white",
+            "espn": "https://www.espn.com/nba/player/_/id/3078576/derrick-white",
+            "team": "boston celtics",
+            "opp": "indiana pacers",
+            "prop": 3.5,
+            "prediction": {
+                "result": "under",
+                "certainty": 0.78,
+                "explanation": "Derrick White's recent form shows a dip with an average of 2.8 three-pointers per game in his last five games, which is below his overall average of 3.6 at home and 4.1 away.\n\nAlthough he tends to perform slightly better in away games, with a 39.9% success rate compared to 39% at home, his recent form suggests a decline. \n\nFurthermore, the Indiana Pacers, despite having a higher defensive rating of 115.5, have allowed an average of 2.51 to 2.66 three-pointers in recent sets of games, which isn't particularly lax defensively.\n\nConsidering these elements, there's a reasonable chance he stays under 3.5 made three-pointers in the next game."
+            },
+            "stats": {
+                "stats": {
+                    "home": {
+                        "min": "34.4",
+                        "3p%": "39.0",
+                        "3pt_made": "3.6",
+                        "3pt_attempted": "9.1"
+                    },
+                    "away": {
+                        "min": "35.8",
+                        "3p%": "39.9",
+                        "3pt_made": "4.1",
+                        "3pt_attempted": "10.2"
+                    }
+                },
+                "last_five_games": "Derrick White has 2.8 three-pointers per game in his last 5 games in his career.",
+                "opp_stats": {
+                    "season": {
+                        "3pm": 2.61
+                    },
+                    "last 7 games": {
+                        "3pm": 2.51
+                    },
+                    "last 15 games": {
+                        "3pm": 2.66
+                    },
+                    "last 30 games": {
+                        "3pm": 2.61
+                    }
+                },
+                "opp_def_rating": "The Indiana Pacers have a defensive rating of 115.5 this season."
+            }
+        },
+        {
+            "player": "tyrese haliburton",
+            "espn": "https://www.espn.com/nba/player/_/id/4396993/tyrese-haliburton",
+            "team": "indiana pacers",
+            "opp": "boston celtics",
+            "prop": 3.5,
+            "prediction": {
+                "result": "under",
+                "certainty": 0.75,
+                "explanation": "Tyrese Haliburton is set to face the Boston Celtics, a team known for their strong defensive capabilities, as reflected in their defensive rating of 110.5. Haliburton's performance shows a solid 3-point percentage but a recent dip in form, averaging only 2.8 threes per game over his last five outings. Additionally, his away stats demonstrate a stronger performance, making 3.8 threes per game. However, given this game is against a resilient Celtics defense that allows a low average of 2.54 threes per average game even in recent stretches, the chances of Haliburton hitting over 3.5 threes seem slim. This prediction considers the combination of Haliburton's recent form, the opponent's defensive attributes, and overall trends in his gameplay, leading to a higher likelihood of him finishing under the prop limit."
+            },
+            "stats": {
+                "stats": {
+                    "home": {
+                        "min": "35.3",
+                        "3p%": "35.5",
+                        "3pt_made": "3.1",
+                        "3pt_attempted": "8.6"
+                    },
+                    "away": {
+                        "min": "35.4",
+                        "3p%": "41.8",
+                        "3pt_made": "3.8",
+                        "3pt_attempted": "9.2"
+                    }
+                },
+                "last_five_games": "Tyrese Haliburton has made 2.8 threes per game in his last 5 games in his career.",
+                "opp_stats": {
+                    "season": {
+                        "3pm": 2.54
+                    },
+                    "last 7 games": {
+                        "3pm": 2.79
+                    },
+                    "last 15 games": {
+                        "3pm": 2.7
+                    },
+                    "last 30 games": {
+                        "3pm": 2.54
+                    }
+                },
+                "opp_def_rating": "The Boston Celtics have a defensive rating of 110.5 this season."
+            }
+        },
+        {
+            "player": "kristaps porzingis",
+            "espn": "https://www.espn.com/nba/player/_/id/3102531/kristaps-porzingis",
+            "team": "boston celtics",
+            "opp": "indiana pacers",
+            "prop": 1.5,
+            "prediction": {
+                "result": "over",
+                "certainty": 0.75,
+                "explanation": "Kristaps Porziņģis shows consistent performance with three-pointers, averaging 2.0 made per game at home and 2.3 on the road. His recent trend also indicates steady output with 1.6 three-pointers made per game over the last five games. The Indiana Pacers, with a defensive rating of 115.5, indicate weaker defense, and they allow over two and a half 3-pointers on average — offering him ample opportunity to go over the prop of 1.5. Given the player's tendency to make more 3-pointers when away, along with Indiana's defensive struggle, Kristaps is likely to exceed his line."
+            },
+            "stats": {
+                "stats": {
+                    "home": {
+                        "min": "27.2",
+                        "3p%": "32.8",
+                        "3pt_made": "2.0",
+                        "3pt_attempted": "6.1"
+                    },
+                    "away": {
+                        "min": "27.3",
+                        "3p%": "32.6",
+                        "3pt_made": "2.3",
+                        "3pt_attempted": "7.2"
+                    }
+                },
+                "last_five_games": "Kristaps Porziņģis has 1.6 three-pointers per game in his last 5 games in his career.",
+                "opp_stats": {
+                    "season": {
+                        "3pm": 2.61
+                    },
+                    "last 7 games": {
+                        "3pm": 2.51
+                    },
+                    "last 15 games": {
+                        "3pm": 2.66
+                    },
+                    "last 30 games": {
+                        "3pm": 2.61
+                    }
+                },
+                "opp_def_rating": "The Indiana Pacers have a defensive rating of 115.5 this season."
+            }
+        },
+        {
+            "player": "jaylen brown",
+            "espn": "https://www.espn.com/nba/player/_/id/3917376/jaylen-brown",
+            "team": "boston celtics",
+            "opp": "indiana pacers",
+            "prop": 1.5,
+            "prediction": {
+                "result": "over",
+                "certainty": 0.75,
+                "explanation": "Jaylen Brown has demonstrated strong performance in away games, averaging 2.6 3-pointers made with a solid 38.9% success rate on 6.8 attempts. Despite his recent dip in form, achieving only 1.4 threes per game over the last five games, he faces a Pacers' defense that allows an average of 2.61 threes per 3-point shooter and has a relatively high defensive rating of 115.5. With a prop of 1.5, Brown is poised to exceed this mark, especially given his improved away performance."
+            },
+            "stats": {
+                "stats": {
+                    "home": {
+                        "min": "35.6",
+                        "3p%": "32.2",
+                        "3pt_made": "2.3",
+                        "3pt_attempted": "7.1"
+                    },
+                    "away": {
+                        "min": "35.7",
+                        "3p%": "38.9",
+                        "3pt_made": "2.6",
+                        "3pt_attempted": "6.8"
+                    }
+                },
+                "last_five_games": "Jaylen Brown has 1.4 threes per game in his last 5 games in his career.",
+                "opp_stats": {
+                    "season": {
+                        "3pm": 2.61
+                    },
+                    "last 7 games": {
+                        "3pm": 2.51
+                    },
+                    "last 15 games": {
+                        "3pm": 2.66
+                    },
+                    "last 30 games": {
+                        "3pm": 2.61
+                    }
+                },
+                "opp_def_rating": "The Indiana Pacers have a defensive rating of 115.5 this season."
+            }
+        },
+        {
+            "player": "jrue holiday",
+            "espn": "https://www.espn.com/nba/player/_/id/3995/jrue-holiday",
+            "team": "boston celtics",
+            "opp": "indiana pacers",
+            "prop": 1.5,
+            "prediction": {
+                "result": "under",
+                "certainty": 0.75,
+                "explanation": "Jrue Holiday's current form shows a downward trend in 3-pointers made, averaging only 1.2 per game over the last five games, which is below his season average. Although he generally performs slightly better away (1.9) than at home (1.8), the overall percentages and recent performance indicate a struggle in finding consistency beyond the arc. \n\nThe Indiana Pacers, with a defensive rating of 115.5, have been moderately effective against 3-point shooters, allowing an average that aligns with league standards over varying spans. Given his recent dip in performance, it's plausible that Holiday might continue to struggle to reach over 1.5 made 3-pointers in the upcoming game."
+            },
+            "stats": {
+                "stats": {
+                    "home": {
+                        "min": "30.6",
+                        "3p%": "32.6",
+                        "3pt_made": "1.8",
+                        "3pt_attempted": "5.4"
+                    },
+                    "away": {
+                        "min": "31.2",
+                        "3p%": "29.5",
+                        "3pt_made": "1.9",
+                        "3pt_attempted": "6.5"
+                    }
+                },
+                "last_five_games": "Jrue Holiday has sunk 1.2 threes per game in his last 5 games in his career.",
+                "opp_stats": {
+                    "season": {
+                        "3pm": 2.61
+                    },
+                    "last 7 games": {
+                        "3pm": 2.51
+                    },
+                    "last 15 games": {
+                        "3pm": 2.66
+                    },
+                    "last 30 games": {
+                        "3pm": 2.61
+                    }
+                },
+                "opp_def_rating": "The Indiana Pacers have a defensive rating of 115.5 this season."
+            }
+        },
+        {
+            "player": "myles turner",
+            "espn": "https://www.espn.com/nba/player/_/id/3133628/myles-turner",
+            "team": "indiana pacers",
+            "opp": "boston celtics",
+            "prop": 1.5,
+            "prediction": {
+                "result": "over",
+                "certainty": 0.85,
+                "explanation": "Based on the data provided, the following observations support the prediction that Myles Turner will exceed 1.5 three-pointers made in his next game: \n\n1. **Player Performance:** \n   - Turner shows consistent shooting proficiency with a high 3-point percentage of around 41% both at home and away. His average for 3-pointers made per game stands well above the line at 2.1 (home) and 2.2 (away).\n   - Recent trends indicate that Turner has averaged 2.0 3-pointers made across his last five games, demonstrating continuity in his performance.\n\n2. **Opposition's Defensive Metrics:**\n   - Though the Celtics have a commendable overall defensive rating of 110.5, they have allowed an average of 2.54 three-pointers per game over the season. However, this rate has increased to 2.79 over their last 7 games, suggesting a relative vulnerability against 3-point attempts recently.\n\n3. **Historical and Contextual Factors:**\n   - Given the line of 1.5 tends towards the lower side somewhat (compared to his average shooting), it provides more room to believe he will exceed this prop.\n\nConsidering this combination of Turner's strong average performance, recent trends, and the Celtics' slightly more lenient 3-point defense in recent games, it is reasonable to predict that Myles Turner will go over 1.5 three-pointers made in his upcoming game."
+            },
+            "stats": {
+                "stats": {
+                    "home": {
+                        "min": "31.5",
+                        "3p%": "40.8",
+                        "3pt_made": "2.1",
+                        "3pt_attempted": "5.1"
+                    },
+                    "away": {
+                        "min": "32.2",
+                        "3p%": "41.4",
+                        "3pt_made": "2.2",
+                        "3pt_attempted": "5.3"
+                    }
+                },
+                "last_five_games": "Myles Turner has hit 2.0 three-pointers per game in his last 5 games in his career.",
+                "opp_stats": {
+                    "season": {
+                        "3pm": 2.54
+                    },
+                    "last 7 games": {
+                        "3pm": 2.79
+                    },
+                    "last 15 games": {
+                        "3pm": 2.7
+                    },
+                    "last 30 games": {
+                        "3pm": 2.54
+                    }
+                },
+                "opp_def_rating": "The Boston Celtics have a defensive rating of 110.5 this season."
+            }
+        },
+        {
+            "player": "bennedict mathurin",
+            "espn": "https://www.espn.com/nba/player/_/id/4683634/bennedict-mathurin",
+            "team": "indiana pacers",
+            "opp": "boston celtics",
+            "prop": 1.5,
+            "prediction": {
+                "result": "under",
+                "certainty": 0.65,
+                "explanation": "Bennedict Mathurin's average 3-pointers made per game this season is around 1.6 for away games and 1.4 for home games. Although his away performance is slightly better, his recent form over the last five games shows he has averaged only 1.0 3PM per game. \n\nAdditionally, he will be facing the Boston Celtics, who have a respectable defensive rating of 110.5. Over their last 7 games, the Celtics have limited opposition shooters to just 2.79 3-pointers per game, showing their effectiveness in guarding the perimeter.\n\nConsidering Mathurin's recent cooldown in performance and the Celtics' consistent defensive capabilities, it is more likely that he will go 'under' the 1.5 3PT made prop."
+            },
+            "stats": {
+                "stats": {
+                    "home": {
+                        "min": "32.9",
+                        "3p%": "35.5",
+                        "3pt_made": "1.4",
+                        "3pt_attempted": "4.0"
+                    },
+                    "away": {
+                        "min": "34.9",
+                        "3p%": "35.2",
+                        "3pt_made": "1.6",
+                        "3pt_attempted": "4.5"
+                    }
+                },
+                "last_five_games": "Bennedict Mathurin has sunk 1.0 three per game in his last 5 games in his career.",
+                "opp_stats": {
+                    "season": {
+                        "3pm": 2.54
+                    },
+                    "last 7 games": {
+                        "3pm": 2.79
+                    },
+                    "last 15 games": {
+                        "3pm": 2.7
+                    },
+                    "last 30 games": {
+                        "3pm": 2.54
+                    }
+                },
+                "opp_def_rating": "The Boston Celtics have a defensive rating of 110.5 this season."
+            }
+        },
+        {
+            "player": "pascal siakam",
+            "espn": "https://www.espn.com/nba/player/_/id/3149673/pascal-siakam",
+            "team": "indiana pacers",
+            "opp": "boston celtics",
+            "prop": 1.5,
+            "prediction": {
+                "result": "over",
+                "certainty": 80.0,
+                "explanation": "Pascal Siakam has been on a strong trend in his recent games, averaging 2.8 three-pointers made in his last five games. His shooting accuracy is impressive at over 40% both at home and away, and his game minutes are consistent, indicating reliability.\n\nConsidering the opponent's defensive context, the Boston Celtics, who have allowed an average of 2.54 to 2.79 three-pointers in different recent spans, Siakam's form against their defensive rating of 110.5 suggests he should perform well. Siakam's recent uptick in 3-point shooting makes it reasonable to project he will exceed the 1.5 prop for three-pointers made."
+            },
+            "stats": {
+                "stats": {
+                    "home": {
+                        "min": "34.3",
+                        "3p%": "42.0",
+                        "3pt_made": "1.8",
+                        "3pt_attempted": "4.4"
+                    },
+                    "away": {
+                        "min": "35.3",
+                        "3p%": "40.7",
+                        "3pt_made": "1.8",
+                        "3pt_attempted": "4.5"
+                    }
+                },
+                "last_five_games": "Pascal Siakam has 2.8 threes per game in his last 5 games in his career.",
+                "opp_stats": {
+                    "season": {
+                        "3pm": 2.54
+                    },
+                    "last 7 games": {
+                        "3pm": 2.79
+                    },
+                    "last 15 games": {
+                        "3pm": 2.7
+                    },
+                    "last 30 games": {
+                        "3pm": 2.54
+                    }
+                },
+                "opp_def_rating": "The Boston Celtics have a defensive rating of 110.5 this season."
+            }
+        },
+        {
+            "player": "ben sheppard",
+            "espn": "https://www.espn.com/nba/player/_/id/4433076/ben-sheppard",
+            "team": "indiana pacers",
+            "opp": "boston celtics",
+            "prop": 1.5,
+            "prediction": {
+                "result": "under",
+                "certainty": 0.75,
+                "explanation": "Ben Sheppard has been consistent in attempting and making three-pointers with slightly better performance on away games. However, against an opponent like the Boston Celtics, who have a solid defensive presence with a rating of 110.5, he might face challenges. Despite his decent 3P% and recent away game averages, his last five-game performance has seen a slight dip to 1.2 3PT made per game. Additionally, the Celtics have allowed fewer 3PT shots, particularly limiting opponents to an average of 2.54 per game in recent stretches. These factors suggest the likelihood of him going under 1.5 threes in the upcoming game."
+            },
+            "stats": {
+                "stats": {
+                    "home": {
+                        "min": "19.8",
+                        "3p%": "41.1",
+                        "3pt_made": "1.4",
+                        "3pt_attempted": "3.5"
+                    },
+                    "away": {
+                        "min": "20.8",
+                        "3p%": "42.9",
+                        "3pt_made": "1.5",
+                        "3pt_attempted": "3.5"
+                    }
+                },
+                "last_five_games": "Ben Sheppard has averaged 1.2 threes per game in his last 5 games in his career.",
+                "opp_stats": {
+                    "season": {
+                        "3pm": 2.54
+                    },
+                    "last 7 games": {
+                        "3pm": 2.79
+                    },
+                    "last 15 games": {
+                        "3pm": 2.7
+                    },
+                    "last 30 games": {
+                        "3pm": 2.54
+                    }
+                },
+                "opp_def_rating": "The Boston Celtics have a defensive rating of 110.5 this season."
+            }
+        },
+        {
+            "player": "andrew nembhard",
+            "espn": "https://www.espn.com/nba/player/_/id/4395712/andrew-nembhard",
+            "team": "indiana pacers",
+            "opp": "boston celtics",
+            "prop": 1.5,
+            "prediction": {
+                "result": "under",
+                "certainty": 0.75,
+                "explanation": "Andrew Nembhard is averaging 0.8 3-pointers made both at home and away, indicating a consistent level of performance regardless of location. His recent trend in the last five games has shown a slight increase to 1.2 3-pointers per game, which is still under the 1.5 prop mark. Additionally, the opponent, Boston Celtics, have a sound defensive rating of 110.5 and their 3-point defense recently has been tight, particularly allowing only about 2.79 3-pointers in the last 7 games. Given these factors, it's more likely Nembhard will fall under the 1.5 prop for 3-pointers made in his next game."
+            },
+            "stats": {
+                "stats": {
+                    "home": {
+                        "min": "26.1",
+                        "3p%": "34.3",
+                        "3pt_made": "0.8",
+                        "3pt_attempted": "2.2"
+                    },
+                    "away": {
+                        "min": "25.2",
+                        "3p%": "36.4",
+                        "3pt_made": "0.8",
+                        "3pt_attempted": "2.2"
+                    }
+                },
+                "last_five_games": "Andrew Nembhard has hit 1.2 three-pointers per game in his last 5 games in his career.",
+                "opp_stats": {
+                    "season": {
+                        "3pm": 2.54
+                    },
+                    "last 7 games": {
+                        "3pm": 2.79
+                    },
+                    "last 15 games": {
+                        "3pm": 2.7
+                    },
+                    "last 30 games": {
+                        "3pm": 2.54
+                    }
+                },
+                "opp_def_rating": "The Boston Celtics have a defensive rating of 110.5 this season."
+            }
+        },
+        {
+            "player": "trey murphy iii",
+            "espn": "https://www.espn.com/nba/player/_/id/4397688/trey-murphy-iii",
+            "team": "new orleans pelicans",
+            "opp": "memphis grizzlies",
+            "prop": 3.5,
+            "prediction": {
+                "result": "under",
+                "certainty": 0.75,
+                "explanation": "Trey Murphy III's consistent 3-point performance, both home and away, averages just under the current prop of 3.5, despite a slight uptick in his recent games. The opponent, Memphis Grizzlies, possess a strong defense with a rating of 107.6 and have been allowing limited 3-pointers both season-long and in recent games, with a max of 2.65. Combined, these factors create a challenging environment for exceeding 3.5 3-pointers in this upcoming game."
+            },
+            "stats": {
+                "stats": {
+                    "home": {
+                        "min": "33.9",
+                        "3p%": "35.0",
+                        "3pt_made": "2.8",
+                        "3pt_attempted": "8.1"
+                    },
+                    "away": {
+                        "min": "33.3",
+                        "3p%": "40.7",
+                        "3pt_made": "3.0",
+                        "3pt_attempted": "7.4"
+                    }
+                },
+                "last_five_games": "Trey Murphy III has hit 3.2 threes per game in his last 5 games in his career.",
+                "opp_stats": {
+                    "season": {
+                        "3pm": 2.65
+                    },
+                    "last 7 games": {
+                        "3pm": 2.54
+                    },
+                    "last 15 games": {
+                        "3pm": 2.45
+                    },
+                    "last 30 games": {
+                        "3pm": 2.65
+                    }
+                },
+                "opp_def_rating": "The Memphis Grizzlies have a defensive rating of 107.6 this season."
+            }
+        },
+        {
+            "player": "cj mccollum",
+            "espn": "https://www.espn.com/nba/player/_/id/2490149/cj-mccollum",
+            "team": "new orleans pelicans",
+            "opp": "memphis grizzlies",
+            "prop": 2.5,
+            "prediction": {
+                "result": "under",
+                "certainty": 0.7,
+                "explanation": "Analyzing CJ McCollum's data, his 3-point shooting accuracy at home is 32.1% and away is 33.8%, with a slightly better average of 3.1 three-pointers made per game on the road. His recent form is concerning, with just 1.6 3-pointers made per game in the last 5 games, indicating a cold streak. Although his average sits slightly above the prop of 2.5 when he plays away, the next matchup against the Memphis Grizzlies will be challenging. Memphis boasts a solid defensive rating of 107.6 and typically allows fewer than 3 3-pointers per game. Given recent performance trends and a strong opponent defense, the likelihood of McCollum hitting the over is reduced, suggesting he will go under the 2.5 prop in the upcoming game."
+            },
+            "stats": {
+                "stats": {
+                    "home": {
+                        "min": "33.8",
+                        "3p%": "32.1",
+                        "3pt_made": "2.6",
+                        "3pt_attempted": "8.1"
+                    },
+                    "away": {
+                        "min": "34.7",
+                        "3p%": "33.8",
+                        "3pt_made": "3.1",
+                        "3pt_attempted": "9.3"
+                    }
+                },
+                "last_five_games": "CJ McCollum has drained 1.6 three-pointers per game in his last 5 games in his career.",
+                "opp_stats": {
+                    "season": {
+                        "3pm": 2.65
+                    },
+                    "last 7 games": {
+                        "3pm": 2.54
+                    },
+                    "last 15 games": {
+                        "3pm": 2.45
+                    },
+                    "last 30 games": {
+                        "3pm": 2.65
+                    }
+                },
+                "opp_def_rating": "The Memphis Grizzlies have a defensive rating of 107.6 this season."
+            }
+        },
+        {
+            "player": "desmond bane",
+            "espn": "https://www.espn.com/nba/player/_/id/4066320/desmond-bane",
+            "team": "memphis grizzlies",
+            "opp": "new orleans pelicans",
+            "prop": 2.5,
+            "prediction": {
+                "result": "over",
+                "certainty": 0.75,
+                "explanation": "Desmond Bane has a positive trend in his recent games, hitting 2.6 three-pointers per game over his last five contests. This current performance is slightly above the prop line of 2.5. The New Orleans Pelicans’ defensive rating of 118.8 indicates they are not particularly strong defensively, setting up a favorable scenario for Bane to continue his shooting trend. Additionally, the Pelicans allow an average of around 2.83 three-pointers throughout the season, suggesting a potential for Bane to hit over his mark. Considering all these factors, there is a higher likelihood for Bane to go over the given prop of 2.5 three-pointers."
+            },
+            "stats": {
+                "stats": {
+                    "home": {
+                        "min": "28.2",
+                        "3p%": "34.7",
+                        "3pt_made": "2.0",
+                        "3pt_attempted": "5.6"
+                    },
+                    "away": {
+                        "min": "27.7",
+                        "3p%": "35.8",
+                        "3pt_made": "2.1",
+                        "3pt_attempted": "5.8"
+                    }
+                },
+                "last_five_games": "Desmond Bane has hit 2.6 three-pointers per game in his last 5 games in his career.",
+                "opp_stats": {
+                    "season": {
+                        "3pm": 2.83
+                    },
+                    "last 7 games": {
+                        "3pm": 2.59
+                    },
+                    "last 15 games": {
+                        "3pm": 2.89
+                    },
+                    "last 30 games": {
+                        "3pm": 2.83
+                    }
+                },
+                "opp_def_rating": "The New Orleans Pelicans have a defensive rating of 118.8 this season."
+            }
+        },
+        {
+            "player": "ja morant",
+            "espn": "https://www.espn.com/nba/player/_/id/4279888/ja-morant",
+            "team": "memphis grizzlies",
+            "opp": "new orleans pelicans",
+            "prop": 1.5,
+            "prediction": {
+                "result": "over",
+                "certainty": 0.7,
+                "explanation": "Considering Ja Morant's recent improvement in 3-point shooting, having made an average of 1.8 threes per game in his last five outings, and the New Orleans Pelicans' relatively high defensive rating of 118.8, it's predicted that Morant will likely go over the 1.5 prop. Additionally, the Pelicans have allowed approximately 2.83 threes per game across multiple timeframes, suggesting a potential for players to exceed typical performance against them."
+            },
+            "stats": {
+                "stats": {
+                    "home": {
+                        "min": "28.1",
+                        "3p%": "30.3",
+                        "3pt_made": "1.5",
+                        "3pt_attempted": "4.9"
+                    },
+                    "away": {
+                        "min": "26.5",
+                        "3p%": "25.4",
+                        "3pt_made": "1.4",
+                        "3pt_attempted": "5.4"
+                    }
+                },
+                "last_five_games": "Ja Morant has drained 1.8 threes per game in his last 5 games in his career.",
+                "opp_stats": {
+                    "season": {
+                        "3pm": 2.83
+                    },
+                    "last 7 games": {
+                        "3pm": 2.59
+                    },
+                    "last 15 games": {
+                        "3pm": 2.89
+                    },
+                    "last 30 games": {
+                        "3pm": 2.83
+                    }
+                },
+                "opp_def_rating": "The New Orleans Pelicans have a defensive rating of 118.8 this season."
+            }
+        },
+        {
+            "player": "jaylen wells",
+            "espn": "https://www.espn.com/nba/player/_/id/5112087/jaylen-wells",
+            "team": "memphis grizzlies",
+            "opp": "new orleans pelicans",
+            "prop": 1.5,
+            "prediction": {
+                "result": "over",
+                "certainty": 0.75,
+                "explanation": "Jaylen Wells has been consistently making at least 2 three-pointers per game over his last five games, indicating a strong form in his shooting consistency. Both his home and away statistics show above-average 3PT% with successful attempts hovering around 2 threes per game, hence his current form aligns perfectly with hitting over the 1.5 prop. \n\nThe opponent, New Orleans Pelicans, although allowing an average of 2.83 threes during the season, have a weaker defensive rating of 118.8, suggesting that Wells might find more room than usual to exploit beyond the arc. Given these observations, there is a significant chance for Wells to make more than 1.5 three-pointers in his next game."
+            },
+            "stats": {
+                "stats": {
+                    "home": {
+                        "min": "24.5",
+                        "3p%": "39.3",
+                        "3pt_made": "1.8",
+                        "3pt_attempted": "4.5"
+                    },
+                    "away": {
+                        "min": "23.5",
+                        "3p%": "43.6",
+                        "3pt_made": "2.0",
+                        "3pt_attempted": "4.6"
+                    }
+                },
+                "last_five_games": "Jaylen Wells has sunk 2.0 threes per game in his last 5 games in his career.",
+                "opp_stats": {
+                    "season": {
+                        "3pm": 2.83
+                    },
+                    "last 7 games": {
+                        "3pm": 2.59
+                    },
+                    "last 15 games": {
+                        "3pm": 2.89
+                    },
+                    "last 30 games": {
+                        "3pm": 2.83
+                    }
+                },
+                "opp_def_rating": "The New Orleans Pelicans have a defensive rating of 118.8 this season."
+            }
+        },
+        {
+            "player": "dejounte murray",
+            "espn": "https://www.espn.com/nba/player/_/id/3907497/dejounte-murray",
+            "team": "new orleans pelicans",
+            "opp": "memphis grizzlies",
+            "prop": 1.5,
+            "prediction": {
+                "result": "under",
+                "certainty": 0.7,
+                "explanation": "Given Dejounte Murray's current form and the opponent's defensive strength, he is likely to go under the 1.5 3-point prop in the next game. Here's why:\n\n1. **Recent Performance**: Over his last five games, Murray has made an average of 1.4 3-pointers, slightly below the required 1.5 prop to go over.\n\n2. **Shooting Efficiency**: His shooting percentages both at home (26.8%) and away (27.5%) are relatively low, indicating that his efficiency from beyond the arc is not at a high level recently.\n\n3. **Opponent's Defensive Strength**: The Memphis Grizzlies have a solid defensive rating of 107.6, and they allow an average of around 2.54 to 2.65 3-pointers made per game in the recent stretches analyzed. This suggests that they can limit opponents from scoring effectively from the 3-point line.\n\nConsidering these factors, Dejounte Murray is predicted to go under the 1.5 prop for 3-pointers made, given the opponent's stout defense and his current shooting form."
+            },
+            "stats": {
+                "stats": {
+                    "home": {
+                        "min": "33.7",
+                        "3p%": "26.8",
+                        "3pt_made": "1.5",
+                        "3pt_attempted": "5.5"
+                    },
+                    "away": {
+                        "min": "34.0",
+                        "3p%": "27.5",
+                        "3pt_made": "1.6",
+                        "3pt_attempted": "5.7"
+                    }
+                },
+                "last_five_games": "Dejounte Murray has hit 1.4 threes per game in his last 5 games in his career.",
+                "opp_stats": {
+                    "season": {
+                        "3pm": 2.65
+                    },
+                    "last 7 games": {
+                        "3pm": 2.54
+                    },
+                    "last 15 games": {
+                        "3pm": 2.45
+                    },
+                    "last 30 games": {
+                        "3pm": 2.65
+                    }
+                },
+                "opp_def_rating": "The Memphis Grizzlies have a defensive rating of 107.6 this season."
+            }
+        },
+        {
+            "player": "jaren jackson jr.",
+            "espn": "https://www.espn.com/nba/player/_/id/4277961/jaren-jackson-jr",
+            "team": "memphis grizzlies",
+            "opp": "new orleans pelicans",
+            "prop": 1.5,
+            "prediction": {
+                "result": "under",
+                "certainty": 0.75,
+                "explanation": "Jaren Jackson Jr.'s recent performance indicates a downward trend, with only 1.2 three-pointers made per game over the last five games. Although at home he averages 1.8 threes, his form has dipped, and his away averages are even lower at 1.5. The New Orleans Pelicans, despite their overall high defensive rating, allow fewer threes comparatively, suggesting they could limit Jackson Jr's attempts. Given these factors, it's likely he'll fall under the 1.5 mark."
+            },
+            "stats": {
+                "stats": {
+                    "home": {
+                        "min": "27.9",
+                        "3p%": "35.0",
+                        "3pt_made": "1.8",
+                        "3pt_attempted": "5.1"
+                    },
+                    "away": {
+                        "min": "27.5",
+                        "3p%": "31.3",
+                        "3pt_made": "1.5",
+                        "3pt_attempted": "4.9"
+                    }
+                },
+                "last_five_games": "Jaren Jackson Jr. has sunk 1.2 three-pointers per game in his last 5 games in his career.",
+                "opp_stats": {
+                    "season": {
+                        "3pm": 2.83
+                    },
+                    "last 7 games": {
+                        "3pm": 2.59
+                    },
+                    "last 15 games": {
+                        "3pm": 2.89
+                    },
+                    "last 30 games": {
+                        "3pm": 2.83
+                    }
+                },
+                "opp_def_rating": "The New Orleans Pelicans have a defensive rating of 118.8 this season."
+            }
+        },
+        {
+            "player": "herbert jones",
+            "espn": "https://www.espn.com/nba/player/_/id/4277813/herbert-jones",
+            "team": "new orleans pelicans",
+            "opp": "memphis grizzlies",
+            "prop": 1.5,
+            "prediction": {
+                "result": "under",
+                "certainty": 0.7,
+                "explanation": "Herbert Jones has shown a tendency to score fewer 3-pointers when playing away, averaging only 1.0 3PT made with a lower 3P% of 27.3%. Though he has been slightly better over his past five games at 1.4 3PT made per game, he still falls short of the 1.5 prop mark. The Memphis Grizzlies, his upcoming opponents, have consistently limited opponents’ 3-point opportunities, shown by their opponent 3PM stats spanning 7 to 30 games and a commendable defensive rating of 107.6. Given Jones' shooting inconsistency and the Grizzlies' strong defense, it is reasonable to predict he will score under 1.5 3-pointers in the next game."
+            },
+            "stats": {
+                "stats": {
+                    "home": {
+                        "min": "33.0",
+                        "3p%": "30.0",
+                        "3pt_made": "1.3",
+                        "3pt_attempted": "4.2"
+                    },
+                    "away": {
+                        "min": "34.8",
+                        "3p%": "27.3",
+                        "3pt_made": "1.0",
+                        "3pt_attempted": "3.7"
+                    }
+                },
+                "last_five_games": "Herbert Jones has drained 1.4 three-pointers per game in his last 5 games in his career.",
+                "opp_stats": {
+                    "season": {
+                        "3pm": 2.65
+                    },
+                    "last 7 games": {
+                        "3pm": 2.54
+                    },
+                    "last 15 games": {
+                        "3pm": 2.45
+                    },
+                    "last 30 games": {
+                        "3pm": 2.65
+                    }
+                },
+                "opp_def_rating": "The Memphis Grizzlies have a defensive rating of 107.6 this season."
+            }
+        },
+        {
+            "player": "donovan mitchell",
+            "espn": "https://www.espn.com/nba/player/_/id/3908809/donovan-mitchell",
+            "team": "cleveland cavaliers",
+            "opp": "denver nuggets",
+            "prop": 3.5,
+            "prediction": {
+                "result": "over",
+                "certainty": 0.7,
+                "explanation": "Donovan Mitchell averages more than 3.5 three-pointers per game both at home (3.7) and away (3.8). Recently, he has made 3.6 three-pointers per game in his last five games, indicating consistent shooting form. The Denver Nuggets have shown a moderate weakness in their perimeter defense, allowing 2.72 three-pointers on average this season and 2.82 in the last 15 games. Given Mitchell's strong recent performance and the opponent's vulnerabilities, predicting over 3.5 seems more likely than under."
+            },
+            "stats": {
+                "stats": {
+                    "home": {
+                        "min": "31.7",
+                        "3p%": "40.8",
+                        "3pt_made": "3.7",
+                        "3pt_attempted": "9.1"
+                    },
+                    "away": {
+                        "min": "30.5",
+                        "3p%": "43.0",
+                        "3pt_made": "3.8",
+                        "3pt_attempted": "8.8"
+                    }
+                },
+                "last_five_games": "Donovan Mitchell has made 3.6 three-pointers per game in his last 5 games in his career.",
+                "opp_stats": {
+                    "season": {
+                        "3pm": 2.72
+                    },
+                    "last 7 games": {
+                        "3pm": 2.44
+                    },
+                    "last 15 games": {
+                        "3pm": 2.82
+                    },
+                    "last 30 games": {
+                        "3pm": 2.72
+                    }
+                },
+                "opp_def_rating": "The Denver Nuggets have a defensive rating of 113.8 this season."
+            }
+        },
+        {
+            "player": "darius garland",
+            "espn": "https://www.espn.com/nba/player/_/id/4396907/darius-garland",
+            "team": "cleveland cavaliers",
+            "opp": "denver nuggets",
+            "prop": 2.5,
+            "prediction": {
+                "result": "over",
+                "certainty": 0.85,
+                "explanation": "Darius Garland is statistically positioned to exceed his 2.5 three-pointers made prop against the Denver Nuggets. Key indicators are favorable:\n\n1. **Recent Form**: His average of 3.6 three-pointers made in the last five games demonstrates an upward trend in shooting performance, which exceeds the current prop line.\n\n2. **Consistent Performance**: Whether playing at home or away, Garland has consistently surpassed the 2.5 threshold with averages of 3.0 (home) and 3.5 (away) three-pointers made this season.\n\n3. **Opponent's Defense**: Despite the Nuggets' moderate defensive rating of 113.8, their recent trend shows they allow approximately 2.44 to 2.82 three-pointers per player in various spans, aligning well with Garland's capabilities.\n\nConsidering these factors, Garland's strong shooting performance both recently and historically suggests a high likelihood of going over the given prop."
+            },
+            "stats": {
+                "stats": {
+                    "home": {
+                        "min": "30.0",
+                        "3p%": "44.4",
+                        "3pt_made": "3.0",
+                        "3pt_attempted": "6.8"
+                    },
+                    "away": {
+                        "min": "29.9",
+                        "3p%": "47.6",
+                        "3pt_made": "3.5",
+                        "3pt_attempted": "7.4"
+                    }
+                },
+                "last_five_games": "Darius Garland has hit 3.6 three-pointers per game in his last 5 games in his career.",
+                "opp_stats": {
+                    "season": {
+                        "3pm": 2.72
+                    },
+                    "last 7 games": {
+                        "3pm": 2.44
+                    },
+                    "last 15 games": {
+                        "3pm": 2.82
+                    },
+                    "last 30 games": {
+                        "3pm": 2.72
+                    }
+                },
+                "opp_def_rating": "The Denver Nuggets have a defensive rating of 113.8 this season."
+            }
+        },
+        {
+            "player": "michael porter jr.",
+            "espn": "https://www.espn.com/nba/player/_/id/4278104/michael-porter-jr",
+            "team": "denver nuggets",
+            "opp": "cleveland cavaliers",
+            "prop": 2.5,
+            "prediction": {
+                "result": "under",
+                "certainty": 0.65,
+                "explanation": "Michael Porter Jr.'s upcoming game against the Cleveland Cavaliers presents a challenge for him to make more than 2.5 three-pointers. Here's why:\n\n1. **Home/Away Performance:**\n   - **Away Games**: He averages 2.8 threes per game with a 40.2% shooting percentage, indicating better performance on the road. \n   - The game location can influence his shooting, but not significantly enough over recent performances.\n\n2. **Recent Trends:**\n   - Over the past five games, Porter is slightly under the prop at 2.2 made threes per game, suggesting he's not in peak form recently. \n\n3. **Opponent's Defensive Profile:**\n   - **Cleveland Cavaliers' Defense**: With a defensive rating of 110.2, the Cavaliers are relatively staunch defensively.\n   - They allow around 2.7 three-pointers per game, meaning they do a good job of limiting opponents' success from beyond the arc.\n\n4. **Overall Assessment:**\n   - While he performs better in away settings, recent trends and the Cavalier's defensive consistency present a considerable challenge. Unless his attempts increase significantly, surpassing the 2.5 mark seems less likely.\n\nGiven this data, Michael Porter Jr. is likely to go under 2.5 three-pointers in this matchup."
+            },
+            "stats": {
+                "stats": {
+                    "home": {
+                        "min": "34.5",
+                        "3p%": "38.7",
+                        "3pt_made": "2.3",
+                        "3pt_attempted": "6.0"
+                    },
+                    "away": {
+                        "min": "34.1",
+                        "3p%": "40.2",
+                        "3pt_made": "2.8",
+                        "3pt_attempted": "6.8"
+                    }
+                },
+                "last_five_games": "Michael Porter Jr. has 2.2 threes per game in his last 5 games in his career.",
+                "opp_stats": {
+                    "season": {
+                        "3pm": 2.72
+                    },
+                    "last 7 games": {
+                        "3pm": 2.71
+                    },
+                    "last 15 games": {
+                        "3pm": 2.64
+                    },
+                    "last 30 games": {
+                        "3pm": 2.72
+                    }
+                },
+                "opp_def_rating": "The Cleveland Cavaliers have a defensive rating of 110.2 this season."
+            }
+        },
+        {
+            "player": "jamal murray",
+            "espn": "https://www.espn.com/nba/player/_/id/3936299/jamal-murray",
+            "team": "denver nuggets",
+            "opp": "cleveland cavaliers",
+            "prop": 2.5,
+            "prediction": {
+                "result": "under",
+                "certainty": 0.7,
+                "explanation": "Jamal Murray is set against a strong defensive team, the Cleveland Cavaliers, with their defensive rating of 110.2 indicating they are among the better defenses in the league. Considering his recent average of 2.4 3-pointers made in the last five games, and a general average of 2.4 when playing away (where he faces the Cavs), it's a close call. However, opposing teams have allowed approximately 2.65 to 2.72 3-pointers over various spans, which is slightly above the prop. \n\nTaking into account the Cavs' defensive consistency coupled with the slight dip in Murray's home 3-point percentage and 3-point makes, it leans towards Murray making slightly fewer than 2.5 3-pointers in this upcoming game. Thus, predicting 'under' is a somewhat safer bet, backed by data trends and the opponent's defense. However, given the close stats, the certainty is moderate at 70%."
+            },
+            "stats": {
+                "stats": {
+                    "home": {
+                        "min": "36.4",
+                        "3p%": "34.9",
+                        "3pt_made": "2.0",
+                        "3pt_attempted": "5.9"
+                    },
+                    "away": {
+                        "min": "35.5",
+                        "3p%": "37.3",
+                        "3pt_made": "2.4",
+                        "3pt_attempted": "6.4"
+                    }
+                },
+                "last_five_games": "Jamal Murray has drained 2.4 threes per game in his last 5 games in his career.",
+                "opp_stats": {
+                    "season": {
+                        "3pm": 2.72
+                    },
+                    "last 7 games": {
+                        "3pm": 2.71
+                    },
+                    "last 15 games": {
+                        "3pm": 2.64
+                    },
+                    "last 30 games": {
+                        "3pm": 2.72
+                    }
+                },
+                "opp_def_rating": "The Cleveland Cavaliers have a defensive rating of 110.2 this season."
+            }
+        },
+        {
+            "player": "nikola jokic",
+            "espn": "https://www.espn.com/nba/player/_/id/3112335/nikola-jokic",
+            "team": "denver nuggets",
+            "opp": "cleveland cavaliers",
+            "prop": 1.5,
+            "prediction": {
+                "result": "over",
+                "certainty": 0.85,
+                "explanation": "Nikola Jokić has been performing consistently well, particularly in his recent games, where he has averaged 2.6 three-pointers made. Both at home and away, Jokić's 3-point shooting has been above the current prop of 1.5, with percentages of 50% and 57.7% respectively. His opponent, the Cleveland Cavaliers, although sporting a reasonable defensive rating of 110.2, have been allowing similar averages of 3-pointers to opponents (2.72, 2.71) over the season and the recent games. Given these factors, Jokić's chances of achieving over the 1.5 prop in his upcoming game appear highly favorable."
+            },
+            "stats": {
+                "stats": {
+                    "home": {
+                        "min": "37.2",
+                        "3p%": "50.0",
+                        "3pt_made": "2.3",
+                        "3pt_attempted": "4.6"
+                    },
+                    "away": {
+                        "min": "35.7",
+                        "3p%": "57.7",
+                        "3pt_made": "2.5",
+                        "3pt_attempted": "4.3"
+                    }
+                },
+                "last_five_games": "Nikola Jokić has drained 2.6 three-pointers per game in his last 5 games in his career.",
+                "opp_stats": {
+                    "season": {
+                        "3pm": 2.72
+                    },
+                    "last 7 games": {
+                        "3pm": 2.71
+                    },
+                    "last 15 games": {
+                        "3pm": 2.64
+                    },
+                    "last 30 games": {
+                        "3pm": 2.72
+                    }
+                },
+                "opp_def_rating": "The Cleveland Cavaliers have a defensive rating of 110.2 this season."
+            }
+        },
+        {
+            "player": "russell westbrook",
+            "espn": "https://www.espn.com/nba/player/_/id/3468/russell-westbrook",
+            "team": "denver nuggets",
+            "opp": "cleveland cavaliers",
+            "prop": 1.5,
+            "prediction": {
+                "result": "under",
+                "certainty": 0.8,
+                "explanation": "Russell Westbrook has a prop of 1.5 three-pointers. Although he plays slightly better when away with a 35.3% success rate beyond the arc, his average 3-pointers made stands at 1.5 on the road. However, recent form shows a decline, with only 1.0 made in his last five games, indicating a downtrend.\n\nAdditionally, the Cleveland Cavaliers maintain a solid defensive rating at 110.2 and historically allow an average of around 2.7 3-pointers regardless of their recent period. This combined with Westbrook's current trend suggests he might struggle to consistently hit the 1.5 threshold in the upcoming game.\n\nThus, based on his recent performance and the defensive strength of his opponent, it is more probable that he will go under the 1.5 prop for 3-pointers made."
+            },
+            "stats": {
+                "stats": {
+                    "home": {
+                        "min": "25.9",
+                        "3p%": "32.0",
+                        "3pt_made": "1.2",
+                        "3pt_attempted": "3.7"
+                    },
+                    "away": {
+                        "min": "25.5",
+                        "3p%": "35.3",
+                        "3pt_made": "1.5",
+                        "3pt_attempted": "4.3"
+                    }
+                },
+                "last_five_games": "Russell Westbrook has made 1.0 three per game in his last 5 games in his career.",
+                "opp_stats": {
+                    "season": {
+                        "3pm": 2.72
+                    },
+                    "last 7 games": {
+                        "3pm": 2.71
+                    },
+                    "last 15 games": {
+                        "3pm": 2.64
+                    },
+                    "last 30 games": {
+                        "3pm": 2.72
+                    }
+                },
+                "opp_def_rating": "The Cleveland Cavaliers have a defensive rating of 110.2 this season."
+            }
+        },
+        {
+            "player": "klay thompson",
+            "espn": "https://www.espn.com/nba/player/_/id/6475/klay-thompson",
+            "team": "dallas mavericks",
+            "opp": "phoenix suns",
+            "prop": 3.5,
+            "prediction": {
+                "result": "over",
+                "certainty": 0.75,
+                "explanation": "Based on Klay Thompson's recent performance and the Phoenix Suns’ defensive stats, there’s a strong indication that Klay will go over the 3.5 prop for 3-pointers made in the upcoming game. \n\n**Analysis Highlights:**\n1. **Recent Form:** Klay has been hitting 4.0 3-pointers on average in his last five games, showcasing a hot streak.\n2. **Home/Away Splits:** While there’s a slightly lower average (2.9 three-pointers) when playing away, his recent consistency adds confidence.\n3. **Opponent's Defensive Performance:** The Phoenix Suns have a defensive rating of 117.1, indicating a less stringent defense.\n4. **Opponent's Recent Allowance:** They have been allowing an average of 3.08 threes per game in their last 7 games.\n\nOverall, Klay Thompson's current form coupled with the opponent's defense trends suggests a higher likelihood of surpassing his 3.5 3-pointer mark."
+            },
+            "stats": {
+                "stats": {
+                    "home": {
+                        "min": "27.3",
+                        "3p%": "39.1",
+                        "3pt_made": "3.1",
+                        "3pt_attempted": "8.0"
+                    },
+                    "away": {
+                        "min": "26.4",
+                        "3p%": "38.1",
+                        "3pt_made": "2.9",
+                        "3pt_attempted": "7.5"
+                    }
+                },
+                "last_five_games": "Klay Thompson has drained 4.0 threes per game in his last 5 games in his career.",
+                "opp_stats": {
+                    "season": {
+                        "3pm": 2.73
+                    },
+                    "last 7 games": {
+                        "3pm": 3.08
+                    },
+                    "last 15 games": {
+                        "3pm": 2.84
+                    },
+                    "last 30 games": {
+                        "3pm": 2.73
+                    }
+                },
+                "opp_def_rating": "The Phoenix Suns have a defensive rating of 117.1 this season."
+            }
+        },
+        {
+            "player": "kyrie irving",
+            "espn": "https://www.espn.com/nba/player/_/id/6442/kyrie-irving",
+            "team": "dallas mavericks",
+            "opp": "phoenix suns",
+            "prop": 3.5,
+            "prediction": {
+                "result": "under",
+                "certainty": 0.75,
+                "explanation": "Kyrie Irving's current average of 2.6 3-pointers in his last 5 games is below the 3.5 prop requirement. \n\nHis home and away stats further corroborate this trend. At home, he averages 3.1 3-pointers per game, while on the road, it's even lower at 2.6.\n\nThe Phoenix Suns, despite their high defensive rating of 117.1, have allowed an average of just 2.73 3-pointers per game over the season, and a slightly increased 3.08 in the last 7 games, which still provides a challenging context for surpassing the prop.\n\nGiven Irving's recent form and the opponent's decent defense against 3-pointers, it is likelier he will come under the 3.5 prop."
+            },
+            "stats": {
+                "stats": {
+                    "home": {
+                        "min": "35.3",
+                        "3p%": "44.4",
+                        "3pt_made": "3.1",
+                        "3pt_attempted": "6.9"
+                    },
+                    "away": {
+                        "min": "33.7",
+                        "3p%": "40.0",
+                        "3pt_made": "2.6",
+                        "3pt_attempted": "6.4"
+                    }
+                },
+                "last_five_games": "Kyrie Irving has averaged 2.6 three-pointers per game in his last 5 games in his career.",
+                "opp_stats": {
+                    "season": {
+                        "3pm": 2.73
+                    },
+                    "last 7 games": {
+                        "3pm": 3.08
+                    },
+                    "last 15 games": {
+                        "3pm": 2.84
+                    },
+                    "last 30 games": {
+                        "3pm": 2.73
+                    }
+                },
+                "opp_def_rating": "The Phoenix Suns have a defensive rating of 117.1 this season."
+            }
+        },
+        {
+            "player": "tyus jones",
+            "espn": "https://www.espn.com/nba/player/_/id/3135046/tyus-jones",
+            "team": "phoenix suns",
+            "opp": "dallas mavericks",
+            "prop": 2.5,
+            "prediction": {
+                "result": "under",
+                "certainty": 0.75,
+                "explanation": "Based on the data, Tyus Jones has averaged slightly below the prop threshold with 2.4 3-pointers made in away games and 2.3 at home. His recent form in the last five games also shows a consistent average of 2.2, which is under the 2.5 prop mark.\n\nAdditionally, the opponent, the Dallas Mavericks, have shown improved resistance against 3-point shooters, allowing just 2.61 3-pointers per player over various time spans. Their defensive rating of 112.1 indicates a reasonably effective defense.\n\nConsidering Jones's recent form and the defensive capabilities of the Mavericks, the prediction leans towards 'under' for his 3-pointer prop."
+            },
+            "stats": {
+                "stats": {
+                    "home": {
+                        "min": "31.6",
+                        "3p%": "44.4",
+                        "3pt_made": "2.3",
+                        "3pt_attempted": "5.3"
+                    },
+                    "away": {
+                        "min": "31.7",
+                        "3p%": "48.1",
+                        "3pt_made": "2.4",
+                        "3pt_attempted": "4.9"
+                    }
+                },
+                "last_five_games": "Tyus Jones has drained 2.2 three-pointers per game in his last 5 games in his career.",
+                "opp_stats": {
+                    "season": {
+                        "3pm": 2.61
+                    },
+                    "last 7 games": {
+                        "3pm": 3.08
+                    },
+                    "last 15 games": {
+                        "3pm": 2.72
+                    },
+                    "last 30 games": {
+                        "3pm": 2.61
+                    }
+                },
+                "opp_def_rating": "The Dallas Mavericks have a defensive rating of 112.1 this season."
+            }
+        },
+        {
+            "player": "kevin durant",
+            "espn": "https://www.espn.com/nba/player/_/id/3202/kevin-durant",
+            "team": "phoenix suns",
+            "opp": "dallas mavericks",
+            "prop": 2.5,
+            "prediction": {
+                "result": "under",
+                "certainty": 0.75,
+                "explanation": "Examining Kevin Durant's recent performance, he has averaged 2.0 3-pointers made across his last five games, indicating a downward trend. Although his season averages at home and away suggest he can meet the prop of 2.5, the recent dip in his 3-point makes presents a risk.\n\nAdditionally, the Dallas Mavericks, with a defensive rating of 112.1, demonstrate moderate defense. While they recently allowed 3.08 3PM over the last seven games, this may be skewed by particular match-up variances and not necessarily applicable to a player of Durant's caliber who faces significant defensive pressure.\n\nGiven the blend of recent performance and the opponent's situational defenses, betting on Durant to go 'under' aligns with the observed statistics and the situational context."
+            },
+            "stats": {
+                "stats": {
+                    "home": {
+                        "min": "35.7",
+                        "3p%": "40.9",
+                        "3pt_made": "2.5",
+                        "3pt_attempted": "6.1"
+                    },
+                    "away": {
+                        "min": "35.1",
+                        "3p%": "38.2",
+                        "3pt_made": "2.6",
+                        "3pt_attempted": "6.8"
+                    }
+                },
+                "last_five_games": "Kevin Durant has sunk 2.0 threes per game in his last 5 games in his career.",
+                "opp_stats": {
+                    "season": {
+                        "3pm": 2.61
+                    },
+                    "last 7 games": {
+                        "3pm": 3.08
+                    },
+                    "last 15 games": {
+                        "3pm": 2.72
+                    },
+                    "last 30 games": {
+                        "3pm": 2.61
+                    }
+                },
+                "opp_def_rating": "The Dallas Mavericks have a defensive rating of 112.1 this season."
+            }
+        },
+        {
+            "player": "bradley beal",
+            "espn": "https://www.espn.com/nba/player/_/id/6580/bradley-beal",
+            "team": "phoenix suns",
+            "opp": "dallas mavericks",
+            "prop": 2.5,
+            "prediction": {
+                "result": "over",
+                "certainty": 0.75,
+                "explanation": "Bradley Beal has demonstrated an upward trend in his 3-point shooting over his last five games, exceeding his typical averages with 2.8 made three-pointers per game. Given his current momentum on the court, he is likely to maintain this level of performance. \n\nWhile Beal averages slightly below the 2.5 prop mark both home and away (2.3 at home, 2.2 away), his recent form suggests potential continued improvement. Additionally, the Dallas Mavericks' defense has shown vulnerability to 3-pointers recently, allowing an average of 3.08 threes in their last seven games, hinting at defensive lapses that Beal could exploit.\n\nThus, there's a reasonable probability, backed by Beal's trending stats and the Mavericks' recent defensive performances, that he could go over the 2.5 prop mark in his upcoming game."
+            },
+            "stats": {
+                "stats": {
+                    "home": {
+                        "min": "33.9",
+                        "3p%": "40.0",
+                        "3pt_made": "2.3",
+                        "3pt_attempted": "5.8"
+                    },
+                    "away": {
+                        "min": "33.4",
+                        "3p%": "38.7",
+                        "3pt_made": "2.2",
+                        "3pt_attempted": "5.6"
+                    }
+                },
+                "last_five_games": "Bradley Beal has drained 2.8 threes per game in his last 5 games in his career.",
+                "opp_stats": {
+                    "season": {
+                        "3pm": 2.61
+                    },
+                    "last 7 games": {
+                        "3pm": 3.08
+                    },
+                    "last 15 games": {
+                        "3pm": 2.72
+                    },
+                    "last 30 games": {
+                        "3pm": 2.61
+                    }
+                },
+                "opp_def_rating": "The Dallas Mavericks have a defensive rating of 112.1 this season."
+            }
+        },
+        {
+            "player": "quentin grimes",
+            "espn": "https://www.espn.com/nba/player/_/id/4397014/quentin-grimes",
+            "team": "dallas mavericks",
+            "opp": "phoenix suns",
+            "prop": 1.5,
+            "prediction": {
+                "result": "over",
+                "certainty": 0.75,
+                "explanation": "Given Quentin Grimes's recent performance of hitting 2.0 threes per game in his last five games and his home/away split indicating slightly better performance at home, the prop is set at 1.5 threes made. Although his 3-point percentage is slightly reduced in away games (35.7% vs. 41.3% at home), Phoenix's defensive rating of 117.1 suggests they are below average defensively.\n\nFurthermore, the Suns have allowed an average of around 3 three-pointers in their recent games, indicating some vulnerability on the perimeter. Taking into account his recent form, past tendencies, and the opponent's current defensive weaknesses, Grimes is likely to surpass the 1.5 prop if he maintains his shooting volume."
+            },
+            "stats": {
+                "stats": {
+                    "home": {
+                        "min": "20.8",
+                        "3p%": "41.3",
+                        "3pt_made": "1.5",
+                        "3pt_attempted": "3.7"
+                    },
+                    "away": {
+                        "min": "18.7",
+                        "3p%": "35.7",
+                        "3pt_made": "1.0",
+                        "3pt_attempted": "2.8"
+                    }
+                },
+                "last_five_games": "Quentin Grimes has 2.0 threes per game in his last 5 games in his career.",
+                "opp_stats": {
+                    "season": {
+                        "3pm": 2.73
+                    },
+                    "last 7 games": {
+                        "3pm": 3.08
+                    },
+                    "last 15 games": {
+                        "3pm": 2.84
+                    },
+                    "last 30 games": {
+                        "3pm": 2.73
+                    }
+                },
+                "opp_def_rating": "The Phoenix Suns have a defensive rating of 117.1 this season."
+            }
+        },
+        {
+            "player": "pj washington",
+            "espn": "https://www.espn.com/nba/player/_/id/4278078/pj-washington",
+            "team": "dallas mavericks",
+            "opp": "phoenix suns",
+            "prop": 1.5,
+            "prediction": {
+                "result": "over",
+                "certainty": 0.7,
+                "explanation": "1. **Player's Prop and Recent Performance:**\n   - PJ Washington has been averaging exactly 1.5 3-pointers made at home, matching the prop line.\n   - On the road, his average is slightly lower at 1.4 3-pointers.\n\n2. **Opponent's Defensive Context:**\n   - The Phoenix Suns have a high defensive rating of 117.1, suggesting they may struggle defensively, particularly from the perimeter.\n   - Recent performance metrics indicate a slight trend towards allowing more 3-pointers in the last 7 games (3.08) compared to the season-long average (2.73), which favors shooters like Washington.\n\n3. **Other Considerations:**\n   - Washington's comfortable minutes (32.9 home, 31.8 away) imply ample court time to meet this target.\n   - His recent form, especially if heading towards a team allowing higher 3-pointers, suggests an opportunity for Washington to exceed the prop.\n\n**Conclusion:** The combination of Washington's consistent shooting performance and Phoenix's less-than-tight perimeter defense supports a prediction of PJ Washington going over the 1.5 line in the upcoming game."
+            },
+            "stats": {
+                "stats": {
+                    "home": {
+                        "min": "32.9",
+                        "3p%": "38.9",
+                        "3pt_made": "1.5",
+                        "3pt_attempted": "4.0"
+                    },
+                    "away": {
+                        "min": "31.8",
+                        "3p%": "37.5",
+                        "3pt_made": "1.4",
+                        "3pt_attempted": "3.7"
+                    }
+                },
+                "last_five_games": "The Washington Wizards have averaged 15.6 threes per game in their last 5 games all-time.",
+                "opp_stats": {
+                    "season": {
+                        "3pm": 2.73
+                    },
+                    "last 7 games": {
+                        "3pm": 3.08
+                    },
+                    "last 15 games": {
+                        "3pm": 2.84
+                    },
+                    "last 30 games": {
+                        "3pm": 2.73
+                    }
+                },
+                "opp_def_rating": "The Phoenix Suns have a defensive rating of 117.1 this season."
+            }
+        }
+    ],
+    "message": "Success"
+}
